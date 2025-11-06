@@ -1,0 +1,8 @@
+ c_exportacion |                                      descripcion                                      
+---------------+---------------------------------------------------------------------------------------
+             1 | No aplica
+             2 | Definitiva con clave A1
+             3 | Temporal
+             4 | Definitiva con clave distinta a A1 o cuando no existe enajenación en términos del CFF
+(4 rows)
+

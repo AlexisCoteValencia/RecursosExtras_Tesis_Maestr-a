@@ -1,0 +1,6 @@
+ c_metodopago |           descripcion            
+--------------+----------------------------------
+ PUE          | Pago en una sola exhibición
+ PPD          | Pago en parcialidades o diferido
+(2 rows)
+

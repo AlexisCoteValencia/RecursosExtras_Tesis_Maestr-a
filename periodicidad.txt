@@ -1,0 +1,9 @@
+ c_periodicidad | descripcion 
+----------------+-------------
+              1 | Diario
+              2 | Semanal
+              3 | Quincenal
+              4 | Mensual
+              5 | Bimestral
+(5 rows)
+

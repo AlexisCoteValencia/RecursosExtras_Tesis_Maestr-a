@@ -1,0 +1,7 @@
+ c_tipofactor 
+--------------
+ Tasa
+ Cuota
+ Exento
+(3 rows)
+

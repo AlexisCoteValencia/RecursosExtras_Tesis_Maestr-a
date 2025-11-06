@@ -1,0 +1,26 @@
+ c_formapago |             descripcion             | bancarizado | numeroopera 
+-------------+-------------------------------------+-------------+-------------
+           1 | Efectivo                            | No          | Opcional
+           2 | Cheque nominativo                   | Sí          | Opcional
+           3 | Transferencia electrónica de fondos | Sí          | Opcional
+           4 | Tarjeta de crédito                  | Sí          | Opcional
+           5 | Monedero electrónico                | Sí          | Opcional
+           6 | Dinero electrónico                  | Sí          | Opcional
+           8 | Vales de despensa                   | No          | Opcional
+          12 | Dación en pago                      | No          | Opcional
+          13 | Pago por subrogación                | No          | Opcional
+          14 | Pago por consignación               | No          | Opcional
+          15 | Condonación                         | No          | Opcional
+          17 | Compensación                        | No          | Opcional
+          23 | Novación                            | No          | Opcional
+          24 | Confusión                           | No          | Opcional
+          25 | Remisión de deuda                   | No          | Opcional
+          26 | Prescripción o caducidad            | No          | Opcional
+          27 | A satisfacción del acreedor         | No          | Opcional
+          28 | Tarjeta de débito                   | Sí          | Opcional
+          29 | Tarjeta de servicios                | Sí          | Opcional
+          30 | Aplicación de anticipos             | No          | Opcional
+          31 | Intermediario pagos                 | No          | Opcional
+          99 | Por definir                         | Opcional    | Opcional
+(22 rows)
+
