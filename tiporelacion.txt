@@ -1,11 +1,11 @@
- c_tiporelacion |                        descripcion                         
-----------------+------------------------------------------------------------
-              1 | Nota de crédito de los documentos relacionados
-              2 | Nota de débito de los documentos relacionados
-              3 | Devolución de mercancía sobre facturas o traslados previos
-              4 | Sustitución de los CFDI previos
-              5 | Traslados de mercancías facturados previamente
-              6 | Factura generada por los traslados previos
-              7 | CFDI por aplicación de anticipo
+ c_tiporelacion |                        descripcion                         |         ini         | fin 
+----------------+------------------------------------------------------------+---------------------+-----
+ 1              | Nota de crédito de los documentos relacionados             | 2022-01-01 00:00:00 | 
+ 2              | Nota de débito de los documentos relacionados              | 2022-01-01 00:00:00 | 
+ 3              | Devolución de mercancía sobre facturas o traslados previos | 2022-01-01 00:00:00 | 
+ 4              | Sustitución de los CFDI previos                            | 2022-01-01 00:00:00 | 
+ 5              | Traslados de mercancías facturados previamente             | 2022-01-01 00:00:00 | 
+ 6              | Factura generada por los traslados previos                 | 2022-01-01 00:00:00 | 
+ 7              | CFDI por aplicación de anticipo                            | 2022-01-01 00:00:00 | 
 (7 rows)
 

@@ -1,54 +1,54 @@
- c_aduana |                                    descripcion                                    
-----------+-----------------------------------------------------------------------------------
-        1 | ACAPULCO, ACAPULCO DE JUAREZ, GUERRERO.
-        2 | AGUA PRIETA, AGUA PRIETA, SONORA.
-        5 | SUBTENIENTE LOPEZ, SUBTENIENTE LOPEZ, QUINTANA ROO.
-        6 | CIUDAD DEL CARMEN, CIUDAD DEL CARMEN, CAMPECHE.
-        7 | CIUDAD JUAREZ, CIUDAD JUAREZ, CHIHUAHUA.
-        8 | COATZACOALCOS, COATZACOALCOS, VERACRUZ.
-       11 | ENSENADA, ENSENADA, BAJA CALIFORNIA.
-       12 | GUAYMAS, GUAYMAS, SONORA.
-       14 | LA PAZ, LA PAZ, BAJA CALIFORNIA SUR.
-       16 | MANZANILLO, MANZANILLO, COLIMA.
-       17 | MATAMOROS, MATAMOROS, TAMAULIPAS.
-       18 | MAZATLAN, MAZATLAN, SINALOA.
-       19 | MEXICALI, MEXICALI, BAJA CALIFORNIA.
-       20 | MEXICO, DISTRITO FEDERAL.
-       22 | NACO, NACO, SONORA.
-       23 | NOGALES, NOGALES, SONORA.
-       24 | NUEVO LAREDO, NUEVO LAREDO, TAMAULIPAS.
-       25 | OJINAGA, OJINAGA, CHIHUAHUA.
-       26 | PUERTO PALOMAS, PUERTO PALOMAS, CHIHUAHUA.
-       27 | PIEDRAS NEGRAS, PIEDRAS NEGRAS, COAHUILA.
-       28 | PROGRESO, PROGRESO, YUCATAN.
-       30 | CIUDAD REYNOSA, CIUDAD REYNOSA, TAMAULIPAS.
-       31 | SALINA CRUZ, SALINA CRUZ, OAXACA.
-       33 | SAN LUIS RIO COLORADO, SAN LUIS RIO COLORADO, SONORA.
-       34 | CIUDAD MIGUEL ALEMAN, CIUDAD MIGUEL ALEMAN, TAMAULIPAS.
-       37 | CIUDAD HIDALGO, CIUDAD HIDALGO, CHIAPAS.
-       38 | TAMPICO, TAMPICO, TAMAULIPAS.
-       39 | TECATE, TECATE, BAJA CALIFORNIA.
-       40 | TIJUANA, TIJUANA, BAJA CALIFORNIA.
-       42 | TUXPAN, TUXPAN DE RODRIGUEZ CANO, VERACRUZ.
-       43 | VERACRUZ, VERACRUZ, VERACRUZ.
-       44 | CIUDAD ACUÑA, CIUDAD ACUÑA, COAHUILA.
-       46 | TORREON, TORREON, COAHUILA.
-       47 | AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO,
-       48 | GUADALAJARA, TLACOMULCO DE ZUÑIGA, JALISCO.
-       50 | SONOYTA, SONOYTA, SONORA.
-       51 | LAZARO CARDENAS, LAZARO CARDENAS, MICHOACAN.
-       52 | MONTERREY, GENERAL MARIANO ESCOBEDO, NUEVO LEON.
-       53 | CANCUN, CANCUN, QUINTANA ROO.
-       64 | QUERÉTARO, EL MARQUÉS Y COLON, QUERÉTARO.
-       65 | TOLUCA, TOLUCA, ESTADO DE MEXICO.
-       67 | CHIHUAHUA, CHIHUAHUA, CHIHUAHUA.
-       73 | AGUASCALIENTES, AGUASCALIENTES, AGUASCALIENTES.
-       75 | PUEBLA, HEROICA PUEBLA DE ZARAGOZA, PUEBLA.
-       80 | COLOMBIA, COLOMBIA, NUEVO LEON.
-       81 | ALTAMIRA, ALTAMIRA, TAMAULIPAS.
-       82 | CIUDAD CAMARGO, CIUDAD CAMARGO, TAMAULIPAS.
-       83 | DOS BOCAS, PARAISO, TABASCO.
-       84 | GUANAJUATO, SILAO, GUANAJUATO.
-       85 | AEROPUERTO INTERNACIONAL FELIPE ÁNGELES, SANTA LUCÍA, ZUMPANGO, ESTADO DE MÉXICO.
+ c_aduana |                                    descripcion                                    |         ini         | fin 
+----------+-----------------------------------------------------------------------------------+---------------------+-----
+ 01       | ACAPULCO, ACAPULCO DE JUAREZ, GUERRERO.                                           | 2022-01-01 00:00:00 | 
+ 02       | AGUA PRIETA, AGUA PRIETA, SONORA.                                                 | 2022-01-01 00:00:00 | 
+ 05       | SUBTENIENTE LOPEZ, SUBTENIENTE LOPEZ, QUINTANA ROO.                               | 2022-01-01 00:00:00 | 
+ 06       | CIUDAD DEL CARMEN, CIUDAD DEL CARMEN, CAMPECHE.                                   | 2022-01-01 00:00:00 | 
+ 07       | CIUDAD JUAREZ, CIUDAD JUAREZ, CHIHUAHUA.                                          | 2022-01-01 00:00:00 | 
+ 08       | COATZACOALCOS, COATZACOALCOS, VERACRUZ.                                           | 2022-01-01 00:00:00 | 
+ 11       | ENSENADA, ENSENADA, BAJA CALIFORNIA.                                              | 2022-01-01 00:00:00 | 
+ 12       | GUAYMAS, GUAYMAS, SONORA.                                                         | 2022-01-01 00:00:00 | 
+ 14       | LA PAZ, LA PAZ, BAJA CALIFORNIA SUR.                                              | 2022-01-01 00:00:00 | 
+ 16       | MANZANILLO, MANZANILLO, COLIMA.                                                   | 2022-01-01 00:00:00 | 
+ 17       | MATAMOROS, MATAMOROS, TAMAULIPAS.                                                 | 2022-01-01 00:00:00 | 
+ 18       | MAZATLAN, MAZATLAN, SINALOA.                                                      | 2022-01-01 00:00:00 | 
+ 19       | MEXICALI, MEXICALI, BAJA CALIFORNIA.                                              | 2022-01-01 00:00:00 | 
+ 20       | MEXICO, DISTRITO FEDERAL.                                                         | 2022-01-01 00:00:00 | 
+ 22       | NACO, NACO, SONORA.                                                               | 2022-01-01 00:00:00 | 
+ 23       | NOGALES, NOGALES, SONORA.                                                         | 2022-01-01 00:00:00 | 
+ 24       | NUEVO LAREDO, NUEVO LAREDO, TAMAULIPAS.                                           | 2022-01-01 00:00:00 | 
+ 25       | OJINAGA, OJINAGA, CHIHUAHUA.                                                      | 2022-01-01 00:00:00 | 
+ 26       | PUERTO PALOMAS, PUERTO PALOMAS, CHIHUAHUA.                                        | 2022-01-01 00:00:00 | 
+ 27       | PIEDRAS NEGRAS, PIEDRAS NEGRAS, COAHUILA.                                         | 2022-01-01 00:00:00 | 
+ 28       | PROGRESO, PROGRESO, YUCATAN.                                                      | 2022-01-01 00:00:00 | 
+ 30       | CIUDAD REYNOSA, CIUDAD REYNOSA, TAMAULIPAS.                                       | 2022-01-01 00:00:00 | 
+ 31       | SALINA CRUZ, SALINA CRUZ, OAXACA.                                                 | 2022-01-01 00:00:00 | 
+ 33       | SAN LUIS RIO COLORADO, SAN LUIS RIO COLORADO, SONORA.                             | 2022-01-01 00:00:00 | 
+ 34       | CIUDAD MIGUEL ALEMAN, CIUDAD MIGUEL ALEMAN, TAMAULIPAS.                           | 2022-01-01 00:00:00 | 
+ 37       | CIUDAD HIDALGO, CIUDAD HIDALGO, CHIAPAS.                                          | 2022-01-01 00:00:00 | 
+ 38       | TAMPICO, TAMPICO, TAMAULIPAS.                                                     | 2022-01-01 00:00:00 | 
+ 39       | TECATE, TECATE, BAJA CALIFORNIA.                                                  | 2022-01-01 00:00:00 | 
+ 40       | TIJUANA, TIJUANA, BAJA CALIFORNIA.                                                | 2022-01-01 00:00:00 | 
+ 42       | TUXPAN, TUXPAN DE RODRIGUEZ CANO, VERACRUZ.                                       | 2022-01-01 00:00:00 | 
+ 43       | VERACRUZ, VERACRUZ, VERACRUZ.                                                     | 2022-01-01 00:00:00 | 
+ 44       | CIUDAD ACUÑA, CIUDAD ACUÑA, COAHUILA.                                             | 2022-01-01 00:00:00 | 
+ 46       | TORREON, TORREON, COAHUILA.                                                       | 2022-01-01 00:00:00 | 
+ 47       | AEROPUERTO INTERNACIONAL DE LA CIUDAD DE MEXICO,                                  | 2022-01-01 00:00:00 | 
+ 48       | GUADALAJARA, TLACOMULCO DE ZUÑIGA, JALISCO.                                       | 2022-01-01 00:00:00 | 
+ 50       | SONOYTA, SONOYTA, SONORA.                                                         | 2022-01-01 00:00:00 | 
+ 51       | LAZARO CARDENAS, LAZARO CARDENAS, MICHOACAN.                                      | 2022-01-01 00:00:00 | 
+ 52       | MONTERREY, GENERAL MARIANO ESCOBEDO, NUEVO LEON.                                  | 2022-01-01 00:00:00 | 
+ 53       | CANCUN, CANCUN, QUINTANA ROO.                                                     | 2022-01-01 00:00:00 | 
+ 64       | QUERÉTARO, EL MARQUÉS Y COLON, QUERÉTARO.                                         | 2022-01-01 00:00:00 | 
+ 65       | TOLUCA, TOLUCA, ESTADO DE MEXICO.                                                 | 2022-01-01 00:00:00 | 
+ 67       | CHIHUAHUA, CHIHUAHUA, CHIHUAHUA.                                                  | 2022-01-01 00:00:00 | 
+ 73       | AGUASCALIENTES, AGUASCALIENTES, AGUASCALIENTES.                                   | 2022-01-01 00:00:00 | 
+ 75       | PUEBLA, HEROICA PUEBLA DE ZARAGOZA, PUEBLA.                                       | 2022-01-01 00:00:00 | 
+ 80       | COLOMBIA, COLOMBIA, NUEVO LEON.                                                   | 2022-01-01 00:00:00 | 
+ 81       | ALTAMIRA, ALTAMIRA, TAMAULIPAS.                                                   | 2022-01-01 00:00:00 | 
+ 82       | CIUDAD CAMARGO, CIUDAD CAMARGO, TAMAULIPAS.                                       | 2022-01-01 00:00:00 | 
+ 83       | DOS BOCAS, PARAISO, TABASCO.                                                      | 2022-01-01 00:00:00 | 
+ 84       | GUANAJUATO, SILAO, GUANAJUATO.                                                    | 2022-01-01 00:00:00 | 
+ 85       | AEROPUERTO INTERNACIONAL FELIPE ÁNGELES, SANTA LUCÍA, ZUMPANGO, ESTADO DE MÉXICO. | 2023-01-13 00:00:00 | 
 (50 rows)
 

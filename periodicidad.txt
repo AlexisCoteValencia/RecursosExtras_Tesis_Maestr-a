@@ -1,9 +1,9 @@
- c_periodicidad | descripcion 
-----------------+-------------
-              1 | Diario
-              2 | Semanal
-              3 | Quincenal
-              4 | Mensual
-              5 | Bimestral
+ c_periodicidad | descripcion |         ini         | fin 
+----------------+-------------+---------------------+-----
+ 01             | Diario      | 2022-01-01 00:00:00 | 
+ 02             | Semanal     | 2022-01-01 00:00:00 | 
+ 03             | Quincenal   | 2022-01-01 00:00:00 | 
+ 04             | Mensual     | 2022-01-01 00:00:00 | 
+ 05             | Bimestral   | 2022-01-01 00:00:00 | 
 (5 rows)
 
