@@ -1,7 +1,0 @@
- c_impuesto | descripcion | retencion | traslado | loc_ed  |         ini         | fin 
-------------+-------------+-----------+----------+---------+---------------------+-----
- 001        | ISR         | Si        | No       | Federal | 2022-01-01 00:00:00 | 
- 002        | IVA         | Si        | Si       | Federal | 2022-01-01 00:00:00 | 
- 003        | IEPS        | Si        | Si       | Federal | 2022-01-01 00:00:00 | 
-(3 rows)
-
