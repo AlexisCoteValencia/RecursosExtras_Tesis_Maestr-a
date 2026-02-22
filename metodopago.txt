@@ -1,6 +1,6 @@
- c_metodopago |           descripcion            
---------------+----------------------------------
- PUE          | Pago en una sola exhibición
- PPD          | Pago en parcialidades o diferido
+ c_metodopago |           descripcion            |       inicio        | fin 
+--------------+----------------------------------+---------------------+-----
+ PUE          | Pago en una sola exhibición      | 2022-01-01 00:00:00 | 
+ PPD          | Pago en parcialidades o diferido | 2022-01-01 00:00:00 | 
 (2 rows)
 

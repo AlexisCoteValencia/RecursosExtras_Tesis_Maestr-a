@@ -1,5 +1,13 @@
- c_clave_grupo_productos |                                                          nombre_grupo                                                          
--------------------------+--------------------------------------------------------------------------------------------------------------------------------
+ c_clave_grupo_productos |                    nombre_grupo                    
+-------------------------+----------------------------------------------------
+ 11111600                | Piedra
+ 30101700                | Vigas
+ 31161600                | Pernos
+ 50131800                | Queso
+ 11101700                | Metales de Base
+ 11101800                | Metales preciosos
+ 10151700                | Semillas y plántulas de hierba y forraje
+ 15121500                | Preparados lubricantes
  10101500                | Animales vivos de granja
  10101600                | Pájaros y aves de corral vivos
  10101700                | Peces vivos
@@ -7,7 +15,8 @@
  10101900                | Insectos vivos
  10102000                | Animales salvajes vivos
  10102100                | Huevos de aves para incubar
- 10111300                | Accesorios, equipo y tratamientos para los animales domésticos
+ 10111300                | Accesorios, equipo y tratamientos para los        +
+                         | animales domésticos
  10121500                | Pienso para ganado
  10121600                | Alimento para pájaros y aves de corral
  10121700                | Alimento para peces
@@ -22,7 +31,7 @@
  10141600                | Arneses
  10151500                | Semillas y plántulas vegetales
  10151600                | Semillas de cereales
- 10151700                | Semillas y plántulas de hierba y forraje
+ 15121800                | Anticorrosivos
  10151800                | Semillas y plántulas de especias
  10151900                | Semillas, bulbos, plántulas y esquejes de flores
  10152000                | Semillas y esquejes de árboles y arbustos
@@ -319,7 +328,8 @@
  10325700                | Sarracenias cortadas frescas
  10325800                | Sicilia cortada fresca
  10325900                | Sedum cortada fresca
- 10326000                | Especies individuales o variedades de flores cortadas frescas
+ 10326000                | Especies individuales o variedades de flores      +
+                         | cortadas frescas
  10326100                | Sello de salomón (polygonato) cortada fresca
  10326200                | Tanaceto cortado fresco
  10326300                | Traquelio cortado fresco
@@ -342,9 +352,11 @@
  10342000                | Bouquet cortado fresco de astromelia
  10342100                | Bouquet cortado fresco de flores tropicales
  10342200                | Bouquet cortado fresco floral mixto
- 10351500                | Bouquet cortado fresco de clavel de floración sencilla
+ 10351500                | Bouquet cortado fresco de clavel de floración     +
+                         | sencilla
  10351600                | Bouquet cortado fresco de clavel min o spray
- 10361500                | Orquidea cypripedium  o pantuflas de dama cortada fresca
+ 10361500                | Orquidea cypripedium  o pantuflas de dama cortada +
+                         | fresca
  10361600                | Orquídea mocara cortada fresca
  10361700                | Orquídea catleya cortada fresca
  10361800                | Orquídea disa cortada fresca
@@ -480,7 +492,8 @@
  10425700                | Sarracenias cortadas secas
  10425800                | Sicilia cortada seca
  10425900                | Sedum cortada seca
- 10426000                | Especies individuales o variedades de flores cortadas secas
+ 10426000                | Especies individuales o variedades de flores      +
+                         | cortadas secas
  10426100                | Sello de salomón (polygonato) cortada seca
  10426200                | Tanaceto cortado seco
  10426300                | Traquelio cortado seco
@@ -497,7 +510,8 @@
  10432100                | Crisantemo cortado seco santini
  10441500                | Clavel cortado seco de floración sencilla
  10441600                | Clavel cortado seco mini o spray
- 10451500                | Orquidea cypripedium  o pantuflas de dama cortada seca
+ 10451500                | Orquidea cypripedium  o pantuflas de dama cortada +
+                         | seca
  10451600                | Orquídea mocara cortada seca
  10451700                | Orquídea catleya cortada seca
  10451800                | Orquídea disa cortada seca
@@ -524,11 +538,9 @@
  10502900                | Hojas frescas cortadas de especies sencillas
  11101500                | Minerales
  11101600                | Minerales metálicos
- 11101700                | Metales de Base
- 11101800                | Metales preciosos
- 11101900                | Productos minerales intermedios, procesados y refinados
+ 11101900                | Productos minerales intermedios, procesados y     +
+                         | refinados
  11111500                | Barro y Tierra
- 11111600                | Piedra
  11111700                | Arena
  11111800                | Arcillas
  11121500                | Savia
@@ -654,11 +666,10 @@
  15101500                | Petróleo y Destilados
  15101600                | Combustibles sólidos o gelificados
  15101700                | Aceites combustibles
- 15101800                | Combustibles o biocombustibles líquidos basados en plantas
+ 15101800                | Combustibles o biocombustibles líquidos basados en+
+                         | plantas
  15111500                | Combustibles gaseosos
  15111700                | Aditivos para carburante
- 15121500                | Preparados lubricantes
- 15121800                | Anticorrosivos
  15121900                | Grasas
  15131500                | Combustible nuclear
  15131600                | Instalación de combustible de fisión
@@ -692,12 +703,14 @@
  20122500                | Equipo para tubería flexible
  20122600                | Equipo sísmico
  20122700                | Mercancía tubular para campo petrolero
- 20122800                | Equipo y plataformas de reacondicionamiento y perforación
+ 20122800                | Equipo y plataformas de reacondicionamiento y     +
+                         | perforación
  20122900                | Equipo de registrar datos de superficie
  20123000                | Equipo multilateral
  20123100                | Herramienta para salida de revestimientos
  20123200                | Equipo de expansión en profundidad
- 20123300                | Herramientas para revestimientos mientras se perfora
+ 20123300                | Herramientas para revestimientos mientras se      +
+                         | perfora
  20131000                | Lodo de perforar y materiales
  20131100                | Apuntalantes de fracturamiento de pozo
  20131200                | Fluidos de completar
@@ -709,8 +722,10 @@
  20141400                | Accesorios de producción de barrenas hacia abajo
  20141500                | Bombas de barrenas hacia abajo
  20141600                | Bombas de exportación
- 20141700                | Plataformas de almacenaje y producción a poca distancia de la costa
- 20141800                | Contadores para medir el flujo de producción del pozo
+ 20141700                | Plataformas de almacenaje y producción a poca     +
+                         | distancia de la costa
+ 20141800                | Contadores para medir el flujo de producción del  +
+                         | pozo
  20141900                | Equipo de tratamiento de gas
  20142000                | Regeneradores de glicol
  20142100                | Tratadores de calentadores
@@ -718,7 +733,8 @@
  20142300                | Deslizaderos de inyección de producción
  20142400                | Equipo para el lecho del océano
  20142500                | Equipo para tratar agua producida
- 20142600                | Instrumentación del sistema de control de producción
+ 20142600                | Instrumentación del sistema de control de         +
+                         | producción
  20142700                | Unidades de bombear
  20142800                | Separadores de producción
  20142900                | Tanques y recipientes almacenadores
@@ -729,7 +745,8 @@
  21101700                | Maquinaria agrícola para cosechar
  21101800                | Aparatos dispersores o aspersores para agricultura
  21101900                | Equipo para aves de corral y ganado
- 21102000                | Maquinaria agrícola para limpieza, selección o clasificación
+ 21102000                | Maquinaria agrícola para limpieza, selección o    +
+                         | clasificación
  21102100                | Maquinaria y equipo para transformación agrícola
  21102200                | Maquinaria y equipo para silvicultura
  21102300                | Equipo para invernadero
@@ -740,28 +757,44 @@
  22101600                | Equipo de pavimentación
  22101700                | Componentes de equipo pesado
  22101800                | Grúas de elevación
- 22101900                | Maquinaria y accesorios de construcción de edificios
+ 22101900                | Maquinaria y accesorios de construcción de        +
+                         | edificios
  22102000                | Equipo y maquinaria de demolición de edificios
- 23101500                | Maquinaria para trabajar madera, piedra, cerámica y similares
- 23111500                | Maquinaria y equipo para destilado y transformación de petróleo
+ 30262400                | Lingotes, bandas, palanquillas y alambres de cobre
+ 23101500                | Maquinaria para trabajar madera, piedra, cerámica +
+                         | y similares
+ 23111500                | Maquinaria y equipo para destilado y              +
+                         | transformación de petróleo
  23111600                | Maquinaria de hidrotratamiento
- 23121500                | Maquinaria y accesorios para transformados textiles
- 23121600                | Maquinaria, equipo y accesorios para trabajo textil
- 23131500                | Equipo y suministros de trituración, lijado y pulido
+ 23121500                | Maquinaria y accesorios para transformados        +
+                         | textiles
+ 23121600                | Maquinaria, equipo y accesorios para trabajo      +
+                         | textil
+ 23131500                | Equipo y suministros de trituración, lijado y     +
+                         | pulido
  23131600                | Equipo y accesorios de facetaje
  23131700                | Equipo del cabbing
- 23141600                | Maquinaria y accesorios para el preparado del cuero
- 23141700                | Maquinaria y accesorios para trabajar y reparar cuero
- 23151500                | Maquinaria, equipo y suministros para la elaboración de caucho y plástico
- 23151600                | Maquinaria, equipo y suministros para la industria del cemento, cerámica y vidrio
- 23151700                | Maquinaria, equipo y suministros de la industria óptica
- 23151800                | Maquinaria, equipo y suministros de la industria farmacéutica
- 23151900                | Maquinaria, equipo y suministros para la elaboración y el procesamiento de papel
- 23152000                | Manejo del Web y maquinaria de control y equipo y suministros
+ 23141600                | Maquinaria y accesorios para el preparado del     +
+                         | cuero
+ 23141700                | Maquinaria y accesorios para trabajar y reparar   +
+                         | cuero
+ 23151500                | Maquinaria, equipo y suministros para la          +
+                         | elaboración de caucho y plástico
+ 23151600                | Maquinaria, equipo y suministros para la industria+
+                         | del cemento, cerámica y vidrio
+ 23151700                | Maquinaria, equipo y suministros de la industria  +
+                         | óptica
+ 23151800                | Maquinaria, equipo y suministros de la industria  +
+                         | farmacéutica
+ 23151900                | Maquinaria, equipo y suministros para la          +
+                         | elaboración y el procesamiento de papel
+ 23152000                | Manejo del Web y maquinaria de control y equipo y +
+                         | suministros
  23152100                | Maquinaria y equipo de separación
  23152200                | Mesa y estantes para fabricación
  23152900                | Maquinaria empacadora
- 23153000                | Dispositivos y sistemas de guía, posicionamiento y sujeción
+ 23153000                | Dispositivos y sistemas de guía, posicionamiento y+
+                         | sujeción
  23153100                | Componentes y accesorios de maquinaria industrial
  23153200                | Robótica
  23153400                | Ensambladoras
@@ -782,10 +815,13 @@
  23201000                | Sistemas de contacto líquido gas
  23201100                | Absorción e intercambio de iones
  23201200                | Equipo de secado industrial
- 23211000                | Maquinaria de ensamblaje electrónico y equipo de soporte
- 23211100                | Maquinaria de procesamiento y fabricación electrónica
+ 23211000                | Maquinaria de ensamblaje electrónico y equipo de  +
+                         | soporte
+ 23211100                | Maquinaria de procesamiento y fabricación         +
+                         | electrónica
  23221000                | Equipo y maquinaria del departamento de recepción
- 23221100                | Equipo y maquinaria del departamento de matanza y desplumamiento
+ 23221100                | Equipo y maquinaria del departamento de matanza y +
+                         | desplumamiento
  23221200                | Equipo y maquinaria del departamento de eviscerado
  23231000                | Descortezadoras y accesorios
  23231100                | Sierras de cinta y accesorios
@@ -811,30 +847,38 @@
  23242300                | Tornos y centros de torneado
  23242400                | Centros de maquinado
  23242500                | Máquinas para el fresado de metales
- 23242600                | Maquinas para el cortado de metales especializados o diversos
+ 23242600                | Maquinas para el cortado de metales especializados+
+                         | o diversos
  23242700                | Maquinaria para molinos de tubos
  23251500                | Maquinaria para tubulares doblados
  23251600                | Máquinas para enrollado de metales
  23251700                | Máquinas de forjado
- 23251800                | Troqueles y herramientas para el formado de metales
- 23251900                | Maquinaria y equipo para la fabricación de contenedores de metal
+ 23251800                | Troqueles y herramientas para el formado de       +
+                         | metales
+ 23251900                | Maquinaria y equipo para la fabricación de        +
+                         | contenedores de metal
  23261500                | Máquinas para prototipos rápidos
  23271400                | Máquinas soldadoras
  23271500                | Maquinaria de soldadura fuerte
  23271600                | Maquinaria de soldadura débil
- 23271700                | Accesorios para soldar, soldadura fuerte y soldadura débil
- 23271800                | Suministros para soldar, soldadura fuerte y soldadura débil
+ 23271700                | Accesorios para soldar, soldadura fuerte y        +
+                         | soldadura débil
+ 23271800                | Suministros para soldar, soldadura fuerte y       +
+                         | soldadura débil
  23281500                | Máquinas para recubrir o platear
  23281600                | Máquinas para tratamiento de calor
  23281700                | Máquinas para tratamiento mecánico de superficie
- 23281800                | Accesorios y herramientas para el tratamiento de metal
- 23281900                | Maquinaria y suministros para la limpieza del metal
+ 23281800                | Accesorios y herramientas para el tratamiento de  +
+                         | metal
+ 23281900                | Maquinaria y suministros para la limpieza del     +
+                         | metal
  23291500                | Herramientas de perforación industrial
  23291600                | Herramientas de molienda industrial
  23291700                | Herramientas de escariado industrial
  23291800                | Herramientas de roscado industrial
  23291900                | Herramientas de barrenado industrial
- 23301500                | Maquinaria, equipos y accesorios para el trabajo de alambre
+ 23301500                | Maquinaria, equipos y accesorios para el trabajo  +
+                         | de alambre
  24101500                | Camiones industriales
  24101600                | Equipo de izaje y accesorios
  24101700                | Transportadores y accesorios
@@ -850,7 +894,8 @@
  24112100                | Toneles, cubas y bidones
  24112200                | Latas y cubos
  24112400                | Cofres, armarios y baúles de almacenaje
- 24112500                | Cartón ondulado y otros materiales para distribución
+ 24112500                | Cartón ondulado y otros materiales para           +
+                         | distribución
  24112600                | contenedores para líquidos
  24112700                | Estibas
  24112800                | Contenedores de carga
@@ -864,7 +909,8 @@
  24131900                | Máquinas de hacer el hielo
  24141500                | Suministros para seguridad y protección
  24141600                | Suministros de acolchados
- 24141700                | Tubos y núcleos de embalaje y etiquetas y accesorios
+ 24141700                | Tubos y núcleos de embalaje y etiquetas y         +
+                         | accesorios
  25101500                | Vehículos de pasajeros
  25101600                | Vehículos de transporte de productos y materiales
  25101700                | Vehículos de protección y salvamento
@@ -904,7 +950,8 @@
  25172800                | Sistemas y componentes hidráulicos
  25172900                | Iluminación exterior para vehículos
  25173000                | Iluminación interior para vehículos
- 25173100                | Sistemas y componentes de localización y navegación
+ 25173100                | Sistemas y componentes de localización y          +
+                         | navegación
  25173300                | Sistemas de control principal
  25173700                | Controles de emisión y de escape
  25173800                | Sistemas de tren de transmisión
@@ -916,17 +963,21 @@
  25174600                | Sistemas de asientos del vehículo
  25174700                | Componentes de ciclo no motorizado o accesorios
  25174800                | Componentes y sistemas de vehículos especializados
- 25174900                | Aisladores y amortiguadores de vibración de vehículos
+ 25174900                | Aisladores y amortiguadores de vibración de       +
+                         | vehículos
  25175000                | Sistemas de cargado eléctrico de vehículos
  25181600                | Chasis automotriz
  25181700                | Remolques para productos y materiales
  25191500                | Sistemas y equipo de apoyo para transporte aéreo
- 25191600                | Sistemas y equipo de apoyo para transporte espacial
+ 25191600                | Sistemas y equipo de apoyo para transporte        +
+                         | espacial
  25191700                | Equipo para el mantenimiento de vehículo
  25191800                | Equipo de medición y prueba de vehículos
  25201500                | Fuselaje y componentes de avión
- 25201600                | Sistemas de situación y navegación aeroespacial y componentes
- 25201700                | Sistemas relacionados con las comunicaciones de vuelo
+ 25201600                | Sistemas de situación y navegación aeroespacial y +
+                         | componentes
+ 25201700                | Sistemas relacionados con las comunicaciones de   +
+                         | vuelo
  25201800                | Sistemas de control principal del avión
  25201900                | Sistemas de urgencia del avión
  25202000                | Sistemas de energía de avión
@@ -935,7 +986,8 @@
  25202300                | Controles de pasajeros de avión
  25202400                | Sistemas y depósitos de combustible del avión
  25202500                | Equipo de avión
- 25202600                | Sistemas y componentes del control ambiental del avión
+ 25202600                | Sistemas y componentes del control ambiental del  +
+                         | avión
  25202700                | Acumuladores del avión
  26101100                | Motores eléctricos de corriente alterna AC
  26101200                | Motores eléctricos de corriente directa DC
@@ -957,7 +1009,8 @@
  26121800                | Cable automotriz
  26131500                | Centrales eléctricas
  26131600                | Equipo de cribado o estructuras de tubo de escape
- 26131700                | Equipo de detección o vigilancia de producción de energía
+ 26131700                | Equipo de detección o vigilancia de producción de +
+                         | energía
  26131800                | Equipo de control de producción de energía
  26141600                | Equipo para ensamblaje subcrítico
  26141700                | Equipo para dosimetría
@@ -973,7 +1026,8 @@
  27111700                | Llaves inglesas y guías
  27111800                | Herramientas de medida y bocetaje
  27111900                | Herramientas gruesas y de acabado
- 27112000                | Herramientas manuales de jardinería, agricultura y forestación
+ 27112000                | Herramientas manuales de jardinería, agricultura y+
+                         | forestación
  27112100                | Herramientas de sujeción y fijación
  27112200                | Herramientas de albañilería y concreto
  27112300                | Herramientas de marcar
@@ -997,7 +1051,6 @@
  27141000                | Herramientas de carrocería
  27141100                | Herramientas de suspensión
  30101500                | Ángulos
- 30101700                | Vigas
  30101800                | Conductos
  30102000                | Hoja
  30102200                | Plancha
@@ -1021,7 +1074,8 @@
  30121600                | Asfaltos
  30121700                | Materiales de construcción de caminos y carrileras
  30121800                | Materiales de arquitectura paisajística
- 30121900                | Materiales para estabilización y refuerzo de suelos
+ 30121900                | Materiales para estabilización y refuerzo de      +
+                         | suelos
  30131500                | Bloques
  30131600                | Ladrillos
  30131700                | Azulejos y baldosas
@@ -1031,7 +1085,8 @@
  30151500                | Material para tejados y techos
  30151600                | Accesorios para tejados
  30151700                | Canalones de tejado y accesorios
- 30151800                | Materiales para revestimiento de paredes y exterior
+ 30151800                | Materiales para revestimiento de paredes y        +
+                         | exterior
  30151900                | Materiales y productos para acabados
  30152000                | Cercado
  30152100                | Superficie
@@ -1055,33 +1110,41 @@
  30181500                | Porcelana sanitaria
  30181600                | Instalaciones residenciales no sanitarias
  30181700                | Grifos
- 30181800                | Cabezas, chorros y partes y accesorios de grifos y duchas
+ 30181800                | Cabezas, chorros y partes y accesorios de grifos y+
+                         | duchas
  30191500                | Escaleras y andamios
  30191600                | Escaleras y accesorios de andamiaje
  30191700                | Cobertizos y remolques de construcción
- 30191800                | Equipos y materiales para construcciones temporales y apoyo al mantenimiento
- 30241500                | Componentes de consolidación de estructuras portátiles
- 30241600                | Componentes estructurales de tribunas, gradas y escalera
- 30241700                | Componentes soporte y cobertura de tiendas, carpas y estructuras de membrana
+ 30191800                | Equipos y materiales para construcciones          +
+                         | temporales y apoyo al mantenimiento
+ 30241500                | Componentes de consolidación de estructuras       +
+                         | portátiles
+ 30241600                | Componentes estructurales de tribunas, gradas y   +
+                         | escalera
+ 30241700                | Componentes soporte y cobertura de tiendas, carpas+
+                         | y estructuras de membrana
  30251500                | Estructuras de soporte de techos bajo tierra
  30261500                | Barras de latón
  30261600                | Láminas de latón
  30261700                | Lingotes, bandas, palanquillas y alambres de latón
  30261800                | Barras y láminas de magnesio
- 30261900                | Lingotes, bandas, palanquillas y alambres de magnesio
+ 30261900                | Lingotes, bandas, palanquillas y alambres de      +
+                         | magnesio
  30262000                | Barras y láminas de titanio
- 30262100                | Lingotes, bandas, palanquillas y alambres de titanio
+ 30262100                | Lingotes, bandas, palanquillas y alambres de      +
+                         | titanio
  30262200                | Barras de cobre
  30262300                | Láminas de cobre
- 30262400                | Lingotes, bandas, palanquillas y alambres de cobre
  30262500                | Barras de bronce
  30262600                | Láminas de bronce
- 30262700                | Lingotes, bandas, palanquillas y alambres de bronce
+ 30262700                | Lingotes, bandas, palanquillas y alambres de      +
+                         | bronce
  30262800                | Barras y láminas de zinc
  30262900                | Lingotes, bandas, palanquillas y alambres de zinc
  30263000                | Barras de estaño
  30263100                | Láminas de estaño
- 30263200                | Lingotes, bandas, palanquillas y alambres de estaño
+ 30263200                | Lingotes, bandas, palanquillas y alambres de      +
+                         | estaño
  30263300                | Barras de plomo
  30263400                | Láminas de plomo
  30263500                | Lingotes, bandas, palanquillas y alambres de plomo
@@ -1093,7 +1156,8 @@
  30264100                | Láminas de aleación de acero
  30264200                | Láminas de acero de herramienta
  30264300                | Láminas de acero especial
- 30264400                | Lingotes, bandas, palanquillas y alambres de al carbón
+ 30264400                | Lingotes, bandas, palanquillas y alambres de al   +
+                         | carbón
  30264500                | Barras de acero inoxidable
  30264600                | Láminas de acero inoxidable
  30264700                | Alambre de acero inoxidable
@@ -1104,17 +1168,21 @@
  30265200                | Bandas y lingotes de aluminio
  30265300                | Barras de hierro
  30265400                | Láminas de hierro
- 30265500                | Lingotes, bandas, palanquillas y alambres de hierro
+ 30265500                | Lingotes, bandas, palanquillas y alambres de      +
+                         | hierro
  30265600                | Barras y láminas de aleaciones ferrosas
- 30265700                | Lingotes, bandas, palanquillas y alambres de aleaciones ferrosas
+ 30265700                | Lingotes, bandas, palanquillas y alambres de      +
+                         | aleaciones ferrosas
  30265800                | Barras y láminas plásticas
  30265900                | Alambre y bandas de plástico
  30266000                | Barras de metales preciosos y metales especiales
  30266100                | Láminas de metales preciosos y metales especiales
- 30266200                | Lingotes, bandas, palanquillas y alambres de metales preciosos y metales especiales
+ 30266200                | Lingotes, bandas, palanquillas y alambres de      +
+                         | metales preciosos y metales especiales
  30266300                | Materiales estructurales de madera
  30266400                | Barras y láminas de materiales especiales
- 30266500                | Lingotes, bandas, palanquillas y alambres de  materiales especiales
+ 30266500                | Lingotes, bandas, palanquillas y alambres de      +
+                         | materiales especiales
  30266600                | Láminas y lingotes de níckel
  30266700                | Trasmisiones
  31101600                | Moldeos en arena
@@ -1126,11 +1194,15 @@
  31102200                | Piezas fundidas en molde de grafito
  31102300                | Piezas fundidas en molde de yeso
  31102400                | Fundiciones en V
- 31102500                | Fundiciones con troquel y ensambles de fundiciones permanentes de baja presión
- 31102600                | Fundiciones con troquel y ensambles de fundiciones  de alta presión
+ 31102500                | Fundiciones con troquel y ensambles de fundiciones+
+                         | permanentes de baja presión
+ 31102600                | Fundiciones con troquel y ensambles de fundiciones+
+                         | de alta presión
  31102700                | Fundiciones y ensambles de fundiciones por apriete
- 31102800                | Fundiciones con troquel y ensambles de fundiciones semi - sólidas
- 31102900                | Moldeos con troquel y ensambles de fundiciones permanentes a gravedad
+ 31102800                | Fundiciones con troquel y ensambles de fundiciones+
+                         | semi - sólidas
+ 31102900                | Moldeos con troquel y ensambles de fundiciones    +
+                         | permanentes a gravedad
  31111500                | Extrusiones de perfiles
  31111600                | Extrusiones por percusión
  31111700                | Extrusiones en frío
@@ -1144,9 +1216,12 @@
  31121700                | Piezas fundidas centrífugas mecanizadas
  31121800                | Fundiciones labradas de molde de cerámica
  31121900                | Fundiciones labradas de molde de grafito
- 31122000                | Fundiciones y ensambles de fundiciones maquinadas por apriete
- 31122100                | Fundiciones y ensambles de fundiciones maquinadas semi - sólidas
- 31122200                | Fundiciones y ensambles de fundiciones maquinadas por gravedad permanente
+ 31122000                | Fundiciones y ensambles de fundiciones maquinadas +
+                         | por apriete
+ 31122100                | Fundiciones y ensambles de fundiciones maquinadas +
+                         | semi - sólidas
+ 31122200                | Fundiciones y ensambles de fundiciones maquinadas +
+                         | por gravedad permanente
  31132000                | Componentes de metal en polvo
  31132100                | Forjas de acero
  31132200                | Forjas de latón
@@ -1172,16 +1247,18 @@
  31141900                | Moldeados de inyección con inserción
  31142000                | Ensambles de moldeados termoplásticos
  31142100                | Engastes de moldeado termoplástico
- 31142200                | Ensambles de engastes termoplástico moldeado por disparo múltiple
- 31142300                | Ensambles de engastes termoplástico moldeado por inyección
+ 31142200                | Ensambles de engastes termoplástico moldeado por  +
+                         | disparo múltiple
+ 31142300                | Ensambles de engastes termoplástico moldeado por  +
+                         | inyección
  31142400                | Ensambles de moldeado termofraguado
  31142500                | Engastes de moldeado termofraguado
- 31142600                | Ensambles de engaste termofraguado moldeado por disparo múltiple
+ 31142600                | Ensambles de engaste termofraguado moldeado por   +
+                         | disparo múltiple
  31142700                | Ensambles de engaste termofraguado moldeado
  31142800                | Moldeados por inmersión
  31142900                | Moldeados decorados en el molde por inyección
  31143000                | Moldeados asistidos por gas
- 50307500                | Subproductos de frutas frescas
  31143100                | Ensambles de moldeado termoplástico terminados
  31143200                | Moldeados decorados por inyección post moldeado
  31151500                | Cuerdas
@@ -1194,7 +1271,6 @@
  31152200                | Alambres no eléctricos de hierro y acero
  31152300                | Alambres no eléctricos de metales no ferrosos
  31161500                | Tornillos
- 31161600                | Pernos
  31161700                | Tuercas
  31161800                | Arandelas
  31161900                | Muelles
@@ -1268,23 +1344,28 @@
  31311100                | Conjuntos de tubería soldada de solvente
  31311200                | Conjuntos de tubería remachada
  31311300                | Conjuntos empernados de tubería
- 31311400                | Conjuntos de tuberías soldadas con ultra violeta UV
+ 31311400                | Conjuntos de tuberías soldadas con ultra violeta  +
+                         | UV
  31311500                | Conjuntos de tubería soldado o soldado con latón
  31311600                | Conjuntos de tubería soldada sónica
  31311700                | Conjuntos de tubería pegada
  31321100                | Conjuntos ligados de material en barras
- 31321200                | Conjuntos soldados de solvente de material en barras
+ 31321200                | Conjuntos soldados de solvente de material en     +
+                         | barras
  31321300                | Conjuntos remachados de material en barras
- 31321400                | Conjuntos soldados o soldados en fuerte de material en barras
+ 31321400                | Conjuntos soldados o soldados en fuerte de        +
+                         | material en barras
  31321500                | Conjuntos de barras soldadas con ultra violeta UV
  31321600                | Conjuntos sónicos soldados de material en barras
  31321700                | Conjuntos empernados de material en barras
  31331100                | Conjuntos estructurales con acabado ligado
  31331200                | Conjuntos estructurales empernados
  31331300                | Conjuntos estructurales soldado sónico
- 31331400                | Conjuntos estructurales soldados con ultra violeta UV
+ 31331400                | Conjuntos estructurales soldados con ultra violeta+
+                         | UV
  31331500                | Conjuntos estructurales soldado de solvente
- 31331600                | Conjuntos estructurales soldado o soldado con latón
+ 31331600                | Conjuntos estructurales soldado o soldado con     +
+                         | latón
  31331700                | Conjuntos estructurales remachados
  31341100                | Conjuntos de placa soldado o soldado con latón
  31341200                | Conjuntos remachados de placa
@@ -1316,7 +1397,8 @@
  31381200                | Imanes sinterizados y ensambles magnéticos
  31381300                | Imanes prensados y ensambles magnéticos
  31381400                | Imanes pegados con plástico y ensambles magnéticos
- 31381500                | Imanes moldeados por inyección y ensambles magnéticos
+ 31381500                | Imanes moldeados por inyección y ensambles        +
+                         | magnéticos
  31391500                | Maquinados de precisión estándar
  31391600                | Maquinados de precisión media
  31391700                | Maquinados de precisión alta
@@ -1331,7 +1413,8 @@
  31411800                | Sellos de diafragma
  31411900                | Sellos moldeados
  31421500                | Sellos sinterizados
- 32101500                | Conjuntos de circuitos y componentes de radiofrecuencia (RF)
+ 32101500                | Conjuntos de circuitos y componentes de           +
+                         | radiofrecuencia (RF)
  32101600                | Circuitos integrados
  32111500                | Diodos
  32111600                | Transistores
@@ -1341,15 +1424,19 @@
  32121700                | Componentes discretos
  32121800                | Filtros de señales
  32121900                | Resonadores
- 32131000                | Accesorios, materias primas y piezas de componentes electrónicos
+ 32131000                | Accesorios, materias primas y piezas de           +
+                         | componentes electrónicos
  32141000                | Tubos electrónicos
  32141100                | Piezas y accesorios de tubos electrónicos
- 32151500                | Dispositivos de control de indicación y de señalización
+ 32151500                | Dispositivos de control de indicación y de        +
+                         | señalización
  32151600                | Subsistemas programables de controlador lógico
  32151700                | Controladores lógicos programables
  32151800                | Dispositivos de control de seguridad
- 32151900                | Dispositivos de automatización de control de la conectividad
- 32152000                | Control de procesos o sistemas empaquetados de automatización
+ 32151900                | Dispositivos de automatización de control de la   +
+                         | conectividad
+ 32152000                | Control de procesos o sistemas empaquetados de    +
+                         | automatización
  39101600                | Lámparas y bombillas
  39101800                | Componentes y accesorios de Lámpara
  39101900                | Balastos de lámparas y transformadores de lámparas
@@ -1357,20 +1444,24 @@
  39111600                | Iluminación exterior y artefactos
  39111700                | Alumbrado de emergencia
  39111800                | Accesorios de iluminación
- 39111900                | Señalización e iluminación de emplazamientos peligrosos
+ 39111900                | Señalización e iluminación de emplazamientos      +
+                         | peligrosos
  39112000                | Proyectores móviles
  39112100                | Iluminación óptica
  39112200                | Dispositivos de efectos especiales
  39112300                | Iluminación y accesorios de escenarios y estudios
- 39112400                | Dispositivos para manejo de luces y control de escenarios y estudios
+ 39112400                | Dispositivos para manejo de luces y control de    +
+                         | escenarios y estudios
  39112500                | Luminarias de escenarios y estudios
  39112600                | Dispositivos de iluminación no - eléctrica
- 39121000                | Equipamiento para distribución y conversión de alimentación
+ 39121000                | Equipamiento para distribución y conversión de    +
+                         | alimentación
  39121100                | Centros de control y distribución y accesorios
  39121300                | Cuadros, registros y menaje para electricidad
  39121400                | Lengüetas de conexión, conectadores y terminales
  39121500                | Conmutadores, controles y relés y accesorios
- 39121600                | Dispositivos y accesorios para la protección de circuitos
+ 39121600                | Dispositivos y accesorios para la protección de   +
+                         | circuitos
  39121700                | Ferretería eléctrica y suministros
  39121800                | Instalaciones de Edificios Inteligentes - IBI
  39121900                | Dispositivos y accesorios de seguridad eléctrica
@@ -1378,9 +1469,11 @@
  39122100                | Equipo de transmisión y distribución eléctrica
  39122200                | Interruptores eléctricos y accesorios
  39122300                | Relés eléctricos y accesorios
- 39131500                | Marcadores de alambre y dispositivos para marcar alambre
+ 39131500                | Marcadores de alambre y dispositivos para marcar  +
+                         | alambre
  39131600                | Dispositivos de protección de alambre
- 39131700                | Conductos eléctricos, electroductos y cables aéreos
+ 39131700                | Conductos eléctricos, electroductos y cables      +
+                         | aéreos
  40101500                | Ventilación
  40101600                | Circulación del aire y piezas y accesorios
  40101700                | Enfriamiento
@@ -1458,9 +1551,12 @@
  40182900                | Tubos de acero inoxidable extruidos
  40183000                | Tuberías de caucho y plástico
  40183100                | Accesorios de tubos
- 41101500                | Equipo y suministros para la mezcla, la dispersión y la homogeneización en laboratorio
- 41101700                | Equipo de perforación, amoladura, corte, trituración y prensado para laboratorio
- 41101800                | Equipo de física de electrones y de estado sólido para laboratorio
+ 41101500                | Equipo y suministros para la mezcla, la dispersión+
+                         | y la homogeneización en laboratorio
+ 41101700                | Equipo de perforación, amoladura, corte,          +
+                         | trituración y prensado para laboratorio
+ 41101800                | Equipo de física de electrones y de estado sólido +
+                         | para laboratorio
  41101900                | Equipo iónico de laboratorio
  41102400                | Equipo de calefacción y secadores para laboratorio
  41102500                | Equipo entomológico para laboratorio y accesorios
@@ -1470,40 +1566,58 @@
  41103000                | Equipo de enfriamiento para laboratorio
  41103200                | Equipo de lavado de laboratorio
  41103300                | Equipo de mecánica de fluidos
- 41103400                | Equipo de acondicionamiento ambiental para laboratorio
+ 41103400                | Equipo de acondicionamiento ambiental para        +
+                         | laboratorio
  41103500                | Recintos cerrados de laboratorio y accesorios
  41103700                | Cubetas de laboratorio
- 41103800                | Equipo y suministros para la mezcla y la agitación por sacudida o varillas en laboratorio
+ 41103800                | Equipo y suministros para la mezcla y la agitación+
+                         | por sacudida o varillas en laboratorio
  41103900                | Centrifugadoras de laboratorio y accesorios
  41104000                | Equipo de toma de muestras
- 41104100                | Contenedores de recogida y transporte de especímenes, y suministros
- 41104200                | Equipo y suministros de purificación de agua para laboratorio
+ 41104100                | Contenedores de recogida y transporte de          +
+                         | especímenes, y suministros
+ 41104200                | Equipo y suministros de purificación de agua para +
+                         | laboratorio
  41104300                | Equipo de fermentación
  41104400                | Equipo de incubación de laboratorio
  41104500                | Estufas de laboratorio y accesorios
  41104600                | Hornos de laboratorio y accesorios
- 41104700                | Secadoras por congelación y liofilizadores de laboratorio, y accesorios
- 41104800                | Equipo y suministros de laboratorio para el vertido, la destilación, la evaporación y la extracción
+ 41104700                | Secadoras por congelación y liofilizadores de     +
+                         | laboratorio, y accesorios
+ 41104800                | Equipo y suministros de laboratorio para el       +
+                         | vertido, la destilación, la evaporación y la      +
+                         | extracción
  41104900                | Equipo y suministros de filtrado para laboratorio
- 41105000                | Equipo y suministros de tamizado y cribado para laboratorio
+ 41105000                | Equipo y suministros de tamizado y cribado para   +
+                         | laboratorio
  41105100                | Bombas y conductos de laboratorio
- 41105200                | Equipo de teñido de portaobjetos de laboratorio y accesorios
- 41105300                | Sistemas de electroforesis y transferencia para laboratorio y suministros
- 41105500                | Kits y componentes de extracción, purificación y cuantificación de ácidos nucleicos
- 41105600                | Productos secuenciadores de ácido desoxirribonucleico (ADN)
+ 41105200                | Equipo de teñido de portaobjetos de laboratorio y +
+                         | accesorios
+ 41105300                | Sistemas de electroforesis y transferencia para   +
+                         | laboratorio y suministros
+ 41105500                | Kits y componentes de extracción, purificación y  +
+                         | cuantificación de ácidos nucleicos
+ 41105600                | Productos secuenciadores de ácido                 +
+                         | desoxirribonucleico (ADN)
  41105700                | Matrices génicas
  41105800                | Productos de transcripción y traducción in vitro
  41105900                | Bibliotecas y material relacionado
- 41106000                | Sistemas de etiquetado y detección de ácidos nucleicos
- 41106100                | Kits de análisis de ácido desoxirribonucleico (ADN)
- 41106200                | Medios, kits y equipo de propagación y transformación de microorganismos
- 41106300                | Productos de reacción en cadena de la polimerasa (PCR) y reacción en cadena de transcriptasa inversa de la polimerasa (RT PCR)
+ 41106000                | Sistemas de etiquetado y detección de ácidos      +
+                         | nucleicos
+ 41106100                | Kits de análisis de ácido desoxirribonucleico     +
+                         | (ADN)
+ 41106200                | Medios, kits y equipo de propagación y            +
+                         | transformación de microorganismos
+ 41106300                | Productos de reacción en cadena de la polimerasa  +
+                         | (PCR) y reacción en cadena de transcriptasa       +
+                         | inversa de la polimerasa (RT PCR)
  41106400                | Iniciadores, enlaces y adaptadores
  41106500                | Productos de expresión proteínica
  41106600                | Vectores
  41106700                | Equipos y accesorios de laboratorio botánico
  41111500                | Instrumentos de medición del peso
- 41111600                | Instrumentos de medida de longitud, espesor o distancia
+ 41111600                | Instrumentos de medida de longitud, espesor o     +
+                         | distancia
  41111700                | Instrumentos y accesorios de visión y observación
  41111800                | Equipo de examen no destructivo
  41111900                | Instrumentos indicadores y de registro
@@ -1511,18 +1625,22 @@
  41112200                | Instrumentos de medida de temperatura y calor
  41112300                | Instrumentos de medición de la humedad
  41112400                | Instrumentos de medida y control de la presión
- 41112500                | Instrumentos de medición y observación del caudal de fluidos
+ 41112500                | Instrumentos de medición y observación del caudal +
+                         | de fluidos
  41112600                | Equipo de monitorización y comprobación higiénica
  41112700                | Equipo para semillas y piensos
- 41112800                | Equipo e instrumentos relacionados con el transporte
+ 41112800                | Equipo e instrumentos relacionados con el         +
+                         | transporte
  41112900                | Equipo e instrumentos de navegación
  41113000                | Instrumentos de suministros evaluación química
  41113100                | Analizadores y monitores de gas
  41113300                | Analizadores de líquidos, sólidos y elementos
  41113400                | Instrumentos de evaluación nuclear
  41113600                | Equipo de medición y comprobación eléctrica
- 41113700                | Instrumentos de medición y comprobación de comunicación electrónica
- 41113800                | Instrumentos geofísicos, geotécnicos e hidrológicos
+ 41113700                | Instrumentos de medición y comprobación de        +
+                         | comunicación electrónica
+ 41113800                | Instrumentos geofísicos, geotécnicos e            +
+                         | hidrológicos
  41113900                | Equipo para medición de suelos
  41114000                | Equipo de medida de rocas y estratos
  41114100                | Instrumentos sismológicos
@@ -1530,31 +1648,45 @@
  41114300                | Instrumentos hidrológicos
  41114400                | Instrumentos meteorológicos
  41114500                | Instrumentos mecánicos
- 41114600                | Instrumentos de verificación de metales, metalurgia y materiales estructurales
- 41114700                | Instrumentos para comprobación de papel, madera y tejidos
- 41114800                | Instrumentos para comprobación de cerámica y vidrio
+ 41114600                | Instrumentos de verificación de metales,          +
+                         | metalurgia y materiales estructurales
+ 41114700                | Instrumentos para comprobación de papel, madera y +
+                         | tejidos
+ 41114800                | Instrumentos para comprobación de cerámica y      +
+                         | vidrio
  41115100                | Instrumentos para comprobación de carbón y mineral
  41115200                | Sistemas y componentes de radar y sonar
  41115300                | Equipo de generación y medición de luz y ondas
  41115400                | Equipo espectroscópico
  41115500                | Equipo de generación y medición de sonido
- 41115600                | Instrumentos y accesorios de medición electroquímica
- 41115700                | Instrumentos y accesorios de medición cromatográfica
- 41115800                | Analizadores, accesorios y suministros clínicos y diagnósticos
+ 41115600                | Instrumentos y accesorios de medición             +
+                         | electroquímica
+ 41115700                | Instrumentos y accesorios de medición             +
+                         | cromatográfica
+ 41115800                | Analizadores, accesorios y suministros clínicos y +
+                         | diagnósticos
  41116000                | Reactivos de analizadores clínicos y diagnósticos
- 41116100                | Kits de ensayos manuales, controles de calidad, calibradores y normativas
- 41116200                | Suministros y equipo para lugares de tratamiento de pacientes
- 41116300                | Comprobadores de punto de inflamación para laboratorio
- 41116400                | Instrumentos de medición de la aceleración y la vibración
+ 41116100                | Kits de ensayos manuales, controles de calidad,   +
+                         | calibradores y normativas
+ 41116200                | Suministros y equipo para lugares de tratamiento  +
+                         | de pacientes
+ 41116300                | Comprobadores de punto de inflamación para        +
+                         | laboratorio
+ 41116400                | Instrumentos de medición de la aceleración y la   +
+                         | vibración
  41116500                | Piezas y accesorios de instrumentos
- 41121500                | Equipo y suministros de pipetas y manipulación de líquidos
+ 41121500                | Equipo y suministros de pipetas y manipulación de +
+                         | líquidos
  41121600                | Puntas de pipeta
  41121700                | Tubos de ensayo
- 41121800                | Artículos de vidrio o plástico y suministros generales de laboratorio
+ 41121800                | Artículos de vidrio o plástico y suministros      +
+                         | generales de laboratorio
  41122000                | Jeringuillas de laboratorio o de muestreo
- 41122100                | Suministros de cultivo de tejido y cribado de alta definición
+ 41122100                | Suministros de cultivo de tejido y cribado de alta+
+                         | definición
  41122200                | Crisoles
- 41122300                | Protectores y revestimientos de banco de laboratorio
+ 41122300                | Protectores y revestimientos de banco de          +
+                         | laboratorio
  41122400                | Instrumentos de laboratorio
  41122500                | Corchos, tapones y accesorios de laboratorio
  41122600                | Portaobjetos de laboratorio y suministros
@@ -1563,19 +1695,23 @@
  41123000                | Desecadores y desecantes de laboratorio
  41123100                | Suministros de diálisis para laboratorio
  41123200                | Especímenes preservados y suministros
- 41123300                | Contenedores y armarios de almacenamiento general para laboratorio
+ 41123300                | Contenedores y armarios de almacenamiento general +
+                         | para laboratorio
  41123400                | Dispositivos de dosificación
  42121500                | Equipo veterinario
  42121600                | Productos veterinarios
  42121700                | Mobiliario clínico veterinario
- 42121800                | Equipo y suministros para inseminación artificial veterinaria
+ 42121800                | Equipo y suministros para inseminación artificial +
+                         | veterinaria
  42131500                | Vestuario para pacientes
- 42131600                | Vestuario para el personal sanitario y artículos relacionados
+ 42131600                | Vestuario para el personal sanitario y artículos  +
+                         | relacionados
  42131700                | Prendas textiles quirúrgicas
  42132100                | Ropa blanca del hospital
  42132200                | Guantes y accesorios médicos
  42141500                | Bolas de algodón y copitos aplicadores
- 42141600                | Palanganas y Bacinillas de cama y orinales y equipos de ingreso
+ 42141600                | Palanganas y Bacinillas de cama y orinales y      +
+                         | equipos de ingreso
  42141700                | Productos para la prevención de decúbito
  42141800                | Equipo de electroterapia
  42141900                | Suministros para la administración de enema
@@ -1587,54 +1723,79 @@
  42142500                | Agujas de inyección y aspiración y accesorios
  42142600                | Jeringas y accesorios
  42142700                | Suministros urológicos
- 42142800                | Suministros y equipos para terapia vascular y de compresión
- 42142900                | Corrección de la visión o gafas cosméticas y productos relacionados
+ 42142800                | Suministros y equipos para terapia vascular y de  +
+                         | compresión
+ 42142900                | Corrección de la visión o gafas cosméticas y      +
+                         | productos relacionados
  42143100                | Equipo y suministros de obstetricia y ginecología
- 42143200                | Equipo y suministros de tratamiento de la fertilidad y la esterilidad
+ 42143200                | Equipo y suministros de tratamiento de la         +
+                         | fertilidad y la esterilidad
  42143300                | Equipo y suministros de quimioterapia
  42143400                | Equipo y suministros de control de hiperhidrosis
  42143500                | Productos y accesorios de otorrinolaringología
  42143600                | Sujeciones y accesorios
  42143700                | Sistemas y accesorios de fototerapia
- 42143800                | Instrumentos y suministros y equipos para la medición de presión urológica
+ 42143800                | Instrumentos y suministros y equipos para la      +
+                         | medición de presión urológica
  42143900                | Productos para la incontinencia fecal
- 42144000                | Partes y accesorios para dispositivos auditivos externos
+ 42144000                | Partes y accesorios para dispositivos auditivos   +
+                         | externos
  42144100                | Productos para drenaje de la cavidad pleural
  42144200                | Equipo de acupuntura
  42144300                | Productos de contra pulsación externa
  42151500                | Suministros y equipos de odontología cosmética
- 42151600                | Instrumentos y dispositivos dentales y de subespecialidad
+ 42151600                | Instrumentos y dispositivos dentales y de         +
+                         | subespecialidad
  42151700                | Muebles para la clínica dental
- 42151800                | Rellenos y acabados dentales y suministros para pulir
- 42151900                | Equipo y suministros para higiene dental y cuidado preventivo
+ 42151800                | Rellenos y acabados dentales y suministros para   +
+                         | pulir
+ 42151900                | Equipo y suministros para higiene dental y cuidado+
+                         | preventivo
+ 50306500                | Sapotes
  42152000                | Equipo y suministros para hacer imágenes dentales
- 42152100                | Equipo y suministros dentales para impresión y formar
- 42152200                | Equipo y suministros dentales de laboratorio y de esterilización
- 42152300                | Láseres y equipo de iluminación y fibra óptica para odontología, y suministros
+ 42152100                | Equipo y suministros dentales para impresión y    +
+                         | formar
+ 42152200                | Equipo y suministros dentales de laboratorio y de +
+                         | esterilización
+ 42152300                | Láseres y equipo de iluminación y fibra óptica    +
+                         | para odontología, y suministros
  42152400                | Materiales dentales
  42152500                | Suministros dentales generales
  42152600                | Suministros específicos a la operación dental
  42152700                | Equipo y suministros ortodoncia y prostodónticos
  42152800                | Equipo y suministro periodontal
- 42161500                | Equipo de diálisis peritoneal y de equilibrio y suministros
+ 42161500                | Equipo de diálisis peritoneal y de equilibrio y   +
+                         | suministros
  42161600                | Equipo de hemodiálisis extracorpórea y suministros
  42161700                | Equipo de hemofiltración y suministros
- 42161800                | Equipo y suministros de terapia renal sustitutiva continua (CRRT)
+ 42161800                | Equipo y suministros de terapia renal sustitutiva +
+                         | continua (CRRT)
  42161900                | Equipo y suministros para aféresis terapéutica
- 42171500                | Productos de servicio médico de urgencia en la gestión de desastre
- 42171600                | Productos de sacar, inmovilizar y trasladar de servicios médicos de urgencia
+ 42171500                | Productos de servicio médico de urgencia en la    +
+                         | gestión de desastre
+ 42171600                | Productos de sacar, inmovilizar y trasladar de    +
+                         | servicios médicos de urgencia
  42171700                | Mantas de servicios médicos de urgencia
- 42171800                | Equipo de servicios médicos de urgencia de gestión del vía de aire
- 42171900                | Cajas o bolsas de almacenaje para servicios médicos de urgencia
- 42172000                | Kits para los servicios médicos de urgencias y campo
- 42172100                | Productos de resucitación de servicios médicos de emergencia
+ 42171800                | Equipo de servicios médicos de urgencia de gestión+
+                         | del vía de aire
+ 42171900                | Cajas o bolsas de almacenaje para servicios       +
+                         | médicos de urgencia
+ 42172000                | Kits para los servicios médicos de urgencias y    +
+                         | campo
+ 42172100                | Productos de resucitación de servicios médicos de +
+                         | emergencia
  42172200                | Suministros de servicios médicos de emergencia
- 42181500                | Evaluación diagnóstica y productos de examen de uso general
- 42181600                | Unidades de presión sanguínea y productos relacionados
- 42181700                | Unidades de electrocardiografía (ECG) y productos relacionados
+ 42181500                | Evaluación diagnóstica y productos de examen de   +
+                         | uso general
+ 42181600                | Unidades de presión sanguínea y productos         +
+                         | relacionados
+ 42181700                | Unidades de electrocardiografía (ECG) y productos +
+                         | relacionados
  42181800                | Oxímetros de pulso
- 42181900                | Unidades de control de cuidado intenso y productos relacionados
- 42182000                | Especulo y scopios y accesorios para uso del reconocimiento diagnóstico médico
+ 42181900                | Unidades de control de cuidado intenso y productos+
+                         | relacionados
+ 42182000                | Especulo y scopios y accesorios para uso del      +
+                         | reconocimiento diagnóstico médico
  42182100                | Estetoscopio y productos relacionados
  42182200                | Termómetros médicos y accesorios
  42182300                | Productos del examen neurológico
@@ -1643,167 +1804,274 @@
  42182600                | Lámparas o luces de examen médico
  42182700                | Dispositivos de medición de talla de examen médico
  42182800                | Básculas médicas de peso
- 42182900                | Mesas de examen de especialidad y productos relacionados
+ 42182900                | Mesas de examen de especialidad y productos       +
+                         | relacionados
  42183000                | Productos de examen diagnóstico oftálmico
  42183100                | Medidores de la capacidad gustativa
  42183200                | Equipo y suministros de alergología
- 42183300                | Accesorios de unidades de examen de otorrinolaringología y productos relacionados
- 42191500                | Manejo de materiales de facilidad médica y equipo de distribución
+ 42183300                | Accesorios de unidades de examen de               +
+                         | otorrinolaringología y productos relacionados
+ 42191500                | Manejo de materiales de facilidad médica y equipo +
+                         | de distribución
  42191600                | Sistemas de construcción de facilidad médica
  42191700                | Productos de gas de hospital
  42191800                | Camas de paciente y accesorios
  42191900                | Armarios clínicos
  42192000                | Mesas de examen o de procedimiento clínico
- 42192100                | Asientos y taburetes clínicos y productos relacionados
+ 42192100                | Asientos y taburetes clínicos y productos         +
+                         | relacionados
  42192200                | Productos para transporte de paciente
  42192300                | Elevadores de paciente
- 42192400                | Transporte de equipo médico y traslado de productos
+ 42192400                | Transporte de equipo médico y traslado de         +
+                         | productos
  42192500                | Protectores para equipo médico
- 42192600                | Dispositivos de dosificación y medición de medicamentos y suministros
- 42201500                | Sistemas de tomografía informatizada (TAC o CT) médica y productos relacionados
+ 42192600                | Dispositivos de dosificación y medición de        +
+                         | medicamentos y suministros
+ 42201500                | Sistemas de tomografía informatizada (TAC o CT)   +
+                         | médica y productos relacionados
  42201600                | Productos de resonancia magnética (MRI) médica
- 42201700                | Productos de hacer imágenes de ultrasonido médico y de doppler y de eco
+ 42201700                | Productos de hacer imágenes de ultrasonido médico +
+                         | y de doppler y de eco
  42201800                | Productos radiográficos de diagnóstico médico
- 42201900                | Fuentes de iluminación y equipo de visión de película radiográfica médica
- 42202000                | Cámaras médicas gamma de diagnóstico y productos relacionados
+ 42201900                | Fuentes de iluminación y equipo de visión de      +
+                         | película radiográfica médica
+ 42202000                | Cámaras médicas gamma de diagnóstico y productos  +
+                         | relacionados
  42202100                | Productos de Braquiterapia
  42202200                | Productos de radiación gamma
- 42202300                | Productos de acelerador lineal de terapia de radiación de intensidad modulada (IMRT) médica
- 42202400                | Equipo de tomografía por emisión de positrones (PET) médica y productos relacionados
- 42202500                | Equipo de tomografía informatizada por emisión de fotones simples (SPECT) médica y productos relacionados
- 42202600                | Productos de administración de radioisótopos y radioimunoterapia
+ 42202300                | Productos de acelerador lineal de terapia de      +
+                         | radiación de intensidad modulada (IMRT) médica
+ 42202400                | Equipo de tomografía por emisión de positrones    +
+                         | (PET) médica y productos relacionados
+ 42202500                | Equipo de tomografía informatizada por emisión de +
+                         | fotones simples (SPECT) médica y productos        +
+                         | relacionados
+ 42202600                | Productos de administración de radioisótopos y    +
+                         | radioimunoterapia
  42202700                | Productos de radioterapia tele terapia
- 42202900                | Equipo radiográfico médico de bajo consumo eléctrico
- 42203000                | Aceleradores médicos lineales y productos relacionados
+ 42202900                | Equipo radiográfico médico de bajo consumo        +
+                         | eléctrico
+ 42203000                | Aceleradores médicos lineales y productos         +
+                         | relacionados
  42203100                | Instrumentos radio biológicos
  42203200                | Simuladores de radioterapia
  42203300                | Sistemas médicos estereotáctica
- 42203400                | Productos para hacer imágenes vasculares y para cardiología intervencionista y laboratorios de cateterización cardiaca
+ 42203400                | Productos para hacer imágenes vasculares y para   +
+                         | cardiología intervencionista y laboratorios de    +
+                         | cateterización cardiaca
  42203500                | Marcapasos cardiacos o productos relacionados
- 42203600                | Productos de archivar y información de toma de imágenes radiológicos médicos
- 42203700                | Suministros y equipo de procesado de toma de imágenes médicos
+ 42203600                | Productos de archivar y información de toma de    +
+                         | imágenes radiológicos médicos
+ 42203700                | Suministros y equipo de procesado de toma de      +
+                         | imágenes médicos
  42203800                | Auxilios de posicionamiento radiológico médico
- 42203900                | Productos para controlar o detectar radiación médica
- 42204000                | Productos de protección y resguardo radiológico médico
- 42204100                | Equipo caliente de laboratorio y productos relacionados para medicina nuclear
- 42211500                | Ayuda de ambulación y traslado y posicionar para personas físicamente discapacitadas
- 42211600                | Baño y ayudas de baño para personas físicamente discapacitadas
- 42211700                | Ayudas de comunicación para personas físicamente discapacitadas
- 42211800                | Ayuda para vestirse y asearse para personas físicamente discapacitadas
- 42211900                | Ayuda de preparación de comida y bebida y alimentos para personas físicamente discapacitadas
- 42212000                | Cuidado de la casa y ayuda para el cuidado de la casa para personas físicamente discapacitadas
- 42212100                | Aparatos de tiempo libre y recreo para personas físicamente discapacitadas
- 42212200                | Auxilio de manejo de medicamentos para personas físicamente discapacitadas
- 42212300                | Ayuda para llegar o agarrar para personas físicamente discapacitadas
- 42221500                | Accesorios y catéteres y cánulas intravenosas y arteriales
- 42221600                | Tubería y juegos de administración arterial o intravenoso y productos relacionados
- 42221700                | Bolsas de infusión y recipientes y productos relacionados intravenosos y arteriales
- 42221800                | Aparatos para posicionar aguja y catéter intravenoso o arterial
- 42221900                | Productos de regulación y medida del flujo intravenoso o arterial
- 42222000                | Bombas de infusión intravenosa, así como sus analizadores, sensores y accesorios
- 42222100                | Sistemas de transporte y suspensión de equipo arterial y intravenoso
- 42222200                | Sistemas de inyectar y retirar intravenosos sin aguja
- 42222300                | Productos de transfusión y administración de sangre
+ 42203900                | Productos para controlar o detectar radiación     +
+                         | médica
+ 42204000                | Productos de protección y resguardo radiológico   +
+                         | médico
+ 42204100                | Equipo caliente de laboratorio y productos        +
+                         | relacionados para medicina nuclear
+ 42211500                | Ayuda de ambulación y traslado y posicionar para  +
+                         | personas físicamente discapacitadas
+ 42211600                | Baño y ayudas de baño para personas físicamente   +
+                         | discapacitadas
+ 42211700                | Ayudas de comunicación para personas físicamente  +
+                         | discapacitadas
+ 42211800                | Ayuda para vestirse y asearse para personas       +
+                         | físicamente discapacitadas
+ 42211900                | Ayuda de preparación de comida y bebida y         +
+                         | alimentos para personas físicamente discapacitadas
+ 50306600                | Bayas saskatoon
+ 50306700                | Fresas
+ 42212000                | Cuidado de la casa y ayuda para el cuidado de la  +
+                         | casa para personas físicamente discapacitadas
+ 42212100                | Aparatos de tiempo libre y recreo para personas   +
+                         | físicamente discapacitadas
+ 42212200                | Auxilio de manejo de medicamentos para personas   +
+                         | físicamente discapacitadas
+ 42212300                | Ayuda para llegar o agarrar para personas         +
+                         | físicamente discapacitadas
+ 42221500                | Accesorios y catéteres y cánulas intravenosas y   +
+                         | arteriales
+ 42221600                | Tubería y juegos de administración arterial o     +
+                         | intravenoso y productos relacionados
+ 42221700                | Bolsas de infusión y recipientes y productos      +
+                         | relacionados intravenosos y arteriales
+ 42221800                | Aparatos para posicionar aguja y catéter          +
+                         | intravenoso o arterial
+ 42221900                | Productos de regulación y medida del flujo        +
+                         | intravenoso o arterial
+ 42222000                | Bombas de infusión intravenosa, así como sus      +
+                         | analizadores, sensores y accesorios
+ 42222100                | Sistemas de transporte y suspensión de equipo     +
+                         | arterial y intravenoso
+ 42222200                | Sistemas de inyectar y retirar intravenosos sin   +
+                         | aguja
+ 42222300                | Productos de transfusión y administración de      +
+                         | sangre
  42231500                | Suministros y equipo de alimentación enteral
- 42231600                | Accesorios o dispositivos de acceso de jejunostomía y gastronomía
+ 42231600                | Accesorios o dispositivos de acceso de            +
+                         | jejunostomía y gastronomía
  42231700                | Tubos naso-entéricos
  42231800                | Fórmulas y productos para apoyo nutritivo
  42231900                | Equipo y suministros de lactancia materna
- 42232000                | Trituradores de pastillas, cortapastillas y productos relacionados
+ 42232000                | Trituradores de pastillas, cortapastillas y       +
+                         | productos relacionados
+ 45101700                | Accesorios de imprenta
  42241500                | Suministros de vaciado de escayola y tablillas
- 42241600                | Equipo y piezas y accesorios de vaciado de escayola
- 42241700                | Productos blandos ortopédicos para la extremidad inferior
- 42241800                | Productos blando ortopédicos para el torso y extremidad superior
+ 42241600                | Equipo y piezas y accesorios de vaciado de        +
+                         | escayola
+ 42241700                | Productos blandos ortopédicos para la extremidad  +
+                         | inferior
+ 42241800                | Productos blando ortopédicos para el torso y      +
+                         | extremidad superior
  42241900                | Suministros de tablillas dinámicas y batangas
  42242000                | Dispositivos, accesorios y suministros protésicos
  42242100                | Suministros y accesorios de tracción ortopédica
  42242300                | Equipo y suministros ortopédicos
- 42251500                | Productos de terapia y evaluación sensoria y perceptual y dexteridad y cognitiva
- 42251600                | Equipo y dispositivos de ejercicio de rehabilitación
+ 42251500                | Productos de terapia y evaluación sensoria y      +
+                         | perceptual y dexteridad y cognitiva
+ 42251600                | Equipo y dispositivos de ejercicio de             +
+                         | rehabilitación
  42251700                | Productos para entrenamiento del modo de andar
- 42251800                | Equipo para hacer dura el trabajo para rehabilitación o terapia
- 42261500                | Suministros y instrumentos para disección de patología
+ 42251800                | Equipo para hacer dura el trabajo para            +
+                         | rehabilitación o terapia
+ 42261500                | Suministros y instrumentos para disección de      +
+                         | patología
  42261600                | Suministros y equipo de autopsia
  42261700                | Muebles de autopsia
- 42261800                | Equipo y suministros de transporte y almacenaje del cadáver
+ 42261800                | Equipo y suministros de transporte y almacenaje   +
+                         | del cadáver
  42261900                | Equipo y suministros forenses clínicos
  42262000                | Equipo y suministros de embalsamar
  42262100                | Equipo y suministros funerarios
  42271500                | Productos para el control respiratorio
- 42271600                | Productos de comprobación y tratamiento de las funciones pulmonares
- 42271700                | Sistemas y dispositivos de terapia de entrega de oxígeno
- 42271800                | Productos de terapia aerosol y humedad respiratoria
+ 42271600                | Productos de comprobación y tratamiento de las    +
+                         | funciones pulmonares
+ 42271700                | Sistemas y dispositivos de terapia de entrega de  +
+                         | oxígeno
+ 42271800                | Productos de terapia aerosol y humedad            +
+                         | respiratoria
  42271900                | Productos para la gestión de la vía aérea
  42272000                | Suministros de intubación
  42272100                | Ventiladores de presión mecánica negativa
- 42272200                | Ventiladores y accesorios de presión mecánica positiva
+ 42272200                | Ventiladores y accesorios de presión mecánica     +
+                         | positiva
  42272300                | Suministros de resucitadores
  42272500                | Aparatos de anestesia, y accesorios y suministros
- 42281500                | Equipo y accesorios de esterilizadores y de autoclave
- 42281600                | Soluciones de desinfectantes y esterilización en frío
- 42281700                | Soluciones y equipo de limpieza pre- esterilización
+ 42281500                | Equipo y accesorios de esterilizadores y de       +
+                         | autoclave
+ 42281600                | Soluciones de desinfectantes y esterilización en  +
+                         | frío
+ 42281700                | Soluciones y equipo de limpieza pre-              +
+                         | esterilización
  42281800                | Controles y indicadores de esterilización
- 42281900                | Suministros de empaquetar y envoltura de esterilización
- 42291500                | Instrumentos quirúrgicos y productos relacionados para biopsia de los huesos
- 42291600                | Instrumentos quirúrgicos de cortar y lazos y productos relacionados
- 42291700                | Taladros quirúrgicos de mano y escariadores y instrumentos de punción y accesorios y productos relacionados
- 42291800                | Abrazaderas quirúrgicas y fórceps y ligadores quirúrgicos y instrumentos relacionados
- 42291900                | Posicionadores y portadores de tubos y instrumentos quirúrgicos
+ 42281900                | Suministros de empaquetar y envoltura de          +
+                         | esterilización
+ 42291500                | Instrumentos quirúrgicos y productos relacionados +
+                         | para biopsia de los huesos
+ 42291600                | Instrumentos quirúrgicos de cortar y lazos y      +
+                         | productos relacionados
+ 42291700                | Taladros quirúrgicos de mano y escariadores y     +
+                         | instrumentos de punción y accesorios y productos  +
+                         | relacionados
+ 42291800                | Abrazaderas quirúrgicas y fórceps y ligadores     +
+                         | quirúrgicos y instrumentos relacionados
+ 42291900                | Posicionadores y portadores de tubos y            +
+                         | instrumentos quirúrgicos
  42292000                | Espejos quirúrgicos
- 42292100                | Insertadores y extractores quirúrgicos y productos relacionados
- 42292200                | Aproximadores y compresores y depresores quirúrgicos y productos relacionados
- 42292300                | Hierros de flexión y herramientas de plegar y tenazas y tensionadores y torceduras quirúrgicos y productos relacionados
- 42292400                | Machos de roscar y impulsores quirúrgicos y productos relacionados
- 42292500                | Martillos y malletes y impactadores y prensas quirúrgicos y productos relacionados
- 42292600                | Dilatadores y sondas y ranuras quirúrgicas y productos relacionados
- 42292700                | Disectores y Elevadores y Piquetas quirúrgicos y productos relacionados
+ 42292100                | Insertadores y extractores quirúrgicos y productos+
+                         | relacionados
+ 42292200                | Aproximadores y compresores y depresores          +
+                         | quirúrgicos y productos relacionados
+ 42292300                | Hierros de flexión y herramientas de plegar y     +
+                         | tenazas y tensionadores y torceduras quirúrgicos y+
+                         | productos relacionados
+ 42292400                | Machos de roscar y impulsores quirúrgicos y       +
+                         | productos relacionados
+ 42292500                | Martillos y malletes y impactadores y prensas     +
+                         | quirúrgicos y productos relacionados
+ 42292600                | Dilatadores y sondas y ranuras quirúrgicas y      +
+                         | productos relacionados
+ 42292700                | Disectores y Elevadores y Piquetas quirúrgicos y  +
+                         | productos relacionados
  42292800                | Instrumentos quirúrgicos de marcar
- 42292900                | Instrumentos quirúrgicos de cerrar la sutura de tejido y productos relacionados
- 42293000                | Dispositivos quirúrgicos de medir y productos relacionados
+ 42292900                | Instrumentos quirúrgicos de cerrar la sutura de   +
+                         | tejido y productos relacionados
+ 42293000                | Dispositivos quirúrgicos de medir y productos     +
+                         | relacionados
  42293100                | Retractores quirúrgicos y productos relacionados
  42293200                | Instrumentos quirúrgicos de mioma
- 42293300                | Distractores y esparcidores y separadores quirúrgicos y productos relacionados
- 42293400                | Manipuladores y posicionadores quirúrgicos de implante y productos relacionados
- 42293500                | Cánulas y puntas y estiletes de irrigación y succión quirúrgica y productos relacionados
- 42293600                | Bougies quirúrgicos y sondas y obturadores y productos relacionados
- 42293700                | Machacadoras y excavadoras y fragmentadoras quirúrgicas y productos relacionados
- 42293800                | Agarradores y buscadores y excavadores y desmoldadores quirúrgicos y productos relacionados
- 42293900                | Instrumentos quirúrgicos para empaque de heridas y productos relacionados
- 42294000                | Espátulas y cucharas y cucharones quirúrgicos y productos relacionados
- 42294100                | Dispositivos esqueléticos quirúrgicos de tracción y productos relacionados
- 42294200                | Juegos de instrumentos y sistemas y bandejas quirúrgicos
- 42294300                | Instrumentos de biopsia de invasiva mínima del pecho y suministros y equipo
+ 42293300                | Distractores y esparcidores y separadores         +
+                         | quirúrgicos y productos relacionados
+ 42293400                | Manipuladores y posicionadores quirúrgicos de     +
+                         | implante y productos relacionados
+ 42293500                | Cánulas y puntas y estiletes de irrigación y      +
+                         | succión quirúrgica y productos relacionados
+ 42293600                | Bougies quirúrgicos y sondas y obturadores y      +
+                         | productos relacionados
+ 42293700                | Machacadoras y excavadoras y fragmentadoras       +
+                         | quirúrgicas y productos relacionados
+ 42293800                | Agarradores y buscadores y excavadores y          +
+                         | desmoldadores quirúrgicos y productos relacionados
+ 42293900                | Instrumentos quirúrgicos para empaque de heridas y+
+                         | productos relacionados
+ 42294000                | Espátulas y cucharas y cucharones quirúrgicos y   +
+                         | productos relacionados
+ 42294100                | Dispositivos esqueléticos quirúrgicos de tracción +
+                         | y productos relacionados
+ 42294200                | Juegos de instrumentos y sistemas y bandejas      +
+                         | quirúrgicos
+ 42294300                | Instrumentos de biopsia de invasiva mínima del    +
+                         | pecho y suministros y equipo
  42294400                | Sistemas cardiacos y vasculares
- 42294500                | Instrumentos de especialidad oftálmica y productos relacionados
+ 42294500                | Instrumentos de especialidad oftálmica y productos+
+                         | relacionados
  42294600                | Productos de autotransfusión
- 42294700                | Equipo de perfusión de corazón abierto y monitores y accesorios y productos relacionados
+ 42294700                | Equipo de perfusión de corazón abierto y monitores+
+                         | y accesorios y productos relacionados
  42294800                | Endoscopios y accesorios y productos relacionados
- 42294900                | Instrumentos endoscópicos y suministros accesorios y productos relacionados
- 42295000                | Equipo endoscópico y accesorios y productos relacionados
- 42295100                | Equipo quirúrgico y accesorios y productos relacionados
- 42295200                | Equipo quirúrgico de energía y accesorios y productos relacionados
- 42295300                | Suministros y accesorios para cirugía de corazón abierto y productos relacionados
+ 42294900                | Instrumentos endoscópicos y suministros accesorios+
+                         | y productos relacionados
+ 42295000                | Equipo endoscópico y accesorios y productos       +
+                         | relacionados
+ 42295100                | Equipo quirúrgico y accesorios y productos        +
+                         | relacionados
+ 42295200                | Equipo quirúrgico de energía y accesorios y       +
+                         | productos relacionados
+ 42295300                | Suministros y accesorios para cirugía de corazón  +
+                         | abierto y productos relacionados
  42295400                | Suministros quirúrgicos auxiliares
- 42295500                | Implantes quirúrgico y ensanchadores y extensores y alambres quirúrgicos y productos relacionados
- 42295600                | Productos y accesorios de drenaje de fluido cerebroespinal
- 42295800                | Sistemas y accesorios de termo - ablación quirúrgica
+ 42295500                | Implantes quirúrgico y ensanchadores y extensores +
+                         | y alambres quirúrgicos y productos relacionados
+ 42295600                | Productos y accesorios de drenaje de fluido       +
+                         | cerebroespinal
+ 42295800                | Sistemas y accesorios de termo - ablación         +
+                         | quirúrgica
  42295900                | Stents quirúrgicos
  42296000                | Implantes cardiovasculares
  42296100                | Implantes neuroquirúrgicos
- 42296200                | Equipo y accesorios de robótica quirúrgica y productos relacionados
+ 42296200                | Equipo y accesorios de robótica quirúrgica y      +
+                         | productos relacionados
  42301500                | Ayudas para formación médica
  42311500                | Vendas y vendajes y productos relacionados
  42311600                | Agentes hemoestáticos tópicos exógenos
- 42311700                | Cintas adhesivas médicas y quirúrgicas y productos relacionados para el uso en especialidades
- 42311900                | Drenajes médicos de incisión y bolsas de drenaje y depósitos y productos relacionados
+ 42311700                | Cintas adhesivas médicas y quirúrgicas y productos+
+                         | relacionados para el uso en especialidades
+ 42311900                | Drenajes médicos de incisión y bolsas de drenaje y+
+                         | depósitos y productos relacionados
  42312000                | Cierre de tejidos médicos y productos relacionados
- 42312100                | Suministros de ostomía y productos no quirúrgicos de drenaje de heridas
+ 42312100                | Suministros de ostomía y productos no quirúrgicos +
+                         | de drenaje de heridas
  42312200                | Sutura y productos relacionados
  42312300                | Productos para limpiar la herida y desbridamiento
  42312400                | Productos para la curación de heridas
- 42312500                | Dispositivos de sujeción de heridas, y accesorios y suministros
- 42312600                | Productos de terapia de presión negativa para heridas
- 42312700                | Productos de terapia de oxígeno para heridas tópicas
+ 42312500                | Dispositivos de sujeción de heridas, y accesorios +
+                         | y suministros
+ 42312600                | Productos de terapia de presión negativa para     +
+                         | heridas
+ 42312700                | Productos de terapia de oxígeno para heridas      +
+                         | tópicas
  42321500                | Implantes de trauma ortopédico
  42321600                | Implantes espinales
  42321700                | Implantes de cadera
@@ -1813,25 +2081,31 @@
  42322100                | Implantes ortopédicos de prueba
  42322200                | Productos para la fijación de tejidos blandos
  43191500                | Dispositivos de comunicación personal
- 43191600                | Partes o accesorios de dispositivos de comunicación personal
+ 43191600                | Partes o accesorios de dispositivos de            +
+                         | comunicación personal
  43201400                | Tarjetas del sistema
- 43201500                | Módulos o interfaces de procesadores de tablero (board) del sistema
+ 43201500                | Módulos o interfaces de procesadores de tablero   +
+                         | (board) del sistema
  43201600                | Componentes del chasis
  43201800                | Dispositivos de almacenamiento
  43201900                | Accesorios de dispositivos de almacenamiento
  43202000                | Dispositivos de almacenamiento extraíbles
- 43202100                | Accesorios de dispositivos de almacenamiento extraíbles
+ 43202100                | Accesorios de dispositivos de almacenamiento      +
+                         | extraíbles
  43202200                | Subconjuntos para dispositivos electrónicos
  43211500                | Computadores
  43211600                | Accesorios de computador
  43211700                | Dispositivos informáticos de entrada de datos
- 43211800                | Accesorios de dispositivos de entrada de datos de computador
+ 43211800                | Accesorios de dispositivos de entrada de datos de +
+                         | computador
  43211900                | Monitores y pantallas de computador
  43212000                | Accesorios de pantallas de computador
  43212100                | Impresoras de computador
- 43212200                | Sistemas de manejo de almacenamiento de datos de computador
+ 43212200                | Sistemas de manejo de almacenamiento de datos de  +
+                         | computador
  43221500                | Sistemas de gestión de llamadas o accesorios
- 43221600                | Componentes y equipo de acceso de abonado de línea digital (DSL) y accesorios
+ 43221600                | Componentes y equipo de acceso de abonado de línea+
+                         | digital (DSL) y accesorios
  43221700                | Equipo fijo de red y componentes
  43221800                | Dispositivos de red óptica
  43222500                | Equipo de seguridad de red
@@ -1840,11 +2114,14 @@
  43222800                | Equipo de telefonía
  43222900                | Accesorios de equipo de telefonía
  43223000                | Equipo de teletipo
- 43223100                | Componentes y equipo de infraestructura de redes móviles y digitales
+ 43223100                | Componentes y equipo de infraestructura de redes  +
+                         | móviles y digitales
  43223200                | Plataformas de mensajería por móvil
- 43223300                | Dispositivos y equipos para instalación de conectividad de redes y Datacom
+ 43223300                | Dispositivos y equipos para instalación de        +
+                         | conectividad de redes y Datacom
  43231500                | Software funcional específico de la empresa
- 43231600                | Software de planificación de recursos empresariales (ERP) y contabilidad financiera
+ 43231600                | Software de planificación de recursos             +
+                         | empresariales (ERP) y contabilidad financiera
  43232000                | Software de entretenimiento o juegos de computador
  43232100                | Software de edición y creación de contenidos
  43232200                | Software de gestión de contenidos
@@ -1857,14 +2134,17 @@
  43232900                | Software para trabajo en redes
  43233000                | Software de entorno operativo
  43233200                | Software de seguridad y protección
- 43233400                | Software de controladores de dispositivos y utilidades
+ 43233400                | Software de controladores de dispositivos y       +
+                         | utilidades
  43233500                | Software de intercambio de información
  43233600                | Software de equipo eléctrico
  43233700                | Software de administración de sistemas
  44101500                | Máquinas de duplicación
  44101600                | Máquinas para procesamiento de papel y accesorios
- 44101700                | Accesorios para impresoras, fotocopiadoras y aparatos de fax
+ 44101700                | Accesorios para impresoras, fotocopiadoras y      +
+                         | aparatos de fax
  44101800                | Máquinas calculadoras y accesorios
+ 50306800                | Manzanas dulces
  44101900                | Máquinas para endosar y escribir cheques
  44102000                | Suministros para plastificado
  44102100                | Máquinas de correo
@@ -1877,7 +2157,8 @@
  44102900                | Accesorios de máquinas de oficina
  44103000                | Fusores y Accesorios
  44103100                | Suministros para impresora, fax y fotocopiadora
- 44103200                | Máquinas y accesorios de registrar la hora para la oficina
+ 44103200                | Máquinas y accesorios de registrar la hora para la+
+                         | oficina
  44103500                | Suministros de máquinas de encuadernar
  44103600                | Equipo de eliminación de casetes y accesorios
  44111500                | Agendas y accesorios
@@ -1894,15 +2175,18 @@
  44122100                | Suministros de sujeción
  45101500                | Maquinaria y equipo de imprenta
  45101600                | Accesorios para máquinas de imprenta
- 45101700                | Accesorios de imprenta
- 45101800                | Equipo y accesorios para el cosido y encuadernación de libros
+ 45101800                | Equipo y accesorios para el cosido y              +
+                         | encuadernación de libros
  45101900                | Equipo y accesorios de laboratorio de imprenta
  45102000                | Máquinas y accesorios de composición
  45111500                | Atriles, sistemas de sonido y accesorios
  45111600                | Proyectores y suministros
- 45111700                | Equipo de composición y presentación de sonido, hardware y controladores
- 45111800                | Equipo de presentación de vídeo y de mezcla de vídeo y sonido, hardware y controladores
- 45111900                | Equipos, hardware y controladores para sistemas de teleconferencia y videoconferencia
+ 45111700                | Equipo de composición y presentación de sonido,   +
+                         | hardware y controladores
+ 45111800                | Equipo de presentación de vídeo y de mezcla de    +
+                         | vídeo y sonido, hardware y controladores
+ 45111900                | Equipos, hardware y controladores para sistemas de+
+                         | teleconferencia y videoconferencia
  45112000                | Equipo y suministros de microfilm
  45121500                | Cámaras
  45121600                | Accesorios para cámaras
@@ -1921,8 +2205,10 @@
  46151500                | Equipo de control de masas
  46151600                | Equipo de seguridad y control
  46151700                | Equipo forense y accesorios y suministros
- 46151800                | Equipo y accesorios y suministros de control de explosivos
- 46151900                | Equipo y accesorios y suministros para el control químico biológico
+ 46151800                | Equipo y accesorios y suministros de control de   +
+                         | explosivos
+ 46151900                | Equipo y accesorios y suministros para el control +
+                         | químico biológico
  46161500                | Control de tráfico
  46161600                | Seguridad del Agua
  46161700                | Equipo y accesorios de rescate
@@ -1937,7 +2223,8 @@
  46182100                | Equipo y suministros antiestáticos
  46182200                | Equipo de apoyo ergonómico
  46182300                | Protección anti caída y equipo de rescate
- 46182400                | Equipo de limpieza de seguridad y materiales de descontaminación
+ 46182400                | Equipo de limpieza de seguridad y materiales de   +
+                         | descontaminación
  46182500                | Armas o dispositivos de seguridad personal
  46191500                | Prevención contra incendios
  46191600                | Equipo contra incendios
@@ -1965,7 +2252,8 @@
  48101800                | Menaje y utensilios de cocina
  48101900                | Tazas para servicio de mesa
  48102000                | Mobiliario de restaurantes
- 48102100                | Suministros y equipo de manipulación y almacenamiento
+ 48102100                | Suministros y equipo de manipulación y            +
+                         | almacenamiento
  48111000                | Máquinas expendedoras de líquidos
  48111100                | Máquinas expendedoras de piezas/unidades
  48111200                | Máquinas expendedoras de alimentos mandados hacer
@@ -2012,7 +2300,6 @@
  50121900                | Pescados y mariscos preservados en sal
  50131600                | Huevos y sustitutos
  50131700                | Productos de leche y mantequilla
- 50131800                | Queso
  50151500                | Grasas y aceites vegetales comestibles
  50151600                | Grasas y aceites animales comestibles
  50161500                | Chocolates, azúcares, edulcorantes productos
@@ -2029,7 +2316,8 @@
  50191500                | Sopas y estofados
  50192100                | Botanas
  50192300                | Postres y decoraciones de postres
- 50192400                | Mermeladas y gelatinas y pastas de untar de nuez y dulce y conservas de fruta
+ 50192400                | Mermeladas y gelatinas y pastas de untar de nuez y+
+                         | dulce y conservas de fruta
  50192500                | Sándwiches y panecillos con relleno
  50192600                | Acompañamientos preparados
  50192700                | Platos combinados empaquetados
@@ -2043,9 +2331,12 @@
  50202300                | Bebidas no alcohólicas
  50202400                | Jugos o concentrados de cítricos frescos
  50202500                | Jugos o concentrados de bayas frescas
- 50202600                | Jugos o concentrados de especies con pepitas frescas
- 50202700                | Jugos o concentrados de especies con una semilla grande frescas
- 50202800                | Jugos o concentrados de especies tropicales frescas
+ 50202600                | Jugos o concentrados de especies con pepitas      +
+                         | frescas
+ 50202700                | Jugos o concentrados de especies con una semilla  +
+                         | grande frescas
+ 50202800                | Jugos o concentrados de especies tropicales       +
+                         | frescas
  50203000                | Jugos o concentrados de melones frescos
  50211600                | Productos, suministros y accesorios para tabaco
  50221000                | Legumbres
@@ -2102,14 +2393,11 @@
  50306200                | Frambuesas
  50306300                | Ruibarbos
  50306400                | Escaramujos
- 50306500                | Sapotes
- 50306600                | Bayas saskatoon
- 50306700                | Fresas
- 50306800                | Manzanas dulces
  50306900                | Tamarillos
  50307000                | Frutas Nominant
  50307100                | Aronias
  50307200                | Aceitunas
+ 50307500                | Subproductos de frutas frescas
  50311500                | Manzanas orgánicas
  50311600                | Albaricoques orgánicos
  50311700                | Bananos orgánicos
@@ -2481,9 +2769,11 @@
  50373500                | Uvas pasas orgánicas en lata o en frasco
  50373600                | Uvas para vino orgánicas en lata o en frasco
  50373700                | Guayabas orgánicas en lata o en frasco
- 50373800                | Arándanos Huckleberry orgánicos en lata o en frasco
+ 50373800                | Arándanos Huckleberry orgánicos en lata o en      +
+                         | frasco
  50373900                | Kiwis orgánicos en lata o en frasco
- 50374000                | Naranjos Chinos (kumquats) orgánicos en lata o en frasco
+ 50374000                | Naranjos Chinos (kumquats) orgánicos en lata o en +
+                         | frasco
  50374100                | Limones orgánicos en lata o en frasco
  50374200                | Limas orgánicas en lata o en frasco
  50374300                | Nísperos orgánicos en lata o en frasco
@@ -2913,8 +3203,10 @@
  50471800                | Fríjoles orgánicos en lata o en frasco
  50471900                | Remolachas  orgánicas en lata o en frasco
  50472000                | Brócolis  orgánicas en lata o en frasco
- 50472100                | Repollitos de Bruselas  orgánicas en lata o en frasco
- 50472200                | Cebollas de ensalada  orgánicas en lata o en frasco
+ 50472100                | Repollitos de Bruselas  orgánicas en lata o en    +
+                         | frasco
+ 50472200                | Cebollas de ensalada  orgánicas en lata o en      +
+                         | frasco
  50472300                | Repollos orgánicos en lata o en frasco
  50472400                | Cardos orgánicos en lata o en frasco
  50472500                | Zanahorias  orgánicas en lata o en frasco
@@ -2942,7 +3234,8 @@
  50474700                | Ñames orgánicos en lata o en frasco
  50474800                | Hongos o champiñones orgánicos en lata o en frasco
  50474900                | Mostazas orgánicas en lata o en frasco
- 50475000                | Solanáceas (nightshades) orgánicas en lata o en frasco
+ 50475000                | Solanáceas (nightshades) orgánicas en lata o en   +
+                         | frasco
  50475100                | Okras orgánicas en lata o en frasco
  50475200                | Cebollas orgánicas en lata o en frasco
  50475300                | Maníes orgánicos en lata o en frasco
@@ -2984,31 +3277,39 @@
  51121600                | Medicamentos antiangina
  51121700                | Medicamentos antihipertensivos
  51121800                | Agentes antihiperlipidémicos/hipocolesterolémicos
- 51121900                | Medicamentos usados para insuficiencia cardíaca congestiva
+ 51121900                | Medicamentos usados para insuficiencia cardíaca   +
+                         | congestiva
  51122100                | Vasodilatadores
  51122200                | Fármacos contra la hipotensión
  51122300                | Agentes cardiopléjicos
  51131500                | Medicamentos antianémicos
  51131600                | Anticoagulantes
- 51131700                | Trombolíticos/inhibidores de agregación de plaquetas
+ 51131700                | Trombolíticos/inhibidores de agregación de        +
+                         | plaquetas
  51131800                | Agentes hemostáticos sistémicos y coagulantes
- 51131900                | Sustitutos de plasma sanguíneo y extensores y expansores
+ 51131900                | Sustitutos de plasma sanguíneo y extensores y     +
+                         | expansores
  51132000                | Agentes hemorreológicos
  51141500                | Anticonvulsivos
  51141600                | Antidepresivos
  51141700                | Agentes antipsicóticos
  51141800                | Hipnóticos
- 51141900                | Tranquilizantes y fármacos ansiolíticos y antimaniacos
+ 51141900                | Tranquilizantes y fármacos ansiolíticos y         +
+                         | antimaniacos
  51142000                | Analgésicos no narcóticos/antipiréticos
  51142100                | Fármacos antiinflamatorios no esteroideos (NSAID)
  51142200                | Analgésicos narcóticos
  51142300                | Antagonistas narcóticos
- 51142400                | Medicamentos para dolores de cabeza vasculares y migraña
+ 51142400                | Medicamentos para dolores de cabeza vasculares y  +
+                         | migraña
  51142500                | Medicamentos contra el Parkinson
  51142600                | Estimulantes/anoréxicos
- 51142700                | Fármacos antiinflamatorios no esteroideos veterinarios (VNSAID)
- 51142800                | Fármacos de tratamiento de la esclerosis lateral amiotrófica (ELA)
- 51142900                | Fármacos anestésicos, complementos relacionados y analépticos
+ 51142700                | Fármacos antiinflamatorios no esteroideos         +
+                         | veterinarios (VNSAID)
+ 51142800                | Fármacos de tratamiento de la esclerosis lateral  +
+                         | amiotrófica (ELA)
+ 51142900                | Fármacos anestésicos, complementos relacionados y +
+                         | analépticos
  51151500                | Colinérgicos y inhibidores de la colinesterasa
  51151600                | Agentes bloqueadores colinérgicos
  51151700                | Simpatomiméticos (adrenérgicos)
@@ -3017,21 +3318,26 @@
  51152000                | Agentes bloqueadores neuromusculares
  51161500                | Antiasmáticos
  51161600                | Antihistamínicos (bloqueadores H1)
- 51161700                | Medicamentos para alteraciones del tracto respiratorio
+ 51161700                | Medicamentos para alteraciones del tracto         +
+                         | respiratorio
  51161800                | Productos para tos, resfriados y antialérgicos
  51161900                | Descongestionantes nasales
  51171500                | Antiácidos y antiflatulentos
  51171600                | Laxantes
  51171700                | Antidiarréicos
  51171800                | Agentes antivértigo, antinauseantes y antieméticos
- 51171900                | Fármacos antiúlcera y otros fármacos gastrointestinales (GI) relacionados
- 51172000                | Medicamentos para enfermedades de la vesícula biliar
+ 51171900                | Fármacos antiúlcera y otros fármacos              +
+                         | gastrointestinales (GI) relacionados
+ 51172000                | Medicamentos para enfermedades de la vesícula     +
+                         | biliar
  51172100                | Antiespasmódicos
  51181500                | Agentes antidiabéticos y agentes hiperglicémicos
  51181600                | Medicamentos tiroideas y antitiroideas
  51181700                | Corticosteroides
- 51181800                | Estrógenos, progesteronas y anticonceptivos internos
- 51181900                | Hormonas gonadotrópicas y estimulantes e inhibidores ováricos
+ 51181800                | Estrógenos, progesteronas y anticonceptivos       +
+                         | internos
+ 51181900                | Hormonas gonadotrópicas y estimulantes e          +
+                         | inhibidores ováricos
  51182000                | Andrógenos e inhibidores androgénicos
  51182100                | Hormonas de la pituitaria posterior
  51182200                | Medicamentos para la inducción del parto
@@ -3041,7 +3347,8 @@
  51191600                | Electrolitos
  51191700                | Agentes alcalinizadores
  51191800                | Sales de potasio
- 51191900                | Suplementos dietéticos y productos de terapia alimenticia
+ 51191900                | Suplementos dietéticos y productos de terapia     +
+                         | alimenticia
  51201500                | Inmunodepresores
  51201600                | Vacunas, antígenos y toxoides
  51201700                | Vacunas aviares
@@ -3067,7 +3374,8 @@
  52121700                | Toallas
  52131500                | Cortinas y ropaje
  52131600                | Persianas
- 52131700                | Accesorios y ferretería para tratamiento de ventanas
+ 52131700                | Accesorios y ferretería para tratamiento de       +
+                         | ventanas
  52141500                | Electrodomésticos para cocina
  52141600                | Lavadoras y suministros de uso doméstico
  52141700                | Aparatos de baño domésticos
@@ -3077,14 +3385,17 @@
  52151700                | Cubertería y cuchillería de uso doméstico
  52151800                | Batería de cocina doméstica
  52151900                | Utensilios para hornear domésticos
- 52152000                | Platos, utensilios para servir y recipientes para almacenar
+ 52152000                | Platos, utensilios para servir y recipientes para +
+                         | almacenar
  52152100                | Cristalería de uso doméstico
- 52152200                | Lavado de platos y accesorios de almacenamiento de platos
+ 52152200                | Lavado de platos y accesorios de almacenamiento de+
+                         | platos
  52152300                | Suministros de cocina doméstica
  52161500                | Equipos audiovisuales
  52161600                | Accesorios de equipo audiovisual
  52171000                | Tratamientos de pared de baño
- 53101500                | Pantalones de deporte, pantalones y pantalones cortos
+ 53101500                | Pantalones de deporte, pantalones y pantalones    +
+                         | cortos
  53101600                | Faldas y blusas
  53101700                | Suéteres
  53101800                | Abrigos y chaquetas
@@ -3124,7 +3435,8 @@
  54101700                | Herramientas y materiales de joyería
  54111500                | Relojes de pulsera o bolsillo
  54111600                | Relojes de pared o de mesa
- 54111700                | Piezas de relojes de pulsera o de pared o pie o accesorios
+ 54111700                | Piezas de relojes de pulsera o de pared o pie o   +
+                         | accesorios
  54121500                | Piedras preciosas
  54121600                | Piedras semipreciosas
  54121700                | Perlas
@@ -3150,21 +3462,27 @@
  56112000                | Muebles de apoyo de la computadora
  56112100                | Asientos
  56112200                | Sistemas de escritorios
- 56112300                | Partes y accesorios para asientos de auditorios o estadios o de uso especial
+ 56112300                | Partes y accesorios para asientos de auditorios o +
+                         | estadios o de uso especial
  56121000                | Mobiliario de biblioteca
  56121100                | Mobiliario de clase de arte
  56121200                | Mobiliario de sala de primeros auxilios
  56121300                | Accesorios de instalaciones educativas generales
  56121400                | Mobiliario de cafetería y comedor
  56121500                | Mobiliario general de aula
- 56121600                | Mobiliario para el tiempo de descanso y ocio creativo para guardería infantil e instalaciones para niños
- 56121700                | Módulos de almacenamiento general y de libros para las aulas
+ 56121600                | Mobiliario para el tiempo de descanso y ocio      +
+                         | creativo para guardería infantil e instalaciones  +
+                         | para niños
+ 56121700                | Módulos de almacenamiento general y de libros para+
+                         | las aulas
  56121800                | Mobiliario y accesorios de aulas vocacionales
  56121900                | Mobiliario de demostración
  56122000                | Muebles de laboratorio
  56131500                | Maniquíes y formas
- 56131600                | Exhibidores y accesorios auto soportados para mercancías
- 56131700                | Aparatos, estantes, sistemas y accesorios para instalación de mercancías
+ 56131600                | Exhibidores y accesorios auto soportados para     +
+                         | mercancías
+ 56131700                | Aparatos, estantes, sistemas y accesorios para    +
+                         | instalación de mercancías
  56141500                | Adornos cerámicos para el hogar
  56141600                | Adornos de vidrio para el hogar
  60101000                | Kits de matemáticas
@@ -3176,27 +3494,41 @@
  60101700                | Materiales de recursos del profesor
  60101800                | Recursos educativos de las clases religiosas
  60101900                | Recursos y materiales de destreza alfabética
- 60102000                | Materiales de recursos de creación de palabras y accesorios
+ 60102000                | Materiales de recursos de creación de palabras y  +
+                         | accesorios
  60102100                | Materiales de recursos de lenguaje
  60102200                | Materiales de recursos de fonética y accesorios
  60102300                | Libros de lectura y recursos
- 60102400                | Recursos de cuenta y temprano aprendizaje de matemáticas y accesorios
- 60102500                | Recursos y materiales de numeración y operaciones matemáticas básicas
- 60102600                | Materiales de recursos del profesor de resolución de problemas, datos, posibilidades y probabilidades
- 60102700                | Materiales de recursos del profesor de pensamiento lógico, percepción espacial, identificación de coincidencias y patrones
- 60102800                | Materiales de recursos del profesor de valor de posición y base diez
- 60102900                | Materiales de recursos del profesor del dinero y la hora
- 60103000                | Fracciones, pentominós y materiales de enseñanza de decimales
+ 60102400                | Recursos de cuenta y temprano aprendizaje de      +
+                         | matemáticas y accesorios
+ 60102500                | Recursos y materiales de numeración y operaciones +
+                         | matemáticas básicas
+ 60102600                | Materiales de recursos del profesor de resolución +
+                         | de problemas, datos, posibilidades y              +
+                         | probabilidades
+ 60102700                | Materiales de recursos del profesor de pensamiento+
+                         | lógico, percepción espacial, identificación de    +
+                         | coincidencias y patrones
+ 60102800                | Materiales de recursos del profesor de valor de   +
+                         | posición y base diez
+ 60102900                | Materiales de recursos del profesor del dinero y  +
+                         | la hora
+ 60103000                | Fracciones, pentominós y materiales de enseñanza  +
+                         | de decimales
  60103100                | Materiales de recursos del profesor de geometría
  60103200                | Materiales de recursos del profesor de álgebra
- 60103300                | Materiales de recursos del profesor de precálculo y cálculo
- 60103400                | Recursos de habilidad de lectura de mapas y geografía y accesorios
+ 60103300                | Materiales de recursos del profesor de precálculo +
+                         | y cálculo
+ 60103400                | Recursos de habilidad de lectura de mapas y       +
+                         | geografía y accesorios
  60103500                | Ciencias políticas
  60103600                | Recursos y actividades multiculturales
  60103700                | Recursos de lenguas extranjeras
  60103800                | Recursos de enseñanza de historia
- 60103900                | Organismos vivos, especímenes conservados y materiales relacionados
- 60104000                | Biotecnología, bioquímica, genética, microbiología y materiales relacionados
+ 60103900                | Organismos vivos, especímenes conservados y       +
+                         | materiales relacionados
+ 60104000                | Biotecnología, bioquímica, genética, microbiología+
+                         | y materiales relacionados
  60104100                | Sistemas del cuerpo y materiales relacionados
  60104200                | Pruebas del agua, conservación y ecología
  60104300                | Astronomía
@@ -3208,18 +3540,26 @@
  60104900                | Materiales de física de electricidad
  60105000                | Materiales de física nuclear
  60105100                | Cohetes, materiales de vuelo y suministros
- 60105200                | Materiales educativos de recursos de aptitudes de vida
+ 60105200                | Materiales educativos de recursos de aptitudes de +
+                         | vida
  60105300                | Materiales educativos de educación de carrera
- 60105400                | Materiales educativos de vida independiente, administración del dinero y economía doméstica
- 60105500                | Materiales educativos de diseño del hogar y de interiores
- 60105600                | Materiales educativos de preparación de alimentos, nutrición y educación sobre la salud
+ 60105400                | Materiales educativos de vida independiente,      +
+                         | administración del dinero y economía doméstica
+ 60105500                | Materiales educativos de diseño del hogar y de    +
+                         | interiores
+ 60105600                | Materiales educativos de preparación de alimentos,+
+                         | nutrición y educación sobre la salud
  60105700                | Álbumes de recuerdos y suministros
  60105800                | Materiales educativos de diseño textil y de ropa
- 60105900                | Materiales educativos sobre las relaciones y el sexo, el embarazo de adolescentes, aptitudes de crianza y desarrollo del niño
- 60106000                | Guías de planes de estudio, proyectos, actividades y lecciones
+ 60105900                | Materiales educativos sobre las relaciones y el   +
+                         | sexo, el embarazo de adolescentes, aptitudes de   +
+                         | crianza y desarrollo del niño
+ 60106000                | Guías de planes de estudio, proyectos, actividades+
+                         | y lecciones
  60106100                | Materiales de enseñanza vocacional
  60106200                | Materiales de enseñanza de tecnología
- 60106300                | Equipo de enseñanza de ciencia forense y suministros
+ 60106300                | Equipo de enseñanza de ciencia forense y          +
+                         | suministros
  60106400                | Equipo de enseñanza de electrónica y suministros
  60106500                | Suministros religiosos
  60106600                | Materiales para pruebas de aptitud y vocacionales
@@ -3227,18 +3567,22 @@
  60111100                | Sets de tablón de anuncios
  60111200                | Guardas y remates de tablón de anuncios
  60111300                | Letras y números decorativos
- 60111400                | Decoraciones especiales para el aula y accesorios decorativos
+ 60111400                | Decoraciones especiales para el aula y accesorios +
+                         | decorativos
  60121000                | Arte
  60121100                | Lienzos, películas, tableros y papeles de artista
- 60121200                | Pintura del aula y de bellas artes, medios, aplicadores y accesorios
+ 60121200                | Pintura del aula y de bellas artes, medios,       +
+                         | aplicadores y accesorios
  60121300                | Productos de corte de manualidades y arte
  60121400                | Enmarcado de cuadro
  60121500                | Utensilios de dibujo, suministros y accesorios
  60121600                | Materiales de estudio
  60121700                | Suministros y accesorios de grabados
  60121800                | Tintas de dibujo e impresión
- 60121900                | Materiales de decoración de telas y arte textil y suministros
- 60122000                | Equipo de tejido, pespunteado y cosido y accesorios
+ 60121900                | Materiales de decoración de telas y arte textil y +
+                         | suministros
+ 60122000                | Equipo de tejido, pespunteado y cosido y          +
+                         | accesorios
  60122100                | Velas artesanales
  60122200                | Ebanistería
  60122300                | Suministros de cestería
@@ -3261,7 +3605,8 @@
  60124000                | Suministros de artesanía del corcho y accesorios
  60124100                | Materiales de proyecto multicultural y accesorios
  60124200                | Proyectos completos de planes de estudios
- 60124300                | Compuestos de modelado y arcilla, equipo de cerámica y accesorios
+ 60124300                | Compuestos de modelado y arcilla, equipo de       +
+                         | cerámica y accesorios
  60124400                | Metales de artesanía
  60124500                | Suministros y accesorios de escultura
  60131000                | Instrumentos de teclado
@@ -3319,13 +3664,15 @@
  71101700                | Extracción
  71112000                | Servicios de registrar hoyo encerrado de pozos
  71112100                | Servicios de registrar pozo de perforación abierta
+ 80111500                | Desarrollo de recursos humanos
  71112200                | Otros servicios de registración
  71112300                | Servicios sísmicos
  71121000                | Servicios de bombear cemento
  71121100                | Servicios de tubería adujada
  71121200                | Servicios de extracción de muestras
  71121300                | Servicios de herramientas barrenos hacia abajo
- 71121400                | Servicios de broca de barrena del campo petrolífero
+ 71121400                | Servicios de broca de barrena del campo           +
+                         | petrolífero
  71121500                | Servicios de medida de perforación
  71121600                | Servicios de perforación del pozo petrolero
  71121700                | Servicios de pesca en el campo petrolífero
@@ -3350,74 +3697,115 @@
  71141000                | Servicios de emergencia de control del pozo
  71141100                | Servicios de tapar y abandono del pozo
  71141200                | Servicios de restaurar el sitio del pozo
- 71151000                | Servicios de comunicación de datos del campo petrolífero
- 71151100                | Servicios de gerencia de datos del campo petrolífero
- 71151200                | Servicios de modelo económico y de riesgo del campo petrolífero
+ 71151000                | Servicios de comunicación de datos del campo      +
+                         | petrolífero
+ 71151100                | Servicios de gerencia de datos del campo          +
+                         | petrolífero
+ 71151200                | Servicios de modelo económico y de riesgo del     +
+                         | campo petrolífero
  71151300                | Servicios de interpretación del campo petrolífero
  71151400                | Servicios de ingeniería del pozo
  71161000                | Servicios de modelar del campo petrolífero
- 71161100                | Gerencia de la ingeniería de producción del campo petrolífero
- 71161200                | Gerencia de las operaciones de producción del campo petrolífero
+ 71161100                | Gerencia de la ingeniería de producción del campo +
+                         | petrolífero
+ 71161200                | Gerencia de las operaciones de producción del     +
+                         | campo petrolífero
  71161300                | Servicios de manejo de proyectos del campo
- 71161400                | Servicios de manejo de proyectos del campo petrolero
+ 71161400                | Servicios de manejo de proyectos del campo        +
+                         | petrolero
  71161500                | Servicios de operación del lugar de la perforación
  71161600                | Otros servicios de soporte para campos petroleros
  72101500                | Servicios de apoyo para la construcción
  72102100                | Control de plagas
- 72102900                | Servicios de mantenimiento y reparación de instalaciones
- 72103100                | Instalación y reparación de servicios de bandas transportadoras
- 72103300                | Servicios de mantenimiento y reparación de infraestructura
- 72111000                | Servicios de construcción de unidades unifamiliares
- 72111100                | Servicios de construcción de unidades multifamiliares
- 72121000                | Servicios de construcción de edificios industriales y bodegas nuevas
- 72121100                | Servicios de construcción de edificios comerciales y de oficina
+ 72102900                | Servicios de mantenimiento y reparación de        +
+                         | instalaciones
+ 72103100                | Instalación y reparación de servicios de bandas   +
+                         | transportadoras
+ 72103300                | Servicios de mantenimiento y reparación de        +
+                         | infraestructura
+ 72111000                | Servicios de construcción de unidades             +
+                         | unifamiliares
+ 72111100                | Servicios de construcción de unidades             +
+                         | multifamiliares
+ 72121000                | Servicios de construcción de edificios            +
+                         | industriales y bodegas nuevas
+ 72121100                | Servicios de construcción de edificios comerciales+
+                         | y de oficina
  72121200                | Servicios de construcción de edificios agrícolas
- 72121300                | Servicios de construcción de talleres automotrices y estaciones de servicio
- 72121400                | Servicios de construcción de edificios públicos especializados
+ 72121300                | Servicios de construcción de talleres automotrices+
+                         | y estaciones de servicio
+ 72121400                | Servicios de construcción de edificios públicos   +
+                         | especializados
  72121500                | Servicios de construcción de plantas industriales
- 72141000                | Servicios de construcción de autopistas y carreteras
- 72141100                | Servicios de pavimentación y superficies de edificios de infraestructura
+ 72141000                | Servicios de construcción de autopistas y         +
+                         | carreteras
+ 72141100                | Servicios de pavimentación y superficies de       +
+                         | edificios de infraestructura
  72141200                | Servicios de construcción marina
- 72141300                | Servicio de construcción de facilidades atléticas y recreativas
- 72141400                | Servicios de construcción y reparación de facilidades de detención
+ 72141300                | Servicio de construcción de facilidades atléticas +
+                         | y recreativas
+ 72141400                | Servicios de construcción y reparación de         +
+                         | facilidades de detención
  72141500                | Servicios de preparación de tierras
- 72141600                | Servicios de construcción de sistemas de tránsito masivo
- 72141700                | Servicios de alquiler o arrendamiento de equipo y maquinaria de construcción
- 72151000                | Servicios de construcción y mantenimiento de calderas y hornos
+ 72141600                | Servicios de construcción de sistemas de tránsito +
+                         | masivo
+ 72141700                | Servicios de alquiler o arrendamiento de equipo y +
+                         | maquinaria de construcción
+ 72151000                | Servicios de construcción y mantenimiento de      +
+                         | calderas y hornos
  72151100                | Servicios de construcción de plomería
- 72151200                | Servicios de construcción y mantenimiento de HVAC calefacción y enfriamiento y aire acondicionado
- 72151300                | Servicios de pintura e instalación de papel de colgadura
- 72151400                | Servicios de construcción de recubrimientos de muros
+ 72151200                | Servicios de construcción y mantenimiento de HVAC +
+                         | calefacción y enfriamiento y aire acondicionado
+ 72151300                | Servicios de pintura e instalación de papel de    +
+                         | colgadura
+ 72151400                | Servicios de construcción de recubrimientos de    +
+                         | muros
  72151500                | Servicios de sistemas eléctricos
- 72151600                | Servicios de sistemas especializados de comunicación
- 72151700                | Servicios de instalación de sistemas de seguridad física e industrial
- 72151800                | Servicios de mantenimiento y reparación de instalación de máquinas
+ 72151600                | Servicios de sistemas especializados de           +
+                         | comunicación
+ 72151700                | Servicios de instalación de sistemas de seguridad +
+                         | física e industrial
+ 72151800                | Servicios de mantenimiento y reparación de        +
+                         | instalación de máquinas
  72151900                | Servicios de albañilería y mampostería
  72152000                | Servicios de pañetado y drywall
  72152100                | Servicios acústicos y de aislamiento
  72152200                | Servicios de baldosas Terrazo y mármol y mosaicos
  72152300                | Servicios de carpintería
- 72152400                | Servicios de montaje e instalación de ventanas y puertas
+ 72152400                | Servicios de montaje e instalación de ventanas y  +
+                         | puertas
  72152500                | Servicios de instalación de pisos
- 72152600                | Servicios de techado y paredes externas y láminas de metal
+ 72152600                | Servicios de techado y paredes externas y láminas +
+                         | de metal
  72152700                | Servicios de instalación y reparación de concreto
  72152800                | Servicios de perforación de pozos de agua
  72152900                | Servicios de montaje de acero estructural
  72153000                | Servicios de vidrios y ventanería
- 72153100                | Servicios de construcción de facilidades atléticas y recreativas
- 72153200                | Servicios de recubrimiento, impermeabilización protección contra clima y fuego
- 72153300                | Servicios de mantenimiento e instalación de equipo de estación de servicio
+ 72153100                | Servicios de construcción de facilidades atléticas+
+                         | y recreativas
+ 72153200                | Servicios de recubrimiento, impermeabilización    +
+                         | protección contra clima y fuego
+ 72153300                | Servicios de mantenimiento e instalación de equipo+
+                         | de estación de servicio
  72153400                | Servicios de aparejamiento y andamiaje
  72153500                | Servicios de limpieza estructural externa
- 72153600                | Servicios de terminado interior, dotación y remodelación
- 72153700                | Servicios de instalación, mantenimiento y reparación de equipos y construcción de parqueaderos
+ 72153600                | Servicios de terminado interior, dotación y       +
+                         | remodelación
+ 72153700                | Servicios de instalación, mantenimiento y         +
+                         | reparación de equipos y construcción de           +
+                         | parqueaderos
  72153900                | Servicio de preparación de obras de construcción
  72154000                | Servicios de edificios especializados y comercios
- 72154100                | Servicios de mantenimiento y reparación de equipo de sistemas de distribución y acondicionamiento
- 72154200                | Servicios de mantenimiento y reparación de instalación de instrumentación
- 72154300                | Servicios de mantenimiento y reparación de equipo motivo y generación de energía eléctrica
- 72154400                | Servicios de mantenimiento y fabricación de accesorios para tuberías
- 72154500                | Servicios de mantenimiento e instalación de equipo pesado
+ 72154100                | Servicios de mantenimiento y reparación de equipo +
+                         | de sistemas de distribución y acondicionamiento
+ 72154200                | Servicios de mantenimiento y reparación de        +
+                         | instalación de instrumentación
+ 72154300                | Servicios de mantenimiento y reparación de equipo +
+                         | motivo y generación de energía eléctrica
+ 72154400                | Servicios de mantenimiento y fabricación de       +
+                         | accesorios para tuberías
+ 72154500                | Servicios de mantenimiento e instalación de equipo+
+                         | pesado
  73101500                | Producción petroquímica y de plástico
  73101600                | Producción de químicos y fertilizantes
  73101700                | Producción farmacéutica
@@ -3425,14 +3813,17 @@
  73101900                | Producción de caucho
  73111500                | Procesamiento de madera
  73111600                | Procesamiento de pulpa y papel
- 73121500                | Procesos de fundición y refinación y formado de metales
+ 73121500                | Procesos de fundición y refinación y formado de   +
+                         | metales
  73121600                | Terminación de metales
- 73121800                | Servicios de industria de productos de minerales no metálicos
+ 73121800                | Servicios de industria de productos de minerales  +
+                         | no metálicos
  73131500                | Procesamiento de bebidas
  73131600                | Procesamiento de carnes y aves y peces y mariscos
  73131700                | Procesamiento de frutas y vegetales
  73131800                | Procesamiento de lácteos y huevos
- 73131900                | Procesamiento de granos y azúcar y aceites y grasas
+ 73131900                | Procesamiento de granos y azúcar y aceites y      +
+                         | grasas
  73141500                | Producción de fibra
  73141600                | Procesamiento de hebras e hilos
  73141700                | Producción de telas y cuero
@@ -3442,7 +3833,8 @@
  73151800                | Servicios de conversión
  73151900                | Servicios a la industria de impresión
  73152000                | Servicios de llenado
- 73152100                | Servicios de mantenimiento y reparación de equipo de manufactura
+ 73152100                | Servicios de mantenimiento y reparación de equipo +
+                         | de manufactura
  73161500                | Manufactura de maquinaria
  73161600                | Manufactura de equipo de transporte
  73171500                | Manufactura de bienes eléctricos
@@ -3454,7 +3846,8 @@
  73181900                | Servicios de soldadura
  76101500                | Desinfección
  76101600                | Descontaminación de materiales peligrosos
- 76111500                | Servicios de limpieza y mantenimiento de edificios generales y de oficinas
+ 76111500                | Servicios de limpieza y mantenimiento de edificios+
+                         | generales y de oficinas
  76111600                | Servicios de limpieza de componentes de edificios
  76111800                | Limpieza de vehículos de transporte
  76121500                | Recolección y disposición de basuras
@@ -3505,16 +3898,21 @@
  78141600                | Inspección
  78141700                | Servicios a la navegación
  78141800                | Servicios al terminal
- 78141900                | Servicios de alquiler de contenedores de transporte
- 78181500                | Servicios de mantenimiento y reparación de vehículos
+ 78141900                | Servicios de alquiler de contenedores de          +
+                         | transporte
+ 78181500                | Servicios de mantenimiento y reparación de        +
+                         | vehículos
  78181600                | Servicios de panel y pintura
- 78181700                | Servicios de soporte de llenado de combustible de vehículos y almacenamiento de vehículos
- 78181800                | Servicios de mantenimiento y reparación de aeronaves
- 78181900                | Servicios de mantenimiento y reparación de equipo de navegación
- 80101500                | Servicios de consultoría de negocios y administración corporativa
+ 78181700                | Servicios de soporte de llenado de combustible de +
+                         | vehículos y almacenamiento de vehículos
+ 78181800                | Servicios de mantenimiento y reparación de        +
+                         | aeronaves
+ 78181900                | Servicios de mantenimiento y reparación de equipo +
+                         | de navegación
+ 80101500                | Servicios de consultoría de negocios y            +
+                         | administración corporativa
  80101600                | Gerencia de proyectos
  80101700                | Gerencia industrial
- 80111500                | Desarrollo de recursos humanos
  80111600                | Servicios de personal temporal
  80111700                | Reclutamiento de personal
  80121500                | Servicios de derecho penal
@@ -3522,7 +3920,8 @@
  80121700                | Servicios de responsabilidad civil
  80121800                | Servicios de derecho de familia
  80121900                | Servicios de participación compensada legal
- 80131500                | Alquiler y arrendamiento de propiedades o edificaciones
+ 80131500                | Alquiler y arrendamiento de propiedades o         +
+                         | edificaciones
  80131600                | Ventas de propiedades y edificios
  80131700                | Servicios de custodia y título
  80131800                | Servicios de administración inmobiliaria
@@ -3536,7 +3935,8 @@
  80161500                | Servicios de apoyo gerencial
  80161600                | Supervisión de instalaciones de negocios
  80161700                | Servicios de recuperación de activos
- 80161800                | Servicios de alquiler o arrendamiento de equipo de oficina
+ 80161800                | Servicios de alquiler o arrendamiento de equipo de+
+                         | oficina
  81101500                | Ingeniería civil
  81101600                | Ingeniería mecánica
  81101700                | Ingeniería eléctrica y electrónica
@@ -3549,18 +3949,22 @@
  81102400                | Ingeniería de transmisión de energía eléctrica
  81102500                | Servicios de permisos
  81102600                | Servicios de muestreo
- 81102700                | Servicios de diseño e ingeniería de sistemas instrumentados de control
+ 81102700                | Servicios de diseño e ingeniería de sistemas      +
+                         | instrumentados de control
  81111500                | Ingeniería de software o hardware
  81111600                | Programadores de computador
  81111700                | Sistemas de manejo de información MIS
- 81111800                | Servicios de sistemas y administración de componentes de sistemas
+ 81111800                | Servicios de sistemas y administración de         +
+                         | componentes de sistemas
  81111900                | Sistemas de recuperación de información
  81112000                | Servicios de datos
  81112100                | Servicios de internet
  81112200                | Mantenimiento y soporte de software
  81112300                | Mantenimiento y soporte de hardware de computador
- 81112400                | Servicios de alquiler o arrendamiento de hardware de computador
- 81112500                | Servicios de alquiler o arrendamiento de licencias de software de computador
+ 81112400                | Servicios de alquiler o arrendamiento de hardware +
+                         | de computador
+ 81112500                | Servicios de alquiler o arrendamiento de licencias+
+                         | de software de computador
  81121500                | Análisis económico
  81121600                | Sistemas y emisiones monetarias
  81131500                | Metodología y Análisis
@@ -3568,7 +3972,8 @@
  81141600                | Manejo de cadena de suministros
  81141700                | Planeación y control de producción
  81141800                | Administración de instalaciones
- 81141900                | Servicios de investigación y desarrollo de tecnología manufacturera
+ 81141900                | Servicios de investigación y desarrollo de        +
+                         | tecnología manufacturera
  81151500                | Meteorología
  81151600                | Cartografía
  81151700                | Geología
@@ -3577,7 +3982,8 @@
  81161500                | Servicios de administración de acceso
  81161600                | Servicios de correo electrónico y mensajería
  81161700                | Servicios de telecomunicaciones
- 81161800                | Servicios de alquiler o arrendamiento de equipos o plataformas de voz y datos o multimedia
+ 81161800                | Servicios de alquiler o arrendamiento de equipos o+
+                         | plataformas de voz y datos o multimedia
  82101500                | Publicidad impresa
  82101600                | Publicidad difundida
  82101700                | Publicidad aérea
@@ -3588,7 +3994,8 @@
  82111700                | Escritura creativa
  82111800                | Servicios editoriales y de soporte
  82111900                | Servicios de noticias y publicidad
- 82112000                | Servicios de interpretación de idiomas de forma presencial
+ 82112000                | Servicios de interpretación de idiomas de forma   +
+                         | presencial
  82121500                | Impresión
  82121600                | Grabado
  82121700                | Fotocopiado
@@ -3605,14 +4012,16 @@
  83101600                | Servicios de petróleo y gas
  83101800                | Servicios eléctricos
  83101900                | Conservación de energía
- 83111500                | Comunicaciones telefónicas locales y de larga distancia
+ 83111500                | Comunicaciones telefónicas locales y de larga     +
+                         | distancia
  83111600                | Servicios de comunicaciones móviles
  83111700                | Servicios de facsímil y telégrafos
  83111800                | Servicios de televisión
  83111900                | Servicios de radio
  83112200                | Servicios mejorados de telecomunicaciones
  83112300                | Servicios de telecomunicaciones por fibra
- 83112400                | Servicios de telecomunicaciones de marcado conmutado y circuito de línea dedicada alquilada
+ 83112400                | Servicios de telecomunicaciones de marcado        +
+                         | conmutado y circuito de línea dedicada alquilada
  83112500                | Capacidades de eje troncal
  83112600                | Acceso de clientes
  83121500                | Bibliotecas
@@ -3626,26 +4035,33 @@
  84111700                | Finanzas corporativas
  84111800                | Asuntos y preparación de impuestos
  84121500                | Instituciones bancarias
- 84121600                | Servicios de transferencia de fondos y canje y cambios
+ 93151500                | Administración pública
+ 84121600                | Servicios de transferencia de fondos y canje y    +
+                         | cambios
  84121700                | Asesoría de inversiones
- 84121800                | Servicios de mercados de títulos valores y commodities
+ 84121800                | Servicios de mercados de títulos valores y        +
+                         | commodities
  84121900                | Banca hipotecaria
  84122000                | Servicios de cajillas de seguridad
- 84131500                | Servicios de seguros para estructuras y propiedades y posesiones
+ 84131500                | Servicios de seguros para estructuras y           +
+                         | propiedades y posesiones
  84131700                | Fondos de pensiones
  84141500                | Agencias  de crédito gubernamental
  84141600                | Agencias de crédito personal
  84141700                | Agencias de crédito comercial
  85111500                | Prevención y control de enfermedades contagiosas
- 85111600                | Prevención y control de enfermedades no contagiosas
+ 85111600                | Prevención y control de enfermedades no           +
+                         | contagiosas
  85111700                | Manejo y control de vectores de enfermedad
  85121600                | Servicios médicos de doctores especialistas
- 85121700                | Servicios de prestadores especialistas de servicios de salud
+ 85121700                | Servicios de prestadores especialistas de         +
+                         | servicios de salud
  85121800                | Laboratorios médicos
  85121900                | Farmacéuticos
  85122000                | Servicios dentales
  85122100                | Servicios de rehabilitación
- 85122200                | Servicios de evaluación y valoración de salud individual
+ 85122200                | Servicios de evaluación y valoración de salud     +
+                         | individual
  85131500                | Servicios de medicina experimental
  85131600                | Ética médica
  85131700                | Ciencia e investigación médica
@@ -3658,10 +4074,13 @@
  85161500                | Reparación de equipo médico o quirúrgico
  85171500                | Servicios funerarios y asociados
  85171600                | Cuidado en hospicios
- 86101500                | Servicios de entrenamiento en Agricultura y silvicultura y otros recursos naturales
+ 86101500                | Servicios de entrenamiento en Agricultura y       +
+                         | silvicultura y otros recursos naturales
  86101600                | Servicios de capacitación vocacional científica
- 86101700                | Servicios de capacitación vocacional no - científica
- 86101800                | Entrenamiento en servicio y desarrollo de mano de obra
+ 86101700                | Servicios de capacitación vocacional no -         +
+                         | científica
+ 86101800                | Entrenamiento en servicio y desarrollo de mano de +
+                         | obra
  86111500                | Servicios de aprendizaje a distancia
  86111600                | Educación de adultos
  86111700                | Educación de idiomas
@@ -3675,7 +4094,8 @@
  86131700                | Conducción de vehículos, buques y aeronaves
  86131800                | Educación militar
  86131900                | Escuelas para gente con discapacidades
- 86132000                | Servicios de educación y capacitación en administración
+ 86132000                | Servicios de educación y capacitación en          +
+                         | administración
  86141500                | Servicios de guía educativa
  86141600                | Organizaciones de estudiantes
  86141700                | Tecnología educacional
@@ -3722,14 +4142,16 @@
  92121500                | Servicios de guardias
  92121600                | Servicios de detectives
  92121700                | Servicios de sistemas de seguridad
- 92121800                | Servicios de Carros blindados y transporte de valores
+ 92121800                | Servicios de Carros blindados y transporte de     +
+                         | valores
  92121900                | Servicios de seguridad marina
  93101500                | Cuerpos políticos
  93121500                | Diplomacia
  93121600                | Relaciones internacionales y cooperación
  93121700                | Organizaciones internacionales
  93131500                | Programas de refugiados
- 93131600                | Planeación y programas de políticas de alimentación y nutrición
+ 93131600                | Planeación y programas de políticas de            +
+                         | alimentación y nutrición
  93131700                | Programas de salud
  93131800                | Preparación y alivio de desastres
  93141500                | Desarrollo y servicios sociales
@@ -3739,7 +4161,6 @@
  93141900                | Desarrollo rural
  93142000                | Desarrollo urbano
  93142100                | Desarrollo regional
- 93151500                | Administración pública
  93151600                | Finanzas públicas
  93161500                | Impuesto de renta
  93161600                | Impuestos distintos del impuesto de renta
@@ -3766,7 +4187,8 @@
  94131700                | Asociaciones verdes
  94131800                | Movimientos
  94131900                | Asociaciones protectoras de animales
- 94132000                | Asociaciones de defensa y promoción de los derechos humanos
+ 94132000                | Asociaciones de defensa y promoción de los        +
+                         | derechos humanos
  95101500                | Lotes residenciales
  95101600                | Lotes comerciales
  95101700                | Lotes industriales
@@ -3774,25 +4196,32 @@
  95101900                | Tierras agrícolas
  95111500                | Vías de tráfico limitado
  95111600                | Vías de tráfico abierto
- 95121500                | Edificios y estructuras comerciales y de entretenimiento
+ 95121500                | Edificios y estructuras comerciales y de          +
+                         | entretenimiento
  95121600                | Edificios y estructuras de transporte
  95121700                | Edificios y estructuras públicos
  95121800                | Edificios y estructuras utilitarios
- 95121900                | Edificios y estructuras educacionales y de administración
+ 95121900                | Edificios y estructuras educacionales y de        +
+                         | administración
  95122000                | Edificios y estructuras hospitalarias
  95122100                | Edificios y estructuras de acomodaciones
  95122300                | Edificios y estructuras de salud y deportivas
  95122400                | Edificios y estructuras industriales
- 95122500                | Edificios y estructuras agrícolas y de cultivos y pesca
+ 95122500                | Edificios y estructuras agrícolas y de cultivos y +
+                         | pesca
  95122600                | Edificios y estructuras religiosas
  95122700                | Edificios y estructuras de defensa
  95131500                | Tarimas y graderías
- 95131600                | Edificios y estructuras comerciales e industriales portátiles
+ 95131600                | Edificios y estructuras comerciales e industriales+
+                         | portátiles
  95131700                | Tiendas carpas y estructuras de membrana
  95141500                | Edificios y estructuras prefabricados para fincas
- 95141600                | Edificios y estructuras prefabricados residenciales
- 95141700                | Edificios y estructuras prefabricados comerciales e industriales
- 95141800                | Edificios y estructuras prefabricados de emergencia y alivio
+ 95141600                | Edificios y estructuras prefabricados             +
+                         | residenciales
+ 95141700                | Edificios y estructuras prefabricados comerciales +
+                         | e industriales
+ 95141800                | Edificios y estructuras prefabricados de          +
+                         | emergencia y alivio
  95141900                | Edificios y estructuras prefabricados médicos
 (3794 rows)
 

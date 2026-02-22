@@ -1,668 +1,668 @@
- c_localidad | c_estado |               descripcion               
--------------+----------+-----------------------------------------
-           1 | AGU      | Aguascalientes
-           1 | BCN      | Ensenada
-           1 | BCS      | Ciudad Constitución
-           1 | CAM      | San Francisco de Campeche
-           1 | COA      | Ciudad Acuña
-           1 | COL      | Colima
-           1 | CHH      | Santa Rosalía de Camargo
-           1 | CHP      | Comitán de Domínguez
-           1 | CMX      | Ciudad de México
-           1 | DUR      | Victoria de Durango
-           1 | GRO      | Acapulco de Juárez
-           1 | GUA      | Acámbaro
-           1 | HID      | Actopan
-           1 | JAL      | Ameca
-           1 | MEX      | Ciudad Adolfo López Mateos
-           1 | MIC      | Apatzingán de la Constitución
-           1 | MOR      | Cuautla (Cuautla de Morelos)
-           1 | NAY      | Santiago Ixcuintla
-           1 | NLE      | Ciudad Apodaca
-           1 | OAX      | Juchitán (Juchitán de Zaragoza)
-           1 | PUE      | Atlixco
-           1 | QUE      | Querétaro
-           1 | ROO      | Cancún
-           1 | SIN      | Los Mochis
-           1 | SLP      | Ciudad Valles
-           1 | SON      | San Luis Río Colorado
-           1 | TAB      | Cárdenas
-           1 | TAM      | Altamira
-           1 | TLA      | Apizaco
-           1 | VER      | Acayucan
-           1 | YUC      | Mérida
-           1 | ZAC      | Fresnillo
-           2 | AGU      | Calvillo
-           2 | BCN      | Mexicali
-           2 | BCS      | La Paz
-           2 | CAM      | Ciudad del Carmen
-           2 | COA      | Frontera
-           2 | COL      | Manzanillo
-           2 | CHH      | Chihuahua
-           2 | CHP      | San Cristóbal de las Casas
-           2 | CMX      | Ciudad de México
-           2 | DUR      | Gómez Palacio
-           2 | GRO      | Chilpancingo de los Bravo
-           2 | GUA      | San miguel de Allende
-           2 | HID      | Apan
-           2 | JAL      | Ciudad Guzmán
-           2 | MEX      | Chimalhuacán
-           2 | MIC      | Los Reyes de Salgado
-           2 | MOR      | Cuernavaca
-           2 | NAY      | Tepic
-           2 | NLE      | San Pedro Garza García
-           2 | OAX      | Oaxaca de Juárez
-           2 | PUE      | Izúcar de Matamoros
-           2 | QUE      | San Juan del Rio
-           2 | ROO      | Cozumel
-           2 | SIN      | Culiacán Rosales
-           2 | SLP      | Ébano
-           2 | SON      | Agua Prieta
-           2 | TAB      | Villahermosa
-           2 | TAM      | Ciudad Camargo
-           2 | TLA      | Villa Vicente Guerrero
-           2 | VER      | Naranjos
-           2 | YUC      | Tizimín
-           2 | ZAC      | Jerez de García Salinas
-           3 | AGU      | San Francisco de los Romo
-           3 | BCN      | Tecate
-           3 | BCS      | Cabo San Lucas
-           3 | CAM      | Calkiní
-           3 | COA      | Matamoros
-           3 | COL      | Tecoman
-           3 | CHH      | Cuauhtémoc
-           3 | CHP      | Tapachula de Córdova y Ordóñez
-           3 | CMX      | Ciudad de México
-           3 | DUR      | Ciudad Lerdo
-           3 | GRO      | Iguala de la Independencia
-           3 | GUA      | Celaya
-           3 | HID      | Pachuca de Soto
-           3 | JAL      | Guadalajara
-           3 | MEX      | Coacalco de Berriozabal
-           3 | MIC      | Ciudad Hidalgo
-           3 | MOR      | Galeana
-           3 | NAY      | Tuxpan
-           3 | NLE      | Ciudad General Escobedo
-           3 | OAX      | Salina Cruz
-           3 | PUE      | Puebla (Heroica Puebla)
-           3 | ROO      | Felipe Carrillo Puerto
-           3 | SIN      | Escuinapa de Hidalgo
-           3 | SLP      | Matehuala
-           3 | SON      | Heroica Caborca
-           3 | TAB      | Comalcalco
-           3 | TAM      | Ciudad Madero
-           3 | TLA      | Tlaxcala (Tlaxcala de Xicotencatl)
-           3 | VER      | Boca del RÍo
-           3 | YUC      | Ticul
-           3 | ZAC      | Zacatecas
-           4 | AGU      | Jesús María
-           4 | BCN      | Tijuana
-           4 | BCS      | San José del Cabo
-           4 | CAM      | Candelaria
-           4 | COA      | Monclova
-           4 | COL      | Ciudad de Villa de Álvarez
-           4 | CHH      | Delicias
-           4 | CHP      | Tuxtla Gutiérrez
-           4 | CMX      | Ciudad de México
-           4 | DUR      | Santiago Papasquiaro
-           4 | GRO      | Taxco de Alarcón
-           4 | GUA      | Cortazar
-           4 | HID      | Cd. de Fray Bernardino de Sahagún
-           4 | JAL      | Lagos de Moreno
-           4 | MEX      | Cuautitlán Izcalli
-           4 | MIC      | Jacona de Plancarte
-           4 | MOR      | Jojutla
-           4 | NAY      | Acaponeta
-           4 | NLE      | Guadalupe
-           4 | OAX      | San Juan Bautista Tuxtepec
-           4 | PUE      | San Martín Texmelucan de Labastida
-           4 | QUE      | El Pueblito
-           4 | ROO      | Chetumal
-           4 | SIN      | Guasave
-           4 | SLP      | Rioverde
-           4 | SON      | Ciudad Obregón
-           4 | TAB      | Emiliano Zapata
-           4 | TAM      | Ciudad Mante
-           4 | TLA      | Huamantla
-           4 | VER      | Coatepec
-           4 | YUC      | Motul de Carrillo Puerto
-           4 | ZAC      | Guadalupe
-           5 | AGU      | Pabellón de Arteaga
-           5 | BCN      | Playas de Rosarito
-           5 | BCS      | Loreto
-           5 | CAM      | Escárcega
-           5 | COA      | Parras de la Fuente
-           5 | COL      | Ciudad de Armería
-           5 | CHH      | Hidalgo del Parral
-           5 | CHP      | Venustiano Carranza
-           5 | CMX      | Ciudad de México
-           5 | DUR      | Canatlán
-           5 | GRO      | Arcelia
-           5 | GUA      | Guanajuato
-           5 | HID      | Tula de Allende
-           5 | JAL      | Ocotlán
-           5 | MEX      | Ecatepec de Morelos
-           5 | MIC      | La piedad de Cabadas
-           5 | MOR      | Puente de Ixtla
-           5 | NAY      | Tecuala
-           5 | NLE      | Linares
-           5 | OAX      | Matías Romero Avendaño
-           5 | PUE      | Tehuacan
-           5 | ROO      | Playa del Carmen
-           5 | SIN      | Mazatlán
-           5 | SLP      | San Luis Potosí
-           5 | SON      | Empalme
-           5 | TAB      | Jalpa de Méndez
-           5 | TAM      | Heroica Matamoros
-           5 | TLA      | Calpulalpan
-           5 | VER      | Agua dulce
-           5 | YUC      | Valladolid
-           5 | ZAC      | Río Grande
-           6 | AGU      | Rincón de Romos
-           6 | BCN      | Rodolfo Sánchez T. (Maneadero)
-           6 | BCS      | Puerto Adolfo López Mateos
-           6 | CAM      | Sabancuy
-           6 | COA      | Piedras Negras
-           6 | CHH      | Juárez
-           6 | CHP      | Jiquipilas
-           6 | CMX      | Ciudad de México
-           6 | DUR      | San Juan del Río del Centauro del Norte
-           6 | GRO      | Ayutla de los Libres
-           6 | GUA      | Irapuato
-           6 | HID      | Tulancingo
-           6 | JAL      | Puerto Vallarta
-           6 | MEX      | Huixquilucan de Degollado
-           6 | MIC      | Morelia
-           6 | MOR      | Santa Rosa Treinta
-           6 | NAY      | Compostela
-           6 | NLE      | Montemorelos
-           6 | OAX      | Heroica Ciudad de Huajuapan de León
-           6 | PUE      | Teziutlan
-           6 | ROO      | Kantunilkin
-           6 | SIN      | Guamúchil
-           6 | SLP      | Soledad de Graciano Sánchez
-           6 | SON      | Heroica Guaymas
-           6 | TAM      | Nuevo Laredo
-           6 | TLA      | Chiautempan
-           6 | VER      | Coatzacoalcos
-           6 | YUC      | Kanasín
-           6 | ZAC      | Ciudad Cuauhtémoc
-           7 | AGU      | Asientos
-           7 | BCN      | San Felipe
-           7 | BCS      | Todos Santos
-           7 | CAM      | Hopelchén
-           7 | COA      | Sabinas
-           7 | CHH      | Nuevo Casas Grandes
-           7 | CHP      | Villaflores
-           7 | CMX      | Ciudad de México
-           7 | DUR      | Peñón Blanco
-           7 | GRO      | Atoyac de Álvarez
-           7 | GUA      | León de los Aldama
-           7 | HID      | Zimapan
-           7 | JAL      | San Juan de los Lagos
-           7 | MEX      | Los Reyes Acaquilpan (La Paz)
-           7 | MIC      | Pátzcuaro
-           7 | MOR      | Zacatepec de Hidalgo
-           7 | NAY      | Francisco I. Madero (Puga)
-           7 | NLE      | Monterrey
-           7 | OAX      | Loma Bonita
-           7 | PUE      | San Andrés Cholula
-           7 | ROO      | Isla Mujeres
-           7 | SIN      | Navolato
-           7 | SLP      | Charcas
-           7 | SON      | Hermosillo
-           7 | TAB      | Macuspana
-           7 | TAM      | Reynosa
-           7 | VER      | Córdoba
-           7 | ZAC      | Ojocaliente
-           8 | AGU      | Tepezalá
-           8 | BCS      | Heroica Mulegé
-           8 | CAM      | Champotón
-           8 | COA      | Saltillo
-           8 | CHP      | Las Margaritas
-           8 | CMX      | Ciudad de México
-           8 | DUR      | Francisco I. Madero
-           8 | GUA      | Moroleón
-           8 | HID      | Huejutla de Reyes
-           8 | JAL      | Tepatitlán de Morelos
-           8 | MEX      | Metepec
-           8 | MIC      | Sahuayo de Morelos
-           8 | MOR      | Tlaquiltenango
-           8 | NAY      | Villa Hidalgo (El Nuevo)
-           8 | NLE      | Ciudad Sabinas Hidalgo
-           8 | OAX      | Puerto Escondido
-           8 | PUE      | San Pedro Cholula
-           8 | ROO      | Bacalar
-           8 | SIN      | Quila
-           8 | SLP      | Salinas de Hidalgo
-           8 | SON      | Huatabampo
-           8 | TAB      | Tenosique de Pino Suárez
-           8 | TAM      | Ciudad Río Bravo
-           8 | VER      | Tres Valles
-           8 | ZAC      | Villa Hidalgo
-           9 | AGU      | Cosío
-           9 | BCS      | Villa Alberto Andrés Alvarado Arámburo
-           9 | CAM      | Hecelchakán
-           9 | COA      | Nueva Rosita
-           9 | CHH      | Madera
-           9 | CHP      | Arriaga
-           9 | CMX      | Ciudad de México
-           9 | DUR      | Nombre de Dios
-           9 | GRO      | San Jerónimo de Juárez
-           9 | GUA      | Salamanca
-           9 | HID      | Tlaxcoapan
-           9 | JAL      | Tlaquepaque
-           9 | MEX      | Naucalpan de Juárez
-           9 | MIC      | Uruapan
-           9 | NAY      | Ruiz
-           9 | NLE      | San Nicolás de los Garza
-           9 | OAX      | Río Grande o Piedra Parada
-           9 | PUE      | Huauchinango
-           9 | SIN      | Ahome
-           9 | SLP      | Cárdenas
-           9 | SON      | Navojoa
-           9 | TAB      | Teapa
-           9 | TAM      | San Fernando
-           9 | VER      | Jáltipan de Morelos
-           9 | ZAC      | Villanueva
-          10 | BCS      | San Ignacio
-          10 | COA      | San Pedro
-          10 | CHH      | Colonia Anáhuac
-          10 | CHP      | Palenque
-          10 | CMX      | Ciudad de México
-          10 | DUR      | Vicente Guerrero
-          10 | GRO      | Ciudad Apaxtla de Castrejón
-          10 | GUA      | San Francisco del Rincón
-          10 | HID      | Tizayuca
-          10 | JAL      | Zapopan
-          10 | MEX      | Ciudad Nezahualcoyotl
-          10 | MIC      | Zacapu
-          10 | NAY      | San Blas
-          10 | NLE      | Ciudad Santa Catarina
-          10 | PUE      | Acatlán de Osorio
-          10 | SIN      | Higuera de Zaragoza
-          10 | SLP      | Cerritos
-          10 | SON      | Heroica Nogales
-          10 | TAB      | Paraíso
-          10 | TAM      | Tampico
-          10 | VER      | Xalapa-Enríquez
-          10 | ZAC      | Villa de Cos
-          11 | BCS      | Guerrero Negro
-          11 | CAM      | Pomuch
-          11 | COA      | Torreón
-          11 | CHH      | Juan Aldama
-          11 | CHP      | Ocosingo
-          11 | CMX      | Ciudad de México
-          11 | DUR      | El Salto
-          11 | GRO      | Ciudad Altamirano
-          11 | GUA      | Silao
-          11 | HID      | Santiago Tulantepec
-          11 | JAL      | Tlajomulco de Zúñiga
-          11 | MEX      | Villa Nicolás Romero
-          11 | MIC      | Zamora de Hidalgo
-          11 | NAY      | Ixtlán del Río
-          11 | NLE      | Doctor Arroyo
-          11 | OAX      | Santiago Suchilquitongo
-          11 | PUE      | Cuautlancingo
-          11 | SIN      | Choix
-          11 | SLP      | Tamuín
-          11 | SON      | Puerto Peñasco
-          11 | TAB      | Frontera
-          11 | TAM      | Ciudad Victoria
-          11 | VER      | Minatitlán
-          11 | ZAC      | Nochistlán de Mejía
-          12 | BCS      | Santa Rosalía
-          12 | COA      | Castaños
-          12 | CHH      | José Mariano Jiménez
-          12 | CHP      | Tonalá
-          12 | CMX      | Ciudad de México
-          12 | DUR      | Santa María del Oro
-          12 | GRO      | Buenavista de Cuellar
-          12 | GUA      | Jerécuaro
-          12 | HID      | Ixmiquilpan
-          12 | JAL      | Tonalá
-          12 | MEX      | Tecamac de Felipe Villanueva
-          12 | MIC      | Heroica Zitácuaro
-          12 | NAY      | Bucerías
-          12 | NLE      | Ciénega de Flores
-          12 | OAX      | San Felipe Jalapa de Díaz
-          12 | PUE      | Tepeaca
-          12 | SIN      | Villa Unión
-          12 | SLP      | Tamasopo
-          12 | SON      | Heroica Ciudad de Cananea
-          12 | TAB      | Cunduacán
-          12 | TAM      | González
-          12 | VER      | Orizaba
-          12 | ZAC      | Víctor Rosales
-          13 | COA      | Francisco I. Madero (Chávez)
-          13 | CHH      | Manuel Ojinaga
-          13 | CHP      | Mapastepec
-          13 | CMX      | Ciudad de México
-          13 | GRO      | Cutzamala de Pinzón
-          13 | GUA      | Santiago Maravatío
-          13 | HID      | Tepeji del Rio
-          13 | JAL      | Tuxpan
-          13 | MEX      | Tepotzotlán
-          13 | MIC      | Paracho de Verduzco
-          13 | NAY      | Las Varas
-          13 | NLE      | Hualahuises
-          13 | OAX      | Bahias de Huatulco
-          13 | PUE      | Tecamachalco
-          13 | SIN      | Sinaloa de Leyva
-          13 | SLP      | Ciudad del Maíz
-          13 | SON      | Sonoita
-          13 | TAB      | Huimanguillo
-          13 | TAM      | Jaumave
-          13 | VER      | Papantla de Olarte
-          13 | ZAC      | Valparaíso
-          14 | COA      | Cuatro Ciénegas de Carranza
-          14 | CHH      | Bachíniva
-          14 | CHP      | Las Rosas
-          14 | CMX      | Ciudad de México
-          14 | GRO      | Coyuca de Catalán
-          14 | GUA      | Romita
-          14 | HID      | Cruz Azul
-          14 | JAL      | Tototlán
-          14 | MEX      | Tlalnepantla de Baz
-          14 | MIC      | Tangancícuaro de Arista
-          14 | NAY      | Xalisco
-          14 | OAX      | Putla Villa de Guerrero
-          14 | PUE      | Zacatlán
-          14 | SIN      | Mocorito
-          14 | SLP      | Cedral
-          14 | SON      | Magdalena de Kino
-          14 | TAM      | Ciudad Gustavo Díaz Ordaz
-          14 | VER      | Poza Rica de Hidalgo
-          14 | ZAC      | Luis Moya
-          15 | COA      | Nadadores
-          15 | CHH      | Saucillo
-          15 | CHP      | Chiapa de Corzo
-          15 | CMX      | Ciudad de México
-          15 | GRO      | Tierra Colorada
-          15 | GUA      | Tarandacuao
-          15 | HID      | Tepeapulco
-          15 | JAL      | San Diego de Alejandría
-          15 | MEX      | Santa Maria Tultepec
-          15 | MIC      | Maravatío de Ocampo
-          15 | NAY      | San pedro Lagunillas
-          15 | NLE      | Cadereyta Jiménez
-          15 | OAX      | Cosolapa
-          15 | PUE      | Xicotepec
-          15 | SIN      | Angostura
-          15 | SLP      | Tierra Nueva
-          15 | TAM      | Estación Manuel (Úrsulo Galván)
-          15 | VER      | San Andrés Tuxtla
-          15 | ZAC      | Moyahua de Estrada
-          16 | COA      | Ramos Arizpe
-          16 | CHP      | Cacahoatán
-          16 | CMX      | Ciudad de México
-          16 | GRO      | Coyuca de Benítez
-          16 | GUA      | Huanímaro
-          16 | JAL      | La Resolana
-          16 | MEX      | Tultitlán de Mariano Escobedo
-          16 | MIC      | Zinapécuaro de Figueroa
-          16 | NAY      | La peñita de Jaltemba
-          16 | OAX      | Tlacolula de Matamoros
-          16 | PUE      | Ciudad Serdán
-          16 | SIN      | San Blas
-          16 | SLP      | Villa de Reyes
-          16 | TAM      | Xicoténcatl
-          16 | VER      | Túxpam de Rodríguez Cano
-          16 | ZAC      | Sombrerete
-          17 | COA      | Nava
-          17 | CHP      | Ocozocoautla de Espinosa
-          17 | GRO      | Olinalá
-          17 | GUA      | Comonfort
-          17 | JAL      | Atotonilco el Alto
-          17 | MEX      | Cuautitlán
-          17 | MIC      | Puruándiro
-          17 | NAY      | Jala
-          17 | NLE      | Santiago
-          17 | OAX      | San Pablo Villa de Mitla
-          17 | PUE      | Amozoc
-          17 | SIN      | La Cruz
-          17 | SLP      | Fracción el Refugio
-          17 | TAM      | Ciudad Miguel Alemán
-          17 | VER      | Veracruz
-          17 | ZAC      | Jalpa
-          18 | COA      | Zaragoza
-          18 | CHP      | Cintalapa de Figueroa
-          18 | GRO      | Marquelia
-          18 | GUA      | Uriangato
-          18 | JAL      | Jalostotitlán
-          18 | MEX      | Ixtapaluca
-          18 | MIC      | Yurécuaro
-          18 | NAY      | Ahuacatlán
-          18 | NLE      | El cercado
-          18 | OAX      | Natividad
-          18 | SIN      | El rosario
-          18 | SLP      | Tamazunchale
-          18 | TAM      | Soto la Marina
-          18 | VER      | Tierra Blanca
-          18 | ZAC      | Loreto
-          19 | COA      | San Buenaventura
-          19 | CHP      | Pichucalco
-          19 | GRO      | Zumpango del Río
-          19 | GUA      | Pénjamo
-          19 | JAL      | Poncitlán
-          19 | MEX      | Texcoco de Mora
-          19 | MIC      | Huetamo de Núñez
-          19 | OAX      | Teotitlán de Flores Magón
-          19 | SIN      | Estación Naranjo
-          19 | SLP      | Santa María del Río
-          19 | TAM      | Ciudad Tula
-          19 | VER      | Cosamaloapan
-          19 | ZAC      | Juan Aldama
-          20 | COA      | Ciudad Melchor Múzquiz
-          20 | CHP      | Puerto Madero (San Benito)
-          20 | GRO      | San Luis de la Loma
-          20 | GUA      | Cuerámaro
-          20 | JAL      | Arandas
-          20 | MEX      | Toluca de Lerdo
-          20 | MIC      | Tacámbaro de Codallos
-          20 | NLE      | Anáhuac
-          20 | OAX      | Santa María Huatulco
-          20 | SIN      | Aguaruto
-          20 | SLP      | El Naranjo
-          20 | TAM      | Nueva Ciudad Guerrero
-          20 | VER      | Carlos A. Carrillo
-          21 | COA      | Viesca
-          21 | CHP      | Pijijiapan
-          21 | GRO      | Petatlán
-          21 | GUA      | Empalme Escobedo (Escobedo)
-          21 | JAL      | Talpa de Allende
-          21 | MEX      | Valle de Chalco Solidaridad
-          21 | MIC      | Ciudad Lázaro Cárdenas
-          21 | NLE      | García
-          21 | OAX      | San Juan Bautista Cuicatlán
-          21 | SIN      | Cosalá
-          21 | TAM      | Valle Hermoso
-          21 | VER      | Pánuco
-          22 | COA      | Morelos
-          22 | CHP      | Reforma
-          22 | GRO      | La Unión
-          22 | GUA      | San Luis de la Paz
-          22 | JAL      | Etzatlán
-          22 | MEX      | Tejupilco de Hidalgo
-          22 | MIC      | Las Guacamayas
-          22 | NLE      | Ciudad Benito Juárez
-          22 | OAX      | Villa Sola de Vega
-          22 | SIN      | San Ignacio
-          22 | VER      | Tampico Alto
-          23 | COA      | Arteaga
-          23 | CHP      | Huixtla
-          23 | GRO      | San Luis San Pedro
-          23 | GUA      | Valle de Santiago
-          23 | JAL      | Sayula
-          23 | MEX      | Chalco de Díaz Covarrubias
-          23 | MIC      | Jiquilpan de Juárez
-          23 | OAX      | Ocotlán de Morelos
-          23 | SIN      | Topolobampo
-          23 | VER      | Tempoal de Sánchez
-          24 | COA      | Allende
-          24 | CHP      | Motozintla de Mendoza
-          24 | GRO      | Teloloapan
-          24 | GUA      | Abasolo
-          24 | JAL      | Ahualulco de Mercado
-          24 | MEX      | Amatepec
-          24 | MIC      | Tuxpan
-          24 | OAX      | Villa de Zaachila
-          24 | SIN      | Lic. Benito Juárez (Campo Gobierno)
-          24 | VER      | Tantoyuca
-          25 | CHP      | Acala
-          25 | GRO      | Técpan de Galeana
-          25 | GUA      | Rincón de Tamayo
-          25 | JAL      | Autlán de Navarro
-          25 | MIC      | Cotija de la Paz
-          25 | OAX      | Miahuatlán de Porfirio Díaz
-          25 | VER      | Gutiérrez Zamora
-          26 | GRO      | Huitzuco
-          26 | GUA      | Villagrán
-          26 | JAL      | Magdalena
-          26 | MEX      | Melchor Ocampo
-          26 | MIC      | Nueva Italia de Ruiz
-          26 | OAX      | Unión Hidalgo
-          26 | VER      | Platón Sánchez
-          27 | GRO      | Tixtla de Guerrero
-          27 | GUA      | Yuriria
-          27 | JAL      | San Julián
-          27 | MEX      | San Vicente Chicoloapan de Juárez
-          27 | MIC      | Cuitzeo del Porvenir
-          27 | OAX      | El Camarón
-          27 | VER      | Juan Rodríguez Clara
-          28 | GRO      | Tepecoacuilco de Trujano
-          28 | GUA      | Apaseo el Grande
-          28 | JAL      | Cocula
-          28 | MEX      | Capulhuac
-          28 | OAX      | San Pedro Mixtepec -Dto. 22-
-          28 | VER      | Huatusco de Chicuellar
-          29 | GRO      | San Marcos
-          29 | GUA      | Purísima de Bustos
-          29 | JAL      | El Grullo
-          29 | MEX      | Juchitepec de Mariano Riva Palacio
-          29 | OAX      | Santa Cruz Itundujia
-          29 | VER      | Ixtaczoquitlán
-          30 | GRO      | Azoyú
-          30 | GUA      | Salvatierra
-          30 | JAL      | San Miguel el Alto
-          30 | MEX      | Tequixquiac
-          30 | OAX      | Chahuites
-          30 | VER      | Río Blanco
-          31 | GRO      | Tlapehuala
-          31 | GUA      | Marfil
-          31 | JAL      | Tala
-          31 | MEX      | Xonacatlán
-          31 | OAX      | Heroica Ciudad de Ejutla de Crespo
-          31 | VER      | Isla
-          32 | GRO      | San Luis Acatlán
-          32 | GUA      | San José Iturbide
-          32 | JAL      | La Barca
-          32 | MEX      | San Mateo Atenco
-          32 | OAX      | San Pedro Tapanatepec
-          32 | VER      | Cuitláhuac
-          33 | GRO      | Chilapa de Álvarez
-          33 | GUA      | Apaseo el Alto
-          33 | JAL      | Jamay
-          33 | OAX      | Vicente Camalote
-          33 | VER      | Fortín de las Flores
-          34 | GRO      | Tlapa de Comonfort
-          34 | GUA      | Ciudad Manuel Doblado
-          34 | JAL      | Yahualica de González Gallo
-          34 | OAX      | Villa de Tamazulápam del Progreso
-          34 | VER      | Alvarado
-          35 | GRO      | Tlalixtaquilla
-          35 | GUA      | Jaral del Progreso
-          35 | JAL      | Colotlán
-          35 | OAX      | San Juan Bautista lo de Soto
-          35 | VER      | José Cardel
-          36 | GRO      | Cuajinicuilapa
-          36 | GUA      | San Diego de la Unión
-          36 | JAL      | Cihuatlán
-          36 | MEX      | Chiconcuac
-          36 | OAX      | San Juan Cacahuatepec
-          36 | VER      | Banderilla
-          37 | GRO      | Huamuxtitlán
-          37 | GUA      | Santa Cruz Juventino Rosas
-          37 | JAL      | Zapotiltic
-          37 | OAX      | San Pedro Totolapa
-          37 | VER      | Paraje Nuevo
-          38 | GRO      | Cruz Grande
-          38 | GUA      | Doctor Mora
-          38 | JAL      | Villa Corona
-          38 | OAX      | San Miguel el Grande
-          38 | VER      | Playa Vicente
-          39 | GRO      | Ocotito
-          39 | GUA      | Dolores Hgo. Cuna de la Indep. Nal.
-          39 | JAL      | Teocaltiche
-          39 | MEX      | Almoloya de Juárez
-          39 | OAX      | Zimatlán de Álvarez
-          39 | VER      | Altotonga
-          40 | GRO      | Copala
-          40 | MEX      | Ocoyoacac
-          40 | OAX      | San Pablo Huitzo
-          40 | VER      | Juan Díaz Covarrubias
-          41 | GRO      | Zihuatanejo
-          41 | JAL      | Tequila
-          41 | MEX      | Zumpango
-          41 | OAX      | San Francisco Telixtlahuaca
-          41 | VER      | Cuichapa
-          42 | JAL      | El Quince (San José el Quince)
-          42 | OAX      | Mariscala de Juárez
-          42 | VER      | Santiago Tuxtla
-          43 | JAL      | San José el Verde (El Verde)
-          43 | OAX      | Santiago Pinotepa Nacional
-          43 | VER      | Huayacocotla
-          44 | JAL      | Jocotepec
-          44 | OAX      | Santiago Jamiltepec
-          44 | VER      | Paso de Ovejas
-          45 | JAL      | Tecalitlán
-          45 | OAX      | San Pedro Pochutla
-          45 | VER      | Catemaco
-          46 | JAL      | Chapala
-          46 | OAX      | Heroica Ciudad de Tlaxiaco
-          46 | VER      | Nogales
-          47 | JAL      | Ajijic
-          47 | OAX      | San Juan Bautista Valle Nacional
-          47 | VER      | Las Choapas
-          48 | JAL      | San Ignacio Cerro Gordo
-          48 | OAX      | Lagunas
-          48 | VER      | General Miguel Alemán (Potrero Nuevo)
-          49 | JAL      | Zacoalco de Torres
-          49 | OAX      | Ciudad Ixtepec
-          49 | VER      | Coatzintla
-          50 | JAL      | Huejuquilla el Alto
-          50 | OAX      | Santiago Juxtlahuaca
-          50 | VER      | Ángel R. Cabada
-          51 | JAL      | Villa Hidalgo
-          51 | OAX      | San Sebastián Tecomaxtlahuaca
-          51 | VER      | San Rafael
-          52 | JAL      | Unión de San Antonio
-          52 | OAX      | Asunción Nochixtlán
-          52 | VER      | Tlacojalpan
-          53 | JAL      | Las Pintitas
-          53 | OAX      | San Francisco Ixhuatán
-          53 | VER      | Cosoleacaque
-          54 | JAL      | Tamazula de Gordiano
-          54 | OAX      | San Blas Atempa
-          54 | VER      | Lerdo de Tejada
-          55 | JAL      | Acatlán de Juárez
-          55 | OAX      | Santo Domingo Tehuantepec
-          55 | VER      | Tihuatlán
-          56 | JAL      | Valle de Guadalupe
-          56 | OAX      | Cuilápam de Guerrero
-          56 | VER      | Atoyac
-          57 | OAX      | El Rosario
-          57 | VER      | Huiloapan de Cuauhtémoc
-          58 | OAX      | Santa Lucia del Camino
-          58 | VER      | Cazones de Herrera
-          59 | OAX      | San Antonio de la Cal
-          59 | VER      | Yecuatla
-          60 | VER      | Soledad de Doblado
-          61 | VER      | Cerro Azul
-          62 | VER      | Tezonapa
-          66 | VER      | Sihuapan
-          67 | VER      | El Higo
-          68 | VER      | Paso del Macho
-          69 | VER      | Tlapacoyan
+ c_localidad | c_estado |               descripcion               |       inicio        | fin 
+-------------+----------+-----------------------------------------+---------------------+-----
+ 01          | AGU      | Aguascalientes                          | 2022-01-01 00:00:00 | 
+ 01          | BCN      | Ensenada                                | 2022-01-01 00:00:00 | 
+ 01          | BCS      | Ciudad Constitución                     | 2022-01-01 00:00:00 | 
+ 01          | CAM      | San Francisco de Campeche               | 2022-01-01 00:00:00 | 
+ 01          | COA      | Ciudad Acuña                            | 2022-01-01 00:00:00 | 
+ 01          | COL      | Colima                                  | 2022-01-01 00:00:00 | 
+ 01          | CHH      | Santa Rosalía de Camargo                | 2022-01-01 00:00:00 | 
+ 01          | CHP      | Comitán de Domínguez                    | 2022-01-01 00:00:00 | 
+ 01          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 01          | DUR      | Victoria de Durango                     | 2022-01-01 00:00:00 | 
+ 01          | GRO      | Acapulco de Juárez                      | 2022-01-01 00:00:00 | 
+ 01          | GUA      | Acámbaro                                | 2022-01-01 00:00:00 | 
+ 01          | HID      | Actopan                                 | 2022-01-01 00:00:00 | 
+ 01          | JAL      | Ameca                                   | 2022-01-01 00:00:00 | 
+ 01          | MEX      | Ciudad Adolfo López Mateos              | 2022-01-01 00:00:00 | 
+ 01          | MIC      | Apatzingán de la Constitución           | 2022-01-01 00:00:00 | 
+ 01          | MOR      | Cuautla (Cuautla de Morelos)            | 2022-01-01 00:00:00 | 
+ 01          | NAY      | Santiago Ixcuintla                      | 2022-01-01 00:00:00 | 
+ 01          | NLE      | Ciudad Apodaca                          | 2022-01-01 00:00:00 | 
+ 01          | OAX      | Juchitán (Juchitán de Zaragoza)         | 2022-01-01 00:00:00 | 
+ 01          | PUE      | Atlixco                                 | 2022-01-01 00:00:00 | 
+ 01          | QUE      | Querétaro                               | 2022-01-01 00:00:00 | 
+ 01          | ROO      | Cancún                                  | 2022-01-01 00:00:00 | 
+ 01          | SIN      | Los Mochis                              | 2022-01-01 00:00:00 | 
+ 01          | SLP      | Ciudad Valles                           | 2022-01-01 00:00:00 | 
+ 01          | SON      | San Luis Río Colorado                   | 2022-01-01 00:00:00 | 
+ 01          | TAB      | Cárdenas                                | 2022-01-01 00:00:00 | 
+ 01          | TAM      | Altamira                                | 2022-01-01 00:00:00 | 
+ 01          | TLA      | Apizaco                                 | 2022-01-01 00:00:00 | 
+ 01          | VER      | Acayucan                                | 2022-01-01 00:00:00 | 
+ 01          | YUC      | Mérida                                  | 2022-01-01 00:00:00 | 
+ 01          | ZAC      | Fresnillo                               | 2022-01-01 00:00:00 | 
+ 02          | AGU      | Calvillo                                | 2022-01-01 00:00:00 | 
+ 02          | BCN      | Mexicali                                | 2022-01-01 00:00:00 | 
+ 02          | BCS      | La Paz                                  | 2022-01-01 00:00:00 | 
+ 02          | CAM      | Ciudad del Carmen                       | 2022-01-01 00:00:00 | 
+ 02          | COA      | Frontera                                | 2022-01-01 00:00:00 | 
+ 02          | COL      | Manzanillo                              | 2022-01-01 00:00:00 | 
+ 02          | CHH      | Chihuahua                               | 2022-01-01 00:00:00 | 
+ 02          | CHP      | San Cristóbal de las Casas              | 2022-01-01 00:00:00 | 
+ 02          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 02          | DUR      | Gómez Palacio                           | 2022-01-01 00:00:00 | 
+ 02          | GRO      | Chilpancingo de los Bravo               | 2022-01-01 00:00:00 | 
+ 02          | GUA      | San miguel de Allende                   | 2022-01-01 00:00:00 | 
+ 02          | HID      | Apan                                    | 2022-01-01 00:00:00 | 
+ 02          | JAL      | Ciudad Guzmán                           | 2022-01-01 00:00:00 | 
+ 02          | MEX      | Chimalhuacán                            | 2022-01-01 00:00:00 | 
+ 02          | MIC      | Los Reyes de Salgado                    | 2022-01-01 00:00:00 | 
+ 02          | MOR      | Cuernavaca                              | 2022-01-01 00:00:00 | 
+ 02          | NAY      | Tepic                                   | 2022-01-01 00:00:00 | 
+ 02          | NLE      | San Pedro Garza García                  | 2022-01-01 00:00:00 | 
+ 02          | OAX      | Oaxaca de Juárez                        | 2022-01-01 00:00:00 | 
+ 02          | PUE      | Izúcar de Matamoros                     | 2022-01-01 00:00:00 | 
+ 02          | QUE      | San Juan del Rio                        | 2022-01-01 00:00:00 | 
+ 02          | ROO      | Cozumel                                 | 2022-01-01 00:00:00 | 
+ 02          | SIN      | Culiacán Rosales                        | 2022-01-01 00:00:00 | 
+ 02          | SLP      | Ébano                                   | 2022-01-01 00:00:00 | 
+ 02          | SON      | Agua Prieta                             | 2022-01-01 00:00:00 | 
+ 02          | TAB      | Villahermosa                            | 2022-01-01 00:00:00 | 
+ 02          | TAM      | Ciudad Camargo                          | 2022-01-01 00:00:00 | 
+ 02          | TLA      | Villa Vicente Guerrero                  | 2022-01-01 00:00:00 | 
+ 02          | VER      | Naranjos                                | 2022-01-01 00:00:00 | 
+ 02          | YUC      | Tizimín                                 | 2022-01-01 00:00:00 | 
+ 02          | ZAC      | Jerez de García Salinas                 | 2022-01-01 00:00:00 | 
+ 03          | AGU      | San Francisco de los Romo               | 2022-01-01 00:00:00 | 
+ 03          | BCN      | Tecate                                  | 2022-01-01 00:00:00 | 
+ 03          | BCS      | Cabo San Lucas                          | 2022-01-01 00:00:00 | 
+ 03          | CAM      | Calkiní                                 | 2022-01-01 00:00:00 | 
+ 03          | COA      | Matamoros                               | 2022-01-01 00:00:00 | 
+ 03          | COL      | Tecoman                                 | 2022-01-01 00:00:00 | 
+ 03          | CHH      | Cuauhtémoc                              | 2022-01-01 00:00:00 | 
+ 03          | CHP      | Tapachula de Córdova y Ordóñez          | 2022-01-01 00:00:00 | 
+ 03          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 03          | DUR      | Ciudad Lerdo                            | 2022-01-01 00:00:00 | 
+ 03          | GRO      | Iguala de la Independencia              | 2022-01-01 00:00:00 | 
+ 03          | GUA      | Celaya                                  | 2022-01-01 00:00:00 | 
+ 03          | HID      | Pachuca de Soto                         | 2022-01-01 00:00:00 | 
+ 03          | JAL      | Guadalajara                             | 2022-01-01 00:00:00 | 
+ 03          | MEX      | Coacalco de Berriozabal                 | 2022-01-01 00:00:00 | 
+ 03          | MIC      | Ciudad Hidalgo                          | 2022-01-01 00:00:00 | 
+ 03          | MOR      | Galeana                                 | 2022-01-01 00:00:00 | 
+ 03          | NAY      | Tuxpan                                  | 2022-01-01 00:00:00 | 
+ 03          | NLE      | Ciudad General Escobedo                 | 2022-01-01 00:00:00 | 
+ 03          | OAX      | Salina Cruz                             | 2022-01-01 00:00:00 | 
+ 03          | PUE      | Puebla (Heroica Puebla)                 | 2022-01-01 00:00:00 | 
+ 03          | ROO      | Felipe Carrillo Puerto                  | 2022-01-01 00:00:00 | 
+ 03          | SIN      | Escuinapa de Hidalgo                    | 2022-01-01 00:00:00 | 
+ 03          | SLP      | Matehuala                               | 2022-01-01 00:00:00 | 
+ 03          | SON      | Heroica Caborca                         | 2022-01-01 00:00:00 | 
+ 03          | TAB      | Comalcalco                              | 2022-01-01 00:00:00 | 
+ 03          | TAM      | Ciudad Madero                           | 2022-01-01 00:00:00 | 
+ 03          | TLA      | Tlaxcala (Tlaxcala de Xicotencatl)      | 2022-01-01 00:00:00 | 
+ 03          | VER      | Boca del RÍo                            | 2022-01-01 00:00:00 | 
+ 03          | YUC      | Ticul                                   | 2022-01-01 00:00:00 | 
+ 03          | ZAC      | Zacatecas                               | 2022-01-01 00:00:00 | 
+ 04          | AGU      | Jesús María                             | 2022-01-01 00:00:00 | 
+ 04          | BCN      | Tijuana                                 | 2022-01-01 00:00:00 | 
+ 04          | BCS      | San José del Cabo                       | 2022-01-01 00:00:00 | 
+ 04          | CAM      | Candelaria                              | 2022-01-01 00:00:00 | 
+ 04          | COA      | Monclova                                | 2022-01-01 00:00:00 | 
+ 04          | COL      | Ciudad de Villa de Álvarez              | 2022-01-01 00:00:00 | 
+ 04          | CHH      | Delicias                                | 2022-01-01 00:00:00 | 
+ 04          | CHP      | Tuxtla Gutiérrez                        | 2022-01-01 00:00:00 | 
+ 04          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 04          | DUR      | Santiago Papasquiaro                    | 2022-01-01 00:00:00 | 
+ 04          | GRO      | Taxco de Alarcón                        | 2022-01-01 00:00:00 | 
+ 04          | GUA      | Cortazar                                | 2022-01-01 00:00:00 | 
+ 04          | HID      | Cd. de Fray Bernardino de Sahagún       | 2022-01-01 00:00:00 | 
+ 04          | JAL      | Lagos de Moreno                         | 2022-01-01 00:00:00 | 
+ 04          | MEX      | Cuautitlán Izcalli                      | 2022-01-01 00:00:00 | 
+ 04          | MIC      | Jacona de Plancarte                     | 2022-01-01 00:00:00 | 
+ 04          | MOR      | Jojutla                                 | 2022-01-01 00:00:00 | 
+ 04          | NAY      | Acaponeta                               | 2022-01-01 00:00:00 | 
+ 04          | NLE      | Guadalupe                               | 2022-01-01 00:00:00 | 
+ 04          | OAX      | San Juan Bautista Tuxtepec              | 2022-01-01 00:00:00 | 
+ 04          | PUE      | San Martín Texmelucan de Labastida      | 2022-01-01 00:00:00 | 
+ 04          | QUE      | El Pueblito                             | 2022-01-01 00:00:00 | 
+ 04          | ROO      | Chetumal                                | 2022-01-01 00:00:00 | 
+ 04          | SIN      | Guasave                                 | 2022-01-01 00:00:00 | 
+ 04          | SLP      | Rioverde                                | 2022-01-01 00:00:00 | 
+ 04          | SON      | Ciudad Obregón                          | 2022-01-01 00:00:00 | 
+ 04          | TAB      | Emiliano Zapata                         | 2022-01-01 00:00:00 | 
+ 04          | TAM      | Ciudad Mante                            | 2022-01-01 00:00:00 | 
+ 04          | TLA      | Huamantla                               | 2022-01-01 00:00:00 | 
+ 04          | VER      | Coatepec                                | 2022-01-01 00:00:00 | 
+ 04          | YUC      | Motul de Carrillo Puerto                | 2022-01-01 00:00:00 | 
+ 04          | ZAC      | Guadalupe                               | 2022-01-01 00:00:00 | 
+ 05          | AGU      | Pabellón de Arteaga                     | 2022-01-01 00:00:00 | 
+ 05          | BCN      | Playas de Rosarito                      | 2022-01-01 00:00:00 | 
+ 05          | BCS      | Loreto                                  | 2022-01-01 00:00:00 | 
+ 05          | CAM      | Escárcega                               | 2022-01-01 00:00:00 | 
+ 05          | COA      | Parras de la Fuente                     | 2022-01-01 00:00:00 | 
+ 05          | COL      | Ciudad de Armería                       | 2022-01-01 00:00:00 | 
+ 05          | CHH      | Hidalgo del Parral                      | 2022-01-01 00:00:00 | 
+ 05          | CHP      | Venustiano Carranza                     | 2022-01-01 00:00:00 | 
+ 05          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 05          | DUR      | Canatlán                                | 2022-01-01 00:00:00 | 
+ 05          | GRO      | Arcelia                                 | 2022-01-01 00:00:00 | 
+ 05          | GUA      | Guanajuato                              | 2022-01-01 00:00:00 | 
+ 05          | HID      | Tula de Allende                         | 2022-01-01 00:00:00 | 
+ 05          | JAL      | Ocotlán                                 | 2022-01-01 00:00:00 | 
+ 05          | MEX      | Ecatepec de Morelos                     | 2022-01-01 00:00:00 | 
+ 05          | MIC      | La piedad de Cabadas                    | 2022-01-01 00:00:00 | 
+ 05          | MOR      | Puente de Ixtla                         | 2022-01-01 00:00:00 | 
+ 05          | NAY      | Tecuala                                 | 2022-01-01 00:00:00 | 
+ 05          | NLE      | Linares                                 | 2022-01-01 00:00:00 | 
+ 05          | OAX      | Matías Romero Avendaño                  | 2022-01-01 00:00:00 | 
+ 05          | PUE      | Tehuacan                                | 2022-01-01 00:00:00 | 
+ 05          | ROO      | Playa del Carmen                        | 2022-01-01 00:00:00 | 
+ 05          | SIN      | Mazatlán                                | 2022-01-01 00:00:00 | 
+ 05          | SLP      | San Luis Potosí                         | 2022-01-01 00:00:00 | 
+ 05          | SON      | Empalme                                 | 2022-01-01 00:00:00 | 
+ 05          | TAB      | Jalpa de Méndez                         | 2022-01-01 00:00:00 | 
+ 05          | TAM      | Heroica Matamoros                       | 2022-01-01 00:00:00 | 
+ 05          | TLA      | Calpulalpan                             | 2022-01-01 00:00:00 | 
+ 05          | VER      | Agua dulce                              | 2022-01-01 00:00:00 | 
+ 05          | YUC      | Valladolid                              | 2022-01-01 00:00:00 | 
+ 05          | ZAC      | Río Grande                              | 2022-01-01 00:00:00 | 
+ 06          | AGU      | Rincón de Romos                         | 2022-01-01 00:00:00 | 
+ 06          | BCN      | Rodolfo Sánchez T. (Maneadero)          | 2022-01-01 00:00:00 | 
+ 06          | BCS      | Puerto Adolfo López Mateos              | 2022-01-01 00:00:00 | 
+ 06          | CAM      | Sabancuy                                | 2022-01-01 00:00:00 | 
+ 06          | COA      | Piedras Negras                          | 2022-01-01 00:00:00 | 
+ 06          | CHH      | Juárez                                  | 2022-01-01 00:00:00 | 
+ 06          | CHP      | Jiquipilas                              | 2022-01-01 00:00:00 | 
+ 06          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 06          | DUR      | San Juan del Río del Centauro del Norte | 2022-01-01 00:00:00 | 
+ 06          | GRO      | Ayutla de los Libres                    | 2022-01-01 00:00:00 | 
+ 06          | GUA      | Irapuato                                | 2022-01-01 00:00:00 | 
+ 06          | HID      | Tulancingo                              | 2022-01-01 00:00:00 | 
+ 06          | JAL      | Puerto Vallarta                         | 2022-01-01 00:00:00 | 
+ 06          | MEX      | Huixquilucan de Degollado               | 2022-01-01 00:00:00 | 
+ 06          | MIC      | Morelia                                 | 2022-01-01 00:00:00 | 
+ 06          | MOR      | Santa Rosa Treinta                      | 2022-01-01 00:00:00 | 
+ 06          | NAY      | Compostela                              | 2022-01-01 00:00:00 | 
+ 06          | NLE      | Montemorelos                            | 2022-01-01 00:00:00 | 
+ 06          | OAX      | Heroica Ciudad de Huajuapan de León     | 2022-01-01 00:00:00 | 
+ 06          | PUE      | Teziutlan                               | 2022-01-01 00:00:00 | 
+ 06          | ROO      | Kantunilkin                             | 2022-01-01 00:00:00 | 
+ 06          | SIN      | Guamúchil                               | 2022-01-01 00:00:00 | 
+ 06          | SLP      | Soledad de Graciano Sánchez             | 2022-01-01 00:00:00 | 
+ 06          | SON      | Heroica Guaymas                         | 2022-01-01 00:00:00 | 
+ 06          | TAM      | Nuevo Laredo                            | 2022-01-01 00:00:00 | 
+ 06          | TLA      | Chiautempan                             | 2022-01-01 00:00:00 | 
+ 06          | VER      | Coatzacoalcos                           | 2022-01-01 00:00:00 | 
+ 06          | YUC      | Kanasín                                 | 2022-01-01 00:00:00 | 
+ 06          | ZAC      | Ciudad Cuauhtémoc                       | 2022-01-01 00:00:00 | 
+ 07          | AGU      | Asientos                                | 2022-01-01 00:00:00 | 
+ 07          | BCN      | San Felipe                              | 2022-01-01 00:00:00 | 
+ 07          | BCS      | Todos Santos                            | 2022-01-01 00:00:00 | 
+ 07          | CAM      | Hopelchén                               | 2022-01-01 00:00:00 | 
+ 07          | COA      | Sabinas                                 | 2022-01-01 00:00:00 | 
+ 07          | CHH      | Nuevo Casas Grandes                     | 2022-01-01 00:00:00 | 
+ 07          | CHP      | Villaflores                             | 2022-01-01 00:00:00 | 
+ 07          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 07          | DUR      | Peñón Blanco                            | 2022-01-01 00:00:00 | 
+ 07          | GRO      | Atoyac de Álvarez                       | 2022-01-01 00:00:00 | 
+ 07          | GUA      | León de los Aldama                      | 2022-01-01 00:00:00 | 
+ 07          | HID      | Zimapan                                 | 2022-01-01 00:00:00 | 
+ 07          | JAL      | San Juan de los Lagos                   | 2022-01-01 00:00:00 | 
+ 07          | MEX      | Los Reyes Acaquilpan (La Paz)           | 2022-01-01 00:00:00 | 
+ 07          | MIC      | Pátzcuaro                               | 2022-01-01 00:00:00 | 
+ 07          | MOR      | Zacatepec de Hidalgo                    | 2022-01-01 00:00:00 | 
+ 07          | NAY      | Francisco I. Madero (Puga)              | 2022-01-01 00:00:00 | 
+ 07          | NLE      | Monterrey                               | 2022-01-01 00:00:00 | 
+ 07          | OAX      | Loma Bonita                             | 2022-01-01 00:00:00 | 
+ 07          | PUE      | San Andrés Cholula                      | 2022-01-01 00:00:00 | 
+ 07          | ROO      | Isla Mujeres                            | 2022-01-01 00:00:00 | 
+ 07          | SIN      | Navolato                                | 2022-01-01 00:00:00 | 
+ 07          | SLP      | Charcas                                 | 2022-01-01 00:00:00 | 
+ 07          | SON      | Hermosillo                              | 2022-01-01 00:00:00 | 
+ 07          | TAB      | Macuspana                               | 2022-01-01 00:00:00 | 
+ 07          | TAM      | Reynosa                                 | 2022-01-01 00:00:00 | 
+ 07          | VER      | Córdoba                                 | 2022-01-01 00:00:00 | 
+ 07          | ZAC      | Ojocaliente                             | 2022-01-01 00:00:00 | 
+ 08          | AGU      | Tepezalá                                | 2022-01-01 00:00:00 | 
+ 08          | BCS      | Heroica Mulegé                          | 2022-01-01 00:00:00 | 
+ 08          | CAM      | Champotón                               | 2022-01-01 00:00:00 | 
+ 08          | COA      | Saltillo                                | 2022-01-01 00:00:00 | 
+ 08          | CHP      | Las Margaritas                          | 2022-01-01 00:00:00 | 
+ 08          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 08          | DUR      | Francisco I. Madero                     | 2022-01-01 00:00:00 | 
+ 08          | GUA      | Moroleón                                | 2022-01-01 00:00:00 | 
+ 08          | HID      | Huejutla de Reyes                       | 2022-01-01 00:00:00 | 
+ 08          | JAL      | Tepatitlán de Morelos                   | 2022-01-01 00:00:00 | 
+ 08          | MEX      | Metepec                                 | 2022-01-01 00:00:00 | 
+ 08          | MIC      | Sahuayo de Morelos                      | 2022-01-01 00:00:00 | 
+ 08          | MOR      | Tlaquiltenango                          | 2022-01-01 00:00:00 | 
+ 08          | NAY      | Villa Hidalgo (El Nuevo)                | 2022-01-01 00:00:00 | 
+ 08          | NLE      | Ciudad Sabinas Hidalgo                  | 2022-01-01 00:00:00 | 
+ 08          | OAX      | Puerto Escondido                        | 2022-01-01 00:00:00 | 
+ 08          | PUE      | San Pedro Cholula                       | 2022-01-01 00:00:00 | 
+ 08          | ROO      | Bacalar                                 | 2022-01-01 00:00:00 | 
+ 08          | SIN      | Quila                                   | 2022-01-01 00:00:00 | 
+ 08          | SLP      | Salinas de Hidalgo                      | 2022-01-01 00:00:00 | 
+ 08          | SON      | Huatabampo                              | 2022-01-01 00:00:00 | 
+ 08          | TAB      | Tenosique de Pino Suárez                | 2022-01-01 00:00:00 | 
+ 08          | TAM      | Ciudad Río Bravo                        | 2022-01-01 00:00:00 | 
+ 08          | VER      | Tres Valles                             | 2022-01-01 00:00:00 | 
+ 08          | ZAC      | Villa Hidalgo                           | 2022-01-01 00:00:00 | 
+ 09          | AGU      | Cosío                                   | 2022-01-01 00:00:00 | 
+ 09          | BCS      | Villa Alberto Andrés Alvarado Arámburo  | 2022-01-01 00:00:00 | 
+ 09          | CAM      | Hecelchakán                             | 2022-01-01 00:00:00 | 
+ 09          | COA      | Nueva Rosita                            | 2022-01-01 00:00:00 | 
+ 09          | CHH      | Madera                                  | 2022-01-01 00:00:00 | 
+ 09          | CHP      | Arriaga                                 | 2022-01-01 00:00:00 | 
+ 09          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 09          | DUR      | Nombre de Dios                          | 2022-01-01 00:00:00 | 
+ 09          | GRO      | San Jerónimo de Juárez                  | 2022-01-01 00:00:00 | 
+ 09          | GUA      | Salamanca                               | 2022-01-01 00:00:00 | 
+ 09          | HID      | Tlaxcoapan                              | 2022-01-01 00:00:00 | 
+ 09          | JAL      | Tlaquepaque                             | 2022-01-01 00:00:00 | 
+ 09          | MEX      | Naucalpan de Juárez                     | 2022-01-01 00:00:00 | 
+ 09          | MIC      | Uruapan                                 | 2022-01-01 00:00:00 | 
+ 09          | NAY      | Ruiz                                    | 2022-01-01 00:00:00 | 
+ 09          | NLE      | San Nicolás de los Garza                | 2022-01-01 00:00:00 | 
+ 09          | OAX      | Río Grande o Piedra Parada              | 2022-01-01 00:00:00 | 
+ 09          | PUE      | Huauchinango                            | 2022-01-01 00:00:00 | 
+ 09          | SIN      | Ahome                                   | 2022-01-01 00:00:00 | 
+ 09          | SLP      | Cárdenas                                | 2022-01-01 00:00:00 | 
+ 09          | SON      | Navojoa                                 | 2022-01-01 00:00:00 | 
+ 09          | TAB      | Teapa                                   | 2022-01-01 00:00:00 | 
+ 09          | TAM      | San Fernando                            | 2022-01-01 00:00:00 | 
+ 09          | VER      | Jáltipan de Morelos                     | 2022-01-01 00:00:00 | 
+ 09          | ZAC      | Villanueva                              | 2022-01-01 00:00:00 | 
+ 10          | BCS      | San Ignacio                             | 2022-01-01 00:00:00 | 
+ 10          | COA      | San Pedro                               | 2022-01-01 00:00:00 | 
+ 10          | CHH      | Colonia Anáhuac                         | 2022-01-01 00:00:00 | 
+ 10          | CHP      | Palenque                                | 2022-01-01 00:00:00 | 
+ 10          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 10          | DUR      | Vicente Guerrero                        | 2022-01-01 00:00:00 | 
+ 10          | GRO      | Ciudad Apaxtla de Castrejón             | 2022-01-01 00:00:00 | 
+ 10          | GUA      | San Francisco del Rincón                | 2022-01-01 00:00:00 | 
+ 10          | HID      | Tizayuca                                | 2022-01-01 00:00:00 | 
+ 10          | JAL      | Zapopan                                 | 2022-01-01 00:00:00 | 
+ 10          | MEX      | Ciudad Nezahualcoyotl                   | 2022-01-01 00:00:00 | 
+ 10          | MIC      | Zacapu                                  | 2022-01-01 00:00:00 | 
+ 10          | NAY      | San Blas                                | 2022-01-01 00:00:00 | 
+ 10          | NLE      | Ciudad Santa Catarina                   | 2022-01-01 00:00:00 | 
+ 10          | PUE      | Acatlán de Osorio                       | 2022-01-01 00:00:00 | 
+ 10          | SIN      | Higuera de Zaragoza                     | 2022-01-01 00:00:00 | 
+ 10          | SLP      | Cerritos                                | 2022-01-01 00:00:00 | 
+ 10          | SON      | Heroica Nogales                         | 2022-01-01 00:00:00 | 
+ 10          | TAB      | Paraíso                                 | 2022-01-01 00:00:00 | 
+ 10          | TAM      | Tampico                                 | 2022-01-01 00:00:00 | 
+ 10          | VER      | Xalapa-Enríquez                         | 2022-01-01 00:00:00 | 
+ 10          | ZAC      | Villa de Cos                            | 2022-01-01 00:00:00 | 
+ 11          | BCS      | Guerrero Negro                          | 2022-01-01 00:00:00 | 
+ 11          | CAM      | Pomuch                                  | 2022-01-01 00:00:00 | 
+ 11          | COA      | Torreón                                 | 2022-01-01 00:00:00 | 
+ 11          | CHH      | Juan Aldama                             | 2022-01-01 00:00:00 | 
+ 11          | CHP      | Ocosingo                                | 2022-01-01 00:00:00 | 
+ 11          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 11          | DUR      | El Salto                                | 2022-01-01 00:00:00 | 
+ 11          | GRO      | Ciudad Altamirano                       | 2022-01-01 00:00:00 | 
+ 11          | GUA      | Silao                                   | 2022-01-01 00:00:00 | 
+ 11          | HID      | Santiago Tulantepec                     | 2022-01-01 00:00:00 | 
+ 11          | JAL      | Tlajomulco de Zúñiga                    | 2022-01-01 00:00:00 | 
+ 11          | MEX      | Villa Nicolás Romero                    | 2022-01-01 00:00:00 | 
+ 11          | MIC      | Zamora de Hidalgo                       | 2022-01-01 00:00:00 | 
+ 11          | NAY      | Ixtlán del Río                          | 2022-01-01 00:00:00 | 
+ 11          | NLE      | Doctor Arroyo                           | 2022-01-01 00:00:00 | 
+ 11          | OAX      | Santiago Suchilquitongo                 | 2022-01-01 00:00:00 | 
+ 11          | PUE      | Cuautlancingo                           | 2022-01-01 00:00:00 | 
+ 11          | SIN      | Choix                                   | 2022-01-01 00:00:00 | 
+ 11          | SLP      | Tamuín                                  | 2022-01-01 00:00:00 | 
+ 11          | SON      | Puerto Peñasco                          | 2022-01-01 00:00:00 | 
+ 11          | TAB      | Frontera                                | 2022-01-01 00:00:00 | 
+ 11          | TAM      | Ciudad Victoria                         | 2022-01-01 00:00:00 | 
+ 11          | VER      | Minatitlán                              | 2022-01-01 00:00:00 | 
+ 11          | ZAC      | Nochistlán de Mejía                     | 2022-01-01 00:00:00 | 
+ 12          | BCS      | Santa Rosalía                           | 2022-01-01 00:00:00 | 
+ 12          | COA      | Castaños                                | 2022-01-01 00:00:00 | 
+ 12          | CHH      | José Mariano Jiménez                    | 2022-01-01 00:00:00 | 
+ 12          | CHP      | Tonalá                                  | 2022-01-01 00:00:00 | 
+ 12          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 12          | DUR      | Santa María del Oro                     | 2022-01-01 00:00:00 | 
+ 12          | GRO      | Buenavista de Cuellar                   | 2022-01-01 00:00:00 | 
+ 12          | GUA      | Jerécuaro                               | 2022-01-01 00:00:00 | 
+ 12          | HID      | Ixmiquilpan                             | 2022-01-01 00:00:00 | 
+ 12          | JAL      | Tonalá                                  | 2022-01-01 00:00:00 | 
+ 12          | MEX      | Tecamac de Felipe Villanueva            | 2022-01-01 00:00:00 | 
+ 12          | MIC      | Heroica Zitácuaro                       | 2022-01-01 00:00:00 | 
+ 12          | NAY      | Bucerías                                | 2022-01-01 00:00:00 | 
+ 12          | NLE      | Ciénega de Flores                       | 2022-01-01 00:00:00 | 
+ 12          | OAX      | San Felipe Jalapa de Díaz               | 2022-01-01 00:00:00 | 
+ 12          | PUE      | Tepeaca                                 | 2022-01-01 00:00:00 | 
+ 12          | SIN      | Villa Unión                             | 2022-01-01 00:00:00 | 
+ 12          | SLP      | Tamasopo                                | 2022-01-01 00:00:00 | 
+ 12          | SON      | Heroica Ciudad de Cananea               | 2022-01-01 00:00:00 | 
+ 12          | TAB      | Cunduacán                               | 2022-01-01 00:00:00 | 
+ 12          | TAM      | González                                | 2022-01-01 00:00:00 | 
+ 12          | VER      | Orizaba                                 | 2022-01-01 00:00:00 | 
+ 12          | ZAC      | Víctor Rosales                          | 2022-01-01 00:00:00 | 
+ 13          | COA      | Francisco I. Madero (Chávez)            | 2022-01-01 00:00:00 | 
+ 13          | CHH      | Manuel Ojinaga                          | 2022-01-01 00:00:00 | 
+ 13          | CHP      | Mapastepec                              | 2022-01-01 00:00:00 | 
+ 13          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 13          | GRO      | Cutzamala de Pinzón                     | 2022-01-01 00:00:00 | 
+ 13          | GUA      | Santiago Maravatío                      | 2022-01-01 00:00:00 | 
+ 13          | HID      | Tepeji del Rio                          | 2022-01-01 00:00:00 | 
+ 13          | JAL      | Tuxpan                                  | 2022-01-01 00:00:00 | 
+ 13          | MEX      | Tepotzotlán                             | 2022-01-01 00:00:00 | 
+ 13          | MIC      | Paracho de Verduzco                     | 2022-01-01 00:00:00 | 
+ 13          | NAY      | Las Varas                               | 2022-01-01 00:00:00 | 
+ 13          | NLE      | Hualahuises                             | 2022-01-01 00:00:00 | 
+ 13          | OAX      | Bahias de Huatulco                      | 2022-01-01 00:00:00 | 
+ 13          | PUE      | Tecamachalco                            | 2022-01-01 00:00:00 | 
+ 13          | SIN      | Sinaloa de Leyva                        | 2022-01-01 00:00:00 | 
+ 13          | SLP      | Ciudad del Maíz                         | 2022-01-01 00:00:00 | 
+ 13          | SON      | Sonoita                                 | 2022-01-01 00:00:00 | 
+ 13          | TAB      | Huimanguillo                            | 2022-01-01 00:00:00 | 
+ 13          | TAM      | Jaumave                                 | 2022-01-01 00:00:00 | 
+ 13          | VER      | Papantla de Olarte                      | 2022-01-01 00:00:00 | 
+ 13          | ZAC      | Valparaíso                              | 2022-01-01 00:00:00 | 
+ 14          | COA      | Cuatro Ciénegas de Carranza             | 2022-01-01 00:00:00 | 
+ 14          | CHH      | Bachíniva                               | 2022-01-01 00:00:00 | 
+ 14          | CHP      | Las Rosas                               | 2022-01-01 00:00:00 | 
+ 14          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 14          | GRO      | Coyuca de Catalán                       | 2022-01-01 00:00:00 | 
+ 14          | GUA      | Romita                                  | 2022-01-01 00:00:00 | 
+ 14          | HID      | Cruz Azul                               | 2022-01-01 00:00:00 | 
+ 14          | JAL      | Tototlán                                | 2022-01-01 00:00:00 | 
+ 14          | MEX      | Tlalnepantla de Baz                     | 2022-01-01 00:00:00 | 
+ 14          | MIC      | Tangancícuaro de Arista                 | 2022-01-01 00:00:00 | 
+ 14          | NAY      | Xalisco                                 | 2022-01-01 00:00:00 | 
+ 14          | OAX      | Putla Villa de Guerrero                 | 2022-01-01 00:00:00 | 
+ 14          | PUE      | Zacatlán                                | 2022-01-01 00:00:00 | 
+ 14          | SIN      | Mocorito                                | 2022-01-01 00:00:00 | 
+ 14          | SLP      | Cedral                                  | 2022-01-01 00:00:00 | 
+ 14          | SON      | Magdalena de Kino                       | 2022-01-01 00:00:00 | 
+ 14          | TAM      | Ciudad Gustavo Díaz Ordaz               | 2022-01-01 00:00:00 | 
+ 14          | VER      | Poza Rica de Hidalgo                    | 2022-01-01 00:00:00 | 
+ 14          | ZAC      | Luis Moya                               | 2022-01-01 00:00:00 | 
+ 15          | COA      | Nadadores                               | 2022-01-01 00:00:00 | 
+ 15          | CHH      | Saucillo                                | 2022-01-01 00:00:00 | 
+ 15          | CHP      | Chiapa de Corzo                         | 2022-01-01 00:00:00 | 
+ 15          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 15          | GRO      | Tierra Colorada                         | 2022-01-01 00:00:00 | 
+ 15          | GUA      | Tarandacuao                             | 2022-01-01 00:00:00 | 
+ 15          | HID      | Tepeapulco                              | 2022-01-01 00:00:00 | 
+ 15          | JAL      | San Diego de Alejandría                 | 2022-01-01 00:00:00 | 
+ 15          | MEX      | Santa Maria Tultepec                    | 2022-01-01 00:00:00 | 
+ 15          | MIC      | Maravatío de Ocampo                     | 2022-01-01 00:00:00 | 
+ 15          | NAY      | San pedro Lagunillas                    | 2022-01-01 00:00:00 | 
+ 15          | NLE      | Cadereyta Jiménez                       | 2022-01-01 00:00:00 | 
+ 15          | OAX      | Cosolapa                                | 2022-01-01 00:00:00 | 
+ 15          | PUE      | Xicotepec                               | 2022-01-01 00:00:00 | 
+ 15          | SIN      | Angostura                               | 2022-01-01 00:00:00 | 
+ 15          | SLP      | Tierra Nueva                            | 2022-01-01 00:00:00 | 
+ 15          | TAM      | Estación Manuel (Úrsulo Galván)         | 2022-01-01 00:00:00 | 
+ 15          | VER      | San Andrés Tuxtla                       | 2022-01-01 00:00:00 | 
+ 15          | ZAC      | Moyahua de Estrada                      | 2022-01-01 00:00:00 | 
+ 16          | COA      | Ramos Arizpe                            | 2022-01-01 00:00:00 | 
+ 16          | CHP      | Cacahoatán                              | 2022-01-01 00:00:00 | 
+ 16          | CMX      | Ciudad de México                        | 2022-01-01 00:00:00 | 
+ 16          | GRO      | Coyuca de Benítez                       | 2022-01-01 00:00:00 | 
+ 16          | GUA      | Huanímaro                               | 2022-01-01 00:00:00 | 
+ 16          | JAL      | La Resolana                             | 2022-01-01 00:00:00 | 
+ 16          | MEX      | Tultitlán de Mariano Escobedo           | 2022-01-01 00:00:00 | 
+ 16          | MIC      | Zinapécuaro de Figueroa                 | 2022-01-01 00:00:00 | 
+ 16          | NAY      | La peñita de Jaltemba                   | 2022-01-01 00:00:00 | 
+ 16          | OAX      | Tlacolula de Matamoros                  | 2022-01-01 00:00:00 | 
+ 16          | PUE      | Ciudad Serdán                           | 2022-01-01 00:00:00 | 
+ 16          | SIN      | San Blas                                | 2022-01-01 00:00:00 | 
+ 16          | SLP      | Villa de Reyes                          | 2022-01-01 00:00:00 | 
+ 16          | TAM      | Xicoténcatl                             | 2022-01-01 00:00:00 | 
+ 16          | VER      | Túxpam de Rodríguez Cano                | 2022-01-01 00:00:00 | 
+ 16          | ZAC      | Sombrerete                              | 2022-01-01 00:00:00 | 
+ 17          | COA      | Nava                                    | 2022-01-01 00:00:00 | 
+ 17          | CHP      | Ocozocoautla de Espinosa                | 2022-01-01 00:00:00 | 
+ 17          | GRO      | Olinalá                                 | 2022-01-01 00:00:00 | 
+ 17          | GUA      | Comonfort                               | 2022-01-01 00:00:00 | 
+ 17          | JAL      | Atotonilco el Alto                      | 2022-01-01 00:00:00 | 
+ 17          | MEX      | Cuautitlán                              | 2022-01-01 00:00:00 | 
+ 17          | MIC      | Puruándiro                              | 2022-01-01 00:00:00 | 
+ 17          | NAY      | Jala                                    | 2022-01-01 00:00:00 | 
+ 17          | NLE      | Santiago                                | 2022-01-01 00:00:00 | 
+ 17          | OAX      | San Pablo Villa de Mitla                | 2022-01-01 00:00:00 | 
+ 17          | PUE      | Amozoc                                  | 2022-01-01 00:00:00 | 
+ 17          | SIN      | La Cruz                                 | 2022-01-01 00:00:00 | 
+ 17          | SLP      | Fracción el Refugio                     | 2022-01-01 00:00:00 | 
+ 17          | TAM      | Ciudad Miguel Alemán                    | 2022-01-01 00:00:00 | 
+ 17          | VER      | Veracruz                                | 2022-01-01 00:00:00 | 
+ 17          | ZAC      | Jalpa                                   | 2022-01-01 00:00:00 | 
+ 18          | COA      | Zaragoza                                | 2022-01-01 00:00:00 | 
+ 18          | CHP      | Cintalapa de Figueroa                   | 2022-01-01 00:00:00 | 
+ 18          | GRO      | Marquelia                               | 2022-01-01 00:00:00 | 
+ 18          | GUA      | Uriangato                               | 2022-01-01 00:00:00 | 
+ 18          | JAL      | Jalostotitlán                           | 2022-01-01 00:00:00 | 
+ 18          | MEX      | Ixtapaluca                              | 2022-01-01 00:00:00 | 
+ 18          | MIC      | Yurécuaro                               | 2022-01-01 00:00:00 | 
+ 18          | NAY      | Ahuacatlán                              | 2022-01-01 00:00:00 | 
+ 18          | NLE      | El cercado                              | 2022-01-01 00:00:00 | 
+ 18          | OAX      | Natividad                               | 2022-01-01 00:00:00 | 
+ 18          | SIN      | El rosario                              | 2022-01-01 00:00:00 | 
+ 18          | SLP      | Tamazunchale                            | 2022-01-01 00:00:00 | 
+ 18          | TAM      | Soto la Marina                          | 2022-01-01 00:00:00 | 
+ 18          | VER      | Tierra Blanca                           | 2022-01-01 00:00:00 | 
+ 18          | ZAC      | Loreto                                  | 2022-01-01 00:00:00 | 
+ 19          | COA      | San Buenaventura                        | 2022-01-01 00:00:00 | 
+ 19          | CHP      | Pichucalco                              | 2022-01-01 00:00:00 | 
+ 19          | GRO      | Zumpango del Río                        | 2022-01-01 00:00:00 | 
+ 19          | GUA      | Pénjamo                                 | 2022-01-01 00:00:00 | 
+ 19          | JAL      | Poncitlán                               | 2022-01-01 00:00:00 | 
+ 19          | MEX      | Texcoco de Mora                         | 2022-01-01 00:00:00 | 
+ 19          | MIC      | Huetamo de Núñez                        | 2022-01-01 00:00:00 | 
+ 19          | OAX      | Teotitlán de Flores Magón               | 2022-01-01 00:00:00 | 
+ 19          | SIN      | Estación Naranjo                        | 2022-01-01 00:00:00 | 
+ 19          | SLP      | Santa María del Río                     | 2022-01-01 00:00:00 | 
+ 19          | TAM      | Ciudad Tula                             | 2022-01-01 00:00:00 | 
+ 19          | VER      | Cosamaloapan                            | 2022-01-01 00:00:00 | 
+ 19          | ZAC      | Juan Aldama                             | 2022-01-01 00:00:00 | 
+ 20          | COA      | Ciudad Melchor Múzquiz                  | 2022-01-01 00:00:00 | 
+ 20          | CHP      | Puerto Madero (San Benito)              | 2022-01-01 00:00:00 | 
+ 20          | GRO      | San Luis de la Loma                     | 2022-01-01 00:00:00 | 
+ 20          | GUA      | Cuerámaro                               | 2022-01-01 00:00:00 | 
+ 20          | JAL      | Arandas                                 | 2022-01-01 00:00:00 | 
+ 20          | MEX      | Toluca de Lerdo                         | 2022-01-01 00:00:00 | 
+ 20          | MIC      | Tacámbaro de Codallos                   | 2022-01-01 00:00:00 | 
+ 20          | NLE      | Anáhuac                                 | 2022-01-01 00:00:00 | 
+ 20          | OAX      | Santa María Huatulco                    | 2022-01-01 00:00:00 | 
+ 20          | SIN      | Aguaruto                                | 2022-01-01 00:00:00 | 
+ 20          | SLP      | El Naranjo                              | 2022-01-01 00:00:00 | 
+ 20          | TAM      | Nueva Ciudad Guerrero                   | 2022-01-01 00:00:00 | 
+ 20          | VER      | Carlos A. Carrillo                      | 2022-01-01 00:00:00 | 
+ 21          | COA      | Viesca                                  | 2022-01-01 00:00:00 | 
+ 21          | CHP      | Pijijiapan                              | 2022-01-01 00:00:00 | 
+ 21          | GRO      | Petatlán                                | 2022-01-01 00:00:00 | 
+ 21          | GUA      | Empalme Escobedo (Escobedo)             | 2022-01-01 00:00:00 | 
+ 21          | JAL      | Talpa de Allende                        | 2022-01-01 00:00:00 | 
+ 21          | MEX      | Valle de Chalco Solidaridad             | 2022-01-01 00:00:00 | 
+ 21          | MIC      | Ciudad Lázaro Cárdenas                  | 2022-01-01 00:00:00 | 
+ 21          | NLE      | García                                  | 2022-01-01 00:00:00 | 
+ 21          | OAX      | San Juan Bautista Cuicatlán             | 2022-01-01 00:00:00 | 
+ 21          | SIN      | Cosalá                                  | 2022-01-01 00:00:00 | 
+ 21          | TAM      | Valle Hermoso                           | 2022-01-01 00:00:00 | 
+ 21          | VER      | Pánuco                                  | 2022-01-01 00:00:00 | 
+ 22          | COA      | Morelos                                 | 2022-01-01 00:00:00 | 
+ 22          | CHP      | Reforma                                 | 2022-01-01 00:00:00 | 
+ 22          | GRO      | La Unión                                | 2022-01-01 00:00:00 | 
+ 22          | GUA      | San Luis de la Paz                      | 2022-01-01 00:00:00 | 
+ 22          | JAL      | Etzatlán                                | 2022-01-01 00:00:00 | 
+ 22          | MEX      | Tejupilco de Hidalgo                    | 2022-01-01 00:00:00 | 
+ 22          | MIC      | Las Guacamayas                          | 2022-01-01 00:00:00 | 
+ 22          | NLE      | Ciudad Benito Juárez                    | 2022-01-01 00:00:00 | 
+ 22          | OAX      | Villa Sola de Vega                      | 2022-01-01 00:00:00 | 
+ 22          | SIN      | San Ignacio                             | 2022-01-01 00:00:00 | 
+ 22          | VER      | Tampico Alto                            | 2022-01-01 00:00:00 | 
+ 23          | COA      | Arteaga                                 | 2022-01-01 00:00:00 | 
+ 23          | CHP      | Huixtla                                 | 2022-01-01 00:00:00 | 
+ 23          | GRO      | San Luis San Pedro                      | 2022-01-01 00:00:00 | 
+ 23          | GUA      | Valle de Santiago                       | 2022-01-01 00:00:00 | 
+ 23          | JAL      | Sayula                                  | 2022-01-01 00:00:00 | 
+ 23          | MEX      | Chalco de Díaz Covarrubias              | 2022-01-01 00:00:00 | 
+ 23          | MIC      | Jiquilpan de Juárez                     | 2022-01-01 00:00:00 | 
+ 23          | OAX      | Ocotlán de Morelos                      | 2022-01-01 00:00:00 | 
+ 23          | SIN      | Topolobampo                             | 2022-01-01 00:00:00 | 
+ 23          | VER      | Tempoal de Sánchez                      | 2022-01-01 00:00:00 | 
+ 24          | COA      | Allende                                 | 2022-01-01 00:00:00 | 
+ 24          | CHP      | Motozintla de Mendoza                   | 2022-01-01 00:00:00 | 
+ 24          | GRO      | Teloloapan                              | 2022-01-01 00:00:00 | 
+ 24          | GUA      | Abasolo                                 | 2022-01-01 00:00:00 | 
+ 24          | JAL      | Ahualulco de Mercado                    | 2022-01-01 00:00:00 | 
+ 24          | MEX      | Amatepec                                | 2022-01-01 00:00:00 | 
+ 24          | MIC      | Tuxpan                                  | 2022-01-01 00:00:00 | 
+ 24          | OAX      | Villa de Zaachila                       | 2022-01-01 00:00:00 | 
+ 24          | SIN      | Lic. Benito Juárez (Campo Gobierno)     | 2022-01-01 00:00:00 | 
+ 24          | VER      | Tantoyuca                               | 2022-01-01 00:00:00 | 
+ 25          | CHP      | Acala                                   | 2022-01-01 00:00:00 | 
+ 25          | GRO      | Técpan de Galeana                       | 2022-01-01 00:00:00 | 
+ 25          | GUA      | Rincón de Tamayo                        | 2022-01-01 00:00:00 | 
+ 25          | JAL      | Autlán de Navarro                       | 2022-01-01 00:00:00 | 
+ 25          | MIC      | Cotija de la Paz                        | 2022-01-01 00:00:00 | 
+ 25          | OAX      | Miahuatlán de Porfirio Díaz             | 2022-01-01 00:00:00 | 
+ 25          | VER      | Gutiérrez Zamora                        | 2022-01-01 00:00:00 | 
+ 26          | GRO      | Huitzuco                                | 2022-01-01 00:00:00 | 
+ 26          | GUA      | Villagrán                               | 2022-01-01 00:00:00 | 
+ 26          | JAL      | Magdalena                               | 2022-01-01 00:00:00 | 
+ 26          | MEX      | Melchor Ocampo                          | 2022-01-01 00:00:00 | 
+ 26          | MIC      | Nueva Italia de Ruiz                    | 2022-01-01 00:00:00 | 
+ 26          | OAX      | Unión Hidalgo                           | 2022-01-01 00:00:00 | 
+ 26          | VER      | Platón Sánchez                          | 2022-01-01 00:00:00 | 
+ 27          | GRO      | Tixtla de Guerrero                      | 2022-01-01 00:00:00 | 
+ 27          | GUA      | Yuriria                                 | 2022-01-01 00:00:00 | 
+ 27          | JAL      | San Julián                              | 2022-01-01 00:00:00 | 
+ 27          | MEX      | San Vicente Chicoloapan de Juárez       | 2022-01-01 00:00:00 | 
+ 27          | MIC      | Cuitzeo del Porvenir                    | 2022-01-01 00:00:00 | 
+ 27          | OAX      | El Camarón                              | 2022-01-01 00:00:00 | 
+ 27          | VER      | Juan Rodríguez Clara                    | 2022-01-01 00:00:00 | 
+ 28          | GRO      | Tepecoacuilco de Trujano                | 2022-01-01 00:00:00 | 
+ 28          | GUA      | Apaseo el Grande                        | 2022-01-01 00:00:00 | 
+ 28          | JAL      | Cocula                                  | 2022-01-01 00:00:00 | 
+ 28          | MEX      | Capulhuac                               | 2022-01-01 00:00:00 | 
+ 28          | OAX      | San Pedro Mixtepec -Dto. 22-            | 2022-01-01 00:00:00 | 
+ 28          | VER      | Huatusco de Chicuellar                  | 2022-01-01 00:00:00 | 
+ 29          | GRO      | San Marcos                              | 2022-01-01 00:00:00 | 
+ 29          | GUA      | Purísima de Bustos                      | 2022-01-01 00:00:00 | 
+ 29          | JAL      | El Grullo                               | 2022-01-01 00:00:00 | 
+ 29          | MEX      | Juchitepec de Mariano Riva Palacio      | 2022-01-01 00:00:00 | 
+ 29          | OAX      | Santa Cruz Itundujia                    | 2022-01-01 00:00:00 | 
+ 29          | VER      | Ixtaczoquitlán                          | 2022-01-01 00:00:00 | 
+ 30          | GRO      | Azoyú                                   | 2022-01-01 00:00:00 | 
+ 30          | GUA      | Salvatierra                             | 2022-01-01 00:00:00 | 
+ 30          | JAL      | San Miguel el Alto                      | 2022-01-01 00:00:00 | 
+ 30          | MEX      | Tequixquiac                             | 2022-01-01 00:00:00 | 
+ 30          | OAX      | Chahuites                               | 2022-01-01 00:00:00 | 
+ 30          | VER      | Río Blanco                              | 2022-01-01 00:00:00 | 
+ 31          | GRO      | Tlapehuala                              | 2022-01-01 00:00:00 | 
+ 31          | GUA      | Marfil                                  | 2022-01-01 00:00:00 | 
+ 31          | JAL      | Tala                                    | 2022-01-01 00:00:00 | 
+ 31          | MEX      | Xonacatlán                              | 2022-01-01 00:00:00 | 
+ 31          | OAX      | Heroica Ciudad de Ejutla de Crespo      | 2022-01-01 00:00:00 | 
+ 31          | VER      | Isla                                    | 2022-01-01 00:00:00 | 
+ 32          | GRO      | San Luis Acatlán                        | 2022-01-01 00:00:00 | 
+ 32          | GUA      | San José Iturbide                       | 2022-01-01 00:00:00 | 
+ 32          | JAL      | La Barca                                | 2022-01-01 00:00:00 | 
+ 32          | MEX      | San Mateo Atenco                        | 2022-01-01 00:00:00 | 
+ 32          | OAX      | San Pedro Tapanatepec                   | 2022-01-01 00:00:00 | 
+ 32          | VER      | Cuitláhuac                              | 2022-01-01 00:00:00 | 
+ 33          | GRO      | Chilapa de Álvarez                      | 2022-01-01 00:00:00 | 
+ 33          | GUA      | Apaseo el Alto                          | 2022-01-01 00:00:00 | 
+ 33          | JAL      | Jamay                                   | 2022-01-01 00:00:00 | 
+ 33          | OAX      | Vicente Camalote                        | 2022-01-01 00:00:00 | 
+ 33          | VER      | Fortín de las Flores                    | 2022-01-01 00:00:00 | 
+ 34          | GRO      | Tlapa de Comonfort                      | 2022-01-01 00:00:00 | 
+ 34          | GUA      | Ciudad Manuel Doblado                   | 2022-01-01 00:00:00 | 
+ 34          | JAL      | Yahualica de González Gallo             | 2022-01-01 00:00:00 | 
+ 34          | OAX      | Villa de Tamazulápam del Progreso       | 2022-01-01 00:00:00 | 
+ 34          | VER      | Alvarado                                | 2022-01-01 00:00:00 | 
+ 35          | GRO      | Tlalixtaquilla                          | 2022-01-01 00:00:00 | 
+ 35          | GUA      | Jaral del Progreso                      | 2022-01-01 00:00:00 | 
+ 35          | JAL      | Colotlán                                | 2022-01-01 00:00:00 | 
+ 35          | OAX      | San Juan Bautista lo de Soto            | 2022-01-01 00:00:00 | 
+ 35          | VER      | José Cardel                             | 2022-01-01 00:00:00 | 
+ 36          | GRO      | Cuajinicuilapa                          | 2022-01-01 00:00:00 | 
+ 36          | GUA      | San Diego de la Unión                   | 2022-01-01 00:00:00 | 
+ 36          | JAL      | Cihuatlán                               | 2022-01-01 00:00:00 | 
+ 36          | MEX      | Chiconcuac                              | 2022-01-01 00:00:00 | 
+ 36          | OAX      | San Juan Cacahuatepec                   | 2022-01-01 00:00:00 | 
+ 36          | VER      | Banderilla                              | 2022-01-01 00:00:00 | 
+ 37          | GRO      | Huamuxtitlán                            | 2022-01-01 00:00:00 | 
+ 37          | GUA      | Santa Cruz Juventino Rosas              | 2022-01-01 00:00:00 | 
+ 37          | JAL      | Zapotiltic                              | 2022-01-01 00:00:00 | 
+ 37          | OAX      | San Pedro Totolapa                      | 2022-01-01 00:00:00 | 
+ 37          | VER      | Paraje Nuevo                            | 2022-01-01 00:00:00 | 
+ 38          | GRO      | Cruz Grande                             | 2022-01-01 00:00:00 | 
+ 38          | GUA      | Doctor Mora                             | 2022-01-01 00:00:00 | 
+ 38          | JAL      | Villa Corona                            | 2022-01-01 00:00:00 | 
+ 38          | OAX      | San Miguel el Grande                    | 2022-01-01 00:00:00 | 
+ 38          | VER      | Playa Vicente                           | 2022-01-01 00:00:00 | 
+ 39          | GRO      | Ocotito                                 | 2022-01-01 00:00:00 | 
+ 39          | GUA      | Dolores Hgo. Cuna de la Indep. Nal.     | 2022-01-01 00:00:00 | 
+ 39          | JAL      | Teocaltiche                             | 2022-01-01 00:00:00 | 
+ 39          | MEX      | Almoloya de Juárez                      | 2022-01-01 00:00:00 | 
+ 39          | OAX      | Zimatlán de Álvarez                     | 2022-01-01 00:00:00 | 
+ 39          | VER      | Altotonga                               | 2022-01-01 00:00:00 | 
+ 40          | GRO      | Copala                                  | 2022-01-01 00:00:00 | 
+ 40          | MEX      | Ocoyoacac                               | 2022-01-01 00:00:00 | 
+ 40          | OAX      | San Pablo Huitzo                        | 2022-01-01 00:00:00 | 
+ 40          | VER      | Juan Díaz Covarrubias                   | 2022-01-01 00:00:00 | 
+ 41          | GRO      | Zihuatanejo                             | 2022-01-01 00:00:00 | 
+ 41          | JAL      | Tequila                                 | 2022-01-01 00:00:00 | 
+ 41          | MEX      | Zumpango                                | 2022-01-01 00:00:00 | 
+ 41          | OAX      | San Francisco Telixtlahuaca             | 2022-01-01 00:00:00 | 
+ 41          | VER      | Cuichapa                                | 2022-01-01 00:00:00 | 
+ 42          | JAL      | El Quince (San José el Quince)          | 2022-01-01 00:00:00 | 
+ 42          | OAX      | Mariscala de Juárez                     | 2022-01-01 00:00:00 | 
+ 42          | VER      | Santiago Tuxtla                         | 2022-01-01 00:00:00 | 
+ 43          | JAL      | San José el Verde (El Verde)            | 2022-01-01 00:00:00 | 
+ 43          | OAX      | Santiago Pinotepa Nacional              | 2022-01-01 00:00:00 | 
+ 43          | VER      | Huayacocotla                            | 2022-01-01 00:00:00 | 
+ 44          | JAL      | Jocotepec                               | 2022-01-01 00:00:00 | 
+ 44          | OAX      | Santiago Jamiltepec                     | 2022-01-01 00:00:00 | 
+ 44          | VER      | Paso de Ovejas                          | 2022-01-01 00:00:00 | 
+ 45          | JAL      | Tecalitlán                              | 2022-01-01 00:00:00 | 
+ 45          | OAX      | San Pedro Pochutla                      | 2022-01-01 00:00:00 | 
+ 45          | VER      | Catemaco                                | 2022-01-01 00:00:00 | 
+ 46          | JAL      | Chapala                                 | 2022-01-01 00:00:00 | 
+ 46          | OAX      | Heroica Ciudad de Tlaxiaco              | 2022-01-01 00:00:00 | 
+ 46          | VER      | Nogales                                 | 2022-01-01 00:00:00 | 
+ 47          | JAL      | Ajijic                                  | 2022-01-01 00:00:00 | 
+ 47          | OAX      | San Juan Bautista Valle Nacional        | 2022-01-01 00:00:00 | 
+ 47          | VER      | Las Choapas                             | 2022-01-01 00:00:00 | 
+ 48          | JAL      | San Ignacio Cerro Gordo                 | 2022-01-01 00:00:00 | 
+ 48          | OAX      | Lagunas                                 | 2022-01-01 00:00:00 | 
+ 48          | VER      | General Miguel Alemán (Potrero Nuevo)   | 2022-01-01 00:00:00 | 
+ 49          | JAL      | Zacoalco de Torres                      | 2022-01-01 00:00:00 | 
+ 49          | OAX      | Ciudad Ixtepec                          | 2022-01-01 00:00:00 | 
+ 49          | VER      | Coatzintla                              | 2022-01-01 00:00:00 | 
+ 50          | JAL      | Huejuquilla el Alto                     | 2022-01-01 00:00:00 | 
+ 50          | OAX      | Santiago Juxtlahuaca                    | 2022-01-01 00:00:00 | 
+ 50          | VER      | Ángel R. Cabada                         | 2022-01-01 00:00:00 | 
+ 51          | JAL      | Villa Hidalgo                           | 2022-01-01 00:00:00 | 
+ 51          | OAX      | San Sebastián Tecomaxtlahuaca           | 2022-01-01 00:00:00 | 
+ 51          | VER      | San Rafael                              | 2022-01-01 00:00:00 | 
+ 52          | JAL      | Unión de San Antonio                    | 2022-01-01 00:00:00 | 
+ 52          | OAX      | Asunción Nochixtlán                     | 2022-01-01 00:00:00 | 
+ 52          | VER      | Tlacojalpan                             | 2022-01-01 00:00:00 | 
+ 53          | JAL      | Las Pintitas                            | 2022-01-01 00:00:00 | 
+ 53          | OAX      | San Francisco Ixhuatán                  | 2022-01-01 00:00:00 | 
+ 53          | VER      | Cosoleacaque                            | 2022-01-01 00:00:00 | 
+ 54          | JAL      | Tamazula de Gordiano                    | 2022-01-01 00:00:00 | 
+ 54          | OAX      | San Blas Atempa                         | 2022-01-01 00:00:00 | 
+ 54          | VER      | Lerdo de Tejada                         | 2022-01-01 00:00:00 | 
+ 55          | JAL      | Acatlán de Juárez                       | 2022-01-01 00:00:00 | 
+ 55          | OAX      | Santo Domingo Tehuantepec               | 2022-01-01 00:00:00 | 
+ 55          | VER      | Tihuatlán                               | 2022-01-01 00:00:00 | 
+ 56          | JAL      | Valle de Guadalupe                      | 2022-01-01 00:00:00 | 
+ 56          | OAX      | Cuilápam de Guerrero                    | 2022-01-01 00:00:00 | 
+ 56          | VER      | Atoyac                                  | 2022-01-01 00:00:00 | 
+ 57          | OAX      | El Rosario                              | 2022-01-01 00:00:00 | 
+ 57          | VER      | Huiloapan de Cuauhtémoc                 | 2022-01-01 00:00:00 | 
+ 58          | OAX      | Santa Lucia del Camino                  | 2022-01-01 00:00:00 | 
+ 58          | VER      | Cazones de Herrera                      | 2022-01-01 00:00:00 | 
+ 59          | OAX      | San Antonio de la Cal                   | 2022-01-01 00:00:00 | 
+ 59          | VER      | Yecuatla                                | 2022-01-01 00:00:00 | 
+ 60          | VER      | Soledad de Doblado                      | 2022-01-01 00:00:00 | 
+ 61          | VER      | Cerro Azul                              | 2022-01-01 00:00:00 | 
+ 62          | VER      | Tezonapa                                | 2022-01-01 00:00:00 | 
+ 66          | VER      | Sihuapan                                | 2022-01-01 00:00:00 | 
+ 67          | VER      | El Higo                                 | 2022-01-01 00:00:00 | 
+ 68          | VER      | Paso del Macho                          | 2022-01-01 00:00:00 | 
+ 69          | VER      | Tlapacoyan                              | 2022-01-01 00:00:00 | 
 (664 rows)
 

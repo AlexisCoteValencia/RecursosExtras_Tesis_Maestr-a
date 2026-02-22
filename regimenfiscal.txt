@@ -1,27 +1,33 @@
- c_regimenfiscal |                                         regimen                                         |                                                     regimen_descrip                                                      | persona 
------------------+-----------------------------------------------------------------------------------------+--------------------------------------------------------------------------------------------------------------------------+---------
- 601             | General de Ley Personas Morales                                                         | El régimen fiscal 601 es uno de los más utilizados puesto que entran la mayoría de las empresas.                         | Morales
- 603             | Personas Morales con Fines no Lucrativos                                                | Como su nombre lo indica se utiliza en el coso de asociaciones o fundaciones.                                            | Morales
- 605             | Sueldos y Salarios e Ingresos Asimilados a Salarios                                     | Trabajadores en general.                                                                                                 | Física
- 606             | Arrendamiento                                                                           | Dueños de inmuebles en renta                                                                                             | Física
- 607             | Régimen de Enajenación o Adquisición de Bienes                                          | Empresas dedicadas a la compra – venta de bienes inmuebles.                                                              | Morales
- 608             | Demás ingresos                                                                          | Regímenes que no se encuentran en estas claves.                                                                          | Físicas
- 609             | Consolidación                                                                           | Tipo de sociedad que diversifica en un nuevo mercado.                                                                    | Morales
- 610             | Residentes en el Extranjero sin Establecimiento Permanente en México.                   | NA                                                                                                                       | Ambas
- 611             | Ingresos por Dividendos (socios y accionistas)                                          | Ingresos obtenidos por ganancias                                                                                         | Física
- 612             | Personas Físicas con Actividades Empresariales y Profesionales                          | El régimen fiscal 612 son los servicios prestados por profesionales con título.                                          | Físicas
- 614             | Ingresos por intereses                                                                  | NA                                                                                                                       | Físicas
- 615             | Régimen de los ingresos por obtención de premios                                        | Aplican al ganar en cualquier premio legalmente registrado.                                                              | Físicas
- 616             | Sin obligaciones fiscales                                                               | NA                                                                                                                       | Físicas
- 620             | Sociedades Cooperativas de Producción que optan por Diferir sus Ingresos                | NA                                                                                                                       | Morales
- 621             | Incorporación Fiscal                                                                    | El régimen fiscal 621 se basa en la comercialización de bienes o servicios sin necesidad de tener títulos profesionales. | Físicas
- 622             | Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras                                | NA                                                                                                                       | Ambas
- 623             | Opcional para Grupos de Sociedades                                                      | En los casos especiales en los que el tipo de régimen no está especificado.                                              | Morales
- 624             | Coordinados                                                                             | Empresas principalmente dedicadas al transporte terrestre (mercancías o personas).                                       | Morales
- 625             | Régimen de Actividades Empresariales con Ingresos a través de Plataformas Tecnológicas. | NA                                                                                                                       | Físicas
- 626             | Régimen Simplificado de Confianza (RESICO)                                              | NA                                                                                                                       | Ambas
- 628             | Hidrocarburos                                                                           | Empresas dedicadas a la comercialización de hidrocarburos.                                                               | Morales
- 629             | De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales                 | NA                                                                                                                       | Físicas
- 630             | Enajenación de acciones en bolsa de valores                                             | NA                                                                                                                       | Físicas
-(23 rows)
+ c_regimenfiscal |                                 regimen                                  |                    regimen_descrip                    | fisica | moral 
+-----------------+--------------------------------------------------------------------------+-------------------------------------------------------+--------+-------
+ 601             | General de Ley Personas Morales                                          | El régimen fiscal 601 es uno de los más utilizados   +| No     | Si
+                 |                                                                          | puesto que entran la mayoría de las empresas          |        | 
+ 603             | Personas Morales con Fines no Lucrativos                                 | Como su nombre lo indica se utiliza en el coso de    +| No     | Si
+                 |                                                                          | asociaciones o fundaciones                            |        | 
+ 605             | Sueldos y Salarios e Ingresos Asimilados a Salarios                      | Trabajadores en general                               | Si     | No
+ 606             | Arrendamiento                                                            | Dueños de inmuebles en renta                          | Si     | No
+ 607             | Régimen de Enajenación o Adquisición de Bienes                           | Empresas dedicadas a la compra – venta de bienes     +| Si     | No
+                 |                                                                          | inmuebles                                             |        | 
+ 608             | Demás ingresos                                                           | Regímenes que no se encuentran en estas claves        | Si     | No
+ 610             | Residentes en el Extranjero sin Establecimiento Permanente en México     | NA                                                    | Si     | Si
+ 611             | Ingresos por Dividendos (socios y accionistas)                           | Ingresos obtenidos por ganancias                      | Si     | No
+ 612             | Personas Físicas con Actividades Empresariales y                        +| El régimen fiscal 612 son los servicios prestados    +| Si     | No
+                 | Profesionales                                                            | por profesionales con título                          |        | 
+ 614             | Ingresos por intereses                                                   | NA                                                    | Si     | No
+ 615             | Régimen de los ingresos por obtención de premios                         | Aplican al ganar en cualquier premio legalmente      +| Si     | No
+                 |                                                                          | registrado                                            |        | 
+ 616             | Sin obligaciones fiscales                                                | NA                                                    | Si     | No
+ 620             | Sociedades Cooperativas de Producción que optan por diferir sus ingresos | NA                                                    | No     | Si
+ 621             | Incorporación Fiscal                                                     | El régimen fiscal 621 se basa en la comercialización +| Si     | No
+                 |                                                                          | de bienes o servicios sin necesidad de tener títulos +|        | 
+                 |                                                                          | profesionales                                         |        | 
+ 622             | Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras                 | NA                                                    | No     | Si
+ 623             | Opcional para Grupos de Sociedades                                       | En los casos especiales en los que el tipo de régimen+| No     | Si
+                 |                                                                          | no está especificado                                  |        | 
+ 624             | Coordinados                                                              | Empresas principalmente dedicadas al transporte      +| No     | Si
+                 |                                                                          | terrestre (mercancías o personas)                     |        | 
+ 625             | Régimen de las Actividades Empresariales con ingresos                   +| NA                                                    | Si     | No
+                 | a través de Plataformas Tecnológicas                                     |                                                       |        | 
+ 626             | Régimen Simplificado de Confianza                                        | NA                                                    | Si     | Si
+(19 rows)
 

@@ -1,99 +1,99 @@
- c_estado | c_pais |        nombreestado        
-----------+--------+----------------------------
- AGU      | MEX    | Aguascalientes
- BCN      | MEX    | Baja California
- BCS      | MEX    | Baja California Sur
- CAM      | MEX    | Campeche
- CHP      | MEX    | Chiapas
- CHH      | MEX    | Chihuahua
- COA      | MEX    | Coahuila
- COL      | MEX    | Colima
- CMX      | MEX    | Ciudad de México
- DUR      | MEX    | Durango
- GUA      | MEX    | Guanajuato
- GRO      | MEX    | Guerrero
- HID      | MEX    | Hidalgo
- JAL      | MEX    | Jalisco
- MEX      | MEX    | Estado de México
- MIC      | MEX    | Michoacán
- MOR      | MEX    | Morelos
- NAY      | MEX    | Nayarit
- NLE      | MEX    | Nuevo León
- OAX      | MEX    | Oaxaca
- PUE      | MEX    | Puebla
- QUE      | MEX    | Querétaro
- ROO      | MEX    | Quintana Roo
- SLP      | MEX    | San Luis Potosí
- SIN      | MEX    | Sinaloa
- SON      | MEX    | Sonora
- TAB      | MEX    | Tabasco
- TAM      | MEX    | Tamaulipas
- TLA      | MEX    | Tlaxcala
- VER      | MEX    | Veracruz
- YUC      | MEX    | Yucatán
- ZAC      | MEX    | Zacatecas
- AL       | USA    | Alabama
- AK       | USA    | Alaska
- AZ       | USA    | Arizona
- AR       | USA    | Arkansas
- CA       | USA    | California
- NC       | USA    | Carolina del Norte
- SC       | USA    | Carolina del Sur
- CO       | USA    | Colorado
- CT       | USA    | Connecticut
- ND       | USA    | Dakota del Norte
- SD       | USA    | Dakota del Sur
- DE       | USA    | Delaware
- FL       | USA    | Florida
- GA       | USA    | Georgia
- HI       | USA    | Hawái
- ID       | USA    | Idaho
- IL       | USA    | Illinois
- IN       | USA    | Indiana
- IA       | USA    | Iowa
- KS       | USA    | Kansas
- KY       | USA    | Kentucky
- LA       | USA    | Luisiana
- ME       | USA    | Maine
- MD       | USA    | Maryland
- MA       | USA    | Massachusetts
- MI       | USA    | Míchigan
- MN       | USA    | Minnesota
- MS       | USA    | Misisipi
- MO       | USA    | Misuri
- MT       | USA    | Montana
- NE       | USA    | Nebraska
- NV       | USA    | Nevada
- NJ       | USA    | Nueva Jersey
- NY       | USA    | Nueva York
- NH       | USA    | Nuevo Hampshire
- NM       | USA    | Nuevo México
- OH       | USA    | Ohio
- OK       | USA    | Oklahoma
- OR       | USA    | Oregón
- PA       | USA    | Pensilvania
- RI       | USA    | Rhode Island
- TN       | USA    | Tennessee
- TX       | USA    | Texas
- UT       | USA    | Utah
- VT       | USA    | Vermont
- VA       | USA    | Virginia
- WV       | USA    | Virginia Occidental
- WA       | USA    | Washington
- WI       | USA    | Wisconsin
- WY       | USA    | Wyoming
- ON       | CAN    | Ontario 
- QC       | CAN    |  Quebec 
- NS       | CAN    |  Nueva Escocia
- NB       | CAN    | Nuevo Brunswick 
- MB       | CAN    |  Manitoba
- BC       | CAN    |  Columbia Británica
- PE       | CAN    |  Isla del Príncipe Eduardo
- SK       | CAN    |  Saskatchewan
- AB       | CAN    |  Alberta
- NL       | CAN    |  Terranova y Labrador
- NT       | CAN    |  Territorios del Noroeste
- YT       | CAN    |  Yukón
- UN       | CAN    |  Nunavut
+ c_estado | c_pais |       nombreestado        |       inicio        | fin 
+----------+--------+---------------------------+---------------------+-----
+ AGU      | MEX    | Aguascalientes            | 2022-01-01 00:00:00 | 
+ BCN      | MEX    | Baja California           | 2022-01-01 00:00:00 | 
+ BCS      | MEX    | Baja California Sur       | 2022-01-01 00:00:00 | 
+ CAM      | MEX    | Campeche                  | 2022-01-01 00:00:00 | 
+ CHP      | MEX    | Chiapas                   | 2022-01-01 00:00:00 | 
+ CHH      | MEX    | Chihuahua                 | 2022-01-01 00:00:00 | 
+ COA      | MEX    | Coahuila                  | 2022-01-01 00:00:00 | 
+ COL      | MEX    | Colima                    | 2022-01-01 00:00:00 | 
+ CMX      | MEX    | Ciudad de México          | 2022-01-01 00:00:00 | 
+ DUR      | MEX    | Durango                   | 2022-01-01 00:00:00 | 
+ GUA      | MEX    | Guanajuato                | 2022-01-01 00:00:00 | 
+ GRO      | MEX    | Guerrero                  | 2022-01-01 00:00:00 | 
+ HID      | MEX    | Hidalgo                   | 2022-01-01 00:00:00 | 
+ JAL      | MEX    | Jalisco                   | 2022-01-01 00:00:00 | 
+ MEX      | MEX    | Estado de México          | 2022-01-01 00:00:00 | 
+ MIC      | MEX    | Michoacán                 | 2022-01-01 00:00:00 | 
+ MOR      | MEX    | Morelos                   | 2022-01-01 00:00:00 | 
+ NAY      | MEX    | Nayarit                   | 2022-01-01 00:00:00 | 
+ NLE      | MEX    | Nuevo León                | 2022-01-01 00:00:00 | 
+ OAX      | MEX    | Oaxaca                    | 2022-01-01 00:00:00 | 
+ PUE      | MEX    | Puebla                    | 2022-01-01 00:00:00 | 
+ QUE      | MEX    | Querétaro                 | 2022-01-01 00:00:00 | 
+ ROO      | MEX    | Quintana Roo              | 2022-01-01 00:00:00 | 
+ SLP      | MEX    | San Luis Potosí           | 2022-01-01 00:00:00 | 
+ SIN      | MEX    | Sinaloa                   | 2022-01-01 00:00:00 | 
+ SON      | MEX    | Sonora                    | 2022-01-01 00:00:00 | 
+ TAB      | MEX    | Tabasco                   | 2022-01-01 00:00:00 | 
+ TAM      | MEX    | Tamaulipas                | 2022-01-01 00:00:00 | 
+ TLA      | MEX    | Tlaxcala                  | 2022-01-01 00:00:00 | 
+ VER      | MEX    | Veracruz                  | 2022-01-01 00:00:00 | 
+ YUC      | MEX    | Yucatán                   | 2022-01-01 00:00:00 | 
+ ZAC      | MEX    | Zacatecas                 | 2022-01-01 00:00:00 | 
+ AL       | USA    | Alabama                   | 2022-01-01 00:00:00 | 
+ AK       | USA    | Alaska                    | 2022-01-01 00:00:00 | 
+ AZ       | USA    | Arizona                   | 2022-01-01 00:00:00 | 
+ AR       | USA    | Arkansas                  | 2022-01-01 00:00:00 | 
+ CA       | USA    | California                | 2022-01-01 00:00:00 | 
+ NC       | USA    | Carolina del Norte        | 2022-01-01 00:00:00 | 
+ SC       | USA    | Carolina del Sur          | 2022-01-01 00:00:00 | 
+ CO       | USA    | Colorado                  | 2022-01-01 00:00:00 | 
+ CT       | USA    | Connecticut               | 2022-01-01 00:00:00 | 
+ ND       | USA    | Dakota del Norte          | 2022-01-01 00:00:00 | 
+ SD       | USA    | Dakota del Sur            | 2022-01-01 00:00:00 | 
+ DE       | USA    | Delaware                  | 2022-01-01 00:00:00 | 
+ FL       | USA    | Florida                   | 2022-01-01 00:00:00 | 
+ GA       | USA    | Georgia                   | 2022-01-01 00:00:00 | 
+ HI       | USA    | Hawái                     | 2022-01-01 00:00:00 | 
+ ID       | USA    | Idaho                     | 2022-01-01 00:00:00 | 
+ IL       | USA    | Illinois                  | 2022-01-01 00:00:00 | 
+ IN       | USA    | Indiana                   | 2022-01-01 00:00:00 | 
+ IA       | USA    | Iowa                      | 2022-01-01 00:00:00 | 
+ KS       | USA    | Kansas                    | 2022-01-01 00:00:00 | 
+ KY       | USA    | Kentucky                  | 2022-01-01 00:00:00 | 
+ LA       | USA    | Luisiana                  | 2022-01-01 00:00:00 | 
+ ME       | USA    | Maine                     | 2022-01-01 00:00:00 | 
+ MD       | USA    | Maryland                  | 2022-01-01 00:00:00 | 
+ MA       | USA    | Massachusetts             | 2022-01-01 00:00:00 | 
+ MI       | USA    | Míchigan                  | 2022-01-01 00:00:00 | 
+ MN       | USA    | Minnesota                 | 2022-01-01 00:00:00 | 
+ MS       | USA    | Misisipi                  | 2022-01-01 00:00:00 | 
+ MO       | USA    | Misuri                    | 2022-01-01 00:00:00 | 
+ MT       | USA    | Montana                   | 2022-01-01 00:00:00 | 
+ NE       | USA    | Nebraska                  | 2022-01-01 00:00:00 | 
+ NV       | USA    | Nevada                    | 2022-01-01 00:00:00 | 
+ NJ       | USA    | Nueva Jersey              | 2022-01-01 00:00:00 | 
+ NY       | USA    | Nueva York                | 2022-01-01 00:00:00 | 
+ NH       | USA    | Nuevo Hampshire           | 2022-01-01 00:00:00 | 
+ NM       | USA    | Nuevo México              | 2022-01-01 00:00:00 | 
+ OH       | USA    | Ohio                      | 2022-01-01 00:00:00 | 
+ OK       | USA    | Oklahoma                  | 2022-01-01 00:00:00 | 
+ OR       | USA    | Oregón                    | 2022-01-01 00:00:00 | 
+ PA       | USA    | Pensilvania               | 2022-01-01 00:00:00 | 
+ RI       | USA    | Rhode Island              | 2022-01-01 00:00:00 | 
+ TN       | USA    | Tennessee                 | 2022-01-01 00:00:00 | 
+ TX       | USA    | Texas                     | 2022-01-01 00:00:00 | 
+ UT       | USA    | Utah                      | 2022-01-01 00:00:00 | 
+ VT       | USA    | Vermont                   | 2022-01-01 00:00:00 | 
+ VA       | USA    | Virginia                  | 2022-01-01 00:00:00 | 
+ WV       | USA    | Virginia Occidental       | 2022-01-01 00:00:00 | 
+ WA       | USA    | Washington                | 2022-01-01 00:00:00 | 
+ WI       | USA    | Wisconsin                 | 2022-01-01 00:00:00 | 
+ WY       | USA    | Wyoming                   | 2022-01-01 00:00:00 | 
+ ON       | CAN    | Ontario                   | 2022-01-01 00:00:00 | 
+ QC       | CAN    | Quebec                    | 2022-01-01 00:00:00 | 
+ NS       | CAN    | Nueva Escocia             | 2022-01-01 00:00:00 | 
+ NB       | CAN    | Nuevo Brunswick           | 2022-01-01 00:00:00 | 
+ MB       | CAN    | Manitoba                  | 2022-01-01 00:00:00 | 
+ BC       | CAN    | Columbia Británica        | 2022-01-01 00:00:00 | 
+ PE       | CAN    | Isla del Príncipe Eduardo | 2022-01-01 00:00:00 | 
+ SK       | CAN    | Saskatchewan              | 2022-01-01 00:00:00 | 
+ AB       | CAN    | Alberta                   | 2022-01-01 00:00:00 | 
+ NL       | CAN    | Terranova y Labrador      | 2022-01-01 00:00:00 | 
+ NT       | CAN    | Territorios del Noroeste  | 2022-01-01 00:00:00 | 
+ YT       | CAN    | Yukón                     | 2022-01-01 00:00:00 | 
+ UN       | CAN    | Nunavut                   | 2022-01-01 00:00:00 | 
 (95 rows)
 

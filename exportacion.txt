@@ -1,8 +1,8 @@
- c_exportacion |                                      descripcion                                      
----------------+---------------------------------------------------------------------------------------
-             1 | No aplica
-             2 | Definitiva con clave A1
-             3 | Temporal
-             4 | Definitiva con clave distinta a A1 o cuando no existe enajenación en términos del CFF
+ c_exportacion |                                      descripcion                                      |       inicio        | fin 
+---------------+---------------------------------------------------------------------------------------+---------------------+-----
+ 01            | No aplica                                                                             | 2022-01-01 00:00:00 | 
+ 02            | Definitiva con clave A1                                                               | 2022-01-01 00:00:00 | 
+ 03            | Temporal                                                                              | 2022-01-01 00:00:00 | 
+ 04            | Definitiva con clave distinta a A1 o cuando no existe enajenación en términos del CFF | 2022-02-25 00:00:00 | 
 (4 rows)
 

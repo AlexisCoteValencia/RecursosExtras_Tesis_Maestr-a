@@ -1,0 +1,23 @@
+ rangfijo | valmin | valmax  |           impuesto           | factor | traslado | retencion |         ini         | fin 
+----------+--------+---------+------------------------------+--------+----------+-----------+---------------------+-----
+ Fijo     |        |         | IVA                          | Tasa   | Sí       | No        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.16    | IVA                          | Tasa   | Sí       | No        | 2022-01-01 00:00:00 | 
+ Rango    | 0      | 0.16    | IVA                          | Tasa   | No       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.08    | IVA Crédito aplicado del 50% | Tasa   | Sí       | No        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.265   | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.3     | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.53    | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.5     | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 1.6     | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.304   | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.25    | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.09    | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.08    | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.07    | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.06    | IEPS                         | Tasa   | Sí       | Sí        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0.03    | IEPS                         | Tasa   | Sí       | No        | 2022-01-01 00:00:00 | 
+ Fijo     |        | 0       | IEPS                         | Tasa   | Sí       | No        | 2022-01-01 00:00:00 | 
+ Rango    | 0      | 69.5255 | IEPS                         | Cuota  | Sí       | Sí        | 2025-01-01 00:00:00 | 
+ Rango    | 0      | 0.35    | ISR                          | Tasa   | No       | Sí        | 2022-01-01 00:00:00 | 
+(19 rows)
+
